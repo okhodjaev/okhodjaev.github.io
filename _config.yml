@@ -1,0 +1,48 @@
+# Site Settings
+title: "Oybek Khodjaev"
+subtitle: "AI Governance & Systems Transformation"
+name: "Oybek Khodjaev"
+description: "Analysis at the intersection of governance, institutional control, and artificial intelligence"
+url: "https://okhodjaev.com"
+baseurl: ""
+repository: "okhodjaev/okhodjaev.github.io"
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
+
+# Author
+author:
+  name: "Oybek Khodjaev"
+  bio: "Systems transformation analyst | Former Deputy Governor & Deputy Bank Chairman | Witnessed the Soviet collapse — now examining AI governance through that lens."
+  location: "Tashkent, Uzbekistan"
+  links:
+    - label: "Substack"
+      icon: "fas fa-fw fa-envelope"
+      url: "https://okhodjaev.substack.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/oybekkhodjaev"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
