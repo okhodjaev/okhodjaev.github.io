@@ -8,37 +8,10 @@ permalink: /contact/
 
 **Email:** oybek.kh@gmail.com
 
-**Newsletter:** Subscribe at [okhodjaev.substack.com](https://okhodjaev.substack.com)
+**Newsletter:** Subscribe at <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
-**LinkedIn:** [linkedin.com/in/oybekkhodjaev](https://linkedin.com/in/oybekkhodjaev)
+**LinkedIn:** <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">linkedin.com/in/oybek-khodjaev</a>
 
 ---
 
 For media inquiries, speaking engagements, or collaboration opportunities, please email directly.
-```
-
-### **Commit этот файл.**
-
----
-
-## ПОСЛЕ СОЗДАНИЯ ВСЕХ 5 ФАЙЛОВ:
-
-### **Активируйте GitHub Pages:**
-
-1. **Зайдите в Settings репозитория:**  
-   https://github.com/okhodjaev/okhodjaev.github.io/settings/pages
-
-2. **В секции "Build and deployment":**
-   - Source: **Deploy from a branch**
-   - Branch: **main** (или **master**, в зависимости от того, как называется ваша ветка)
-   - Folder: **/ (root)**
-
-3. **Нажмите Save**
-
-4. **Подождите 2–3 минуты**
-
-5. **Откройте:** https://okhodjaev.github.io
-
-6. **Напишите мне:**
-```
-   Сайт работает: okhodjaev.github.io
