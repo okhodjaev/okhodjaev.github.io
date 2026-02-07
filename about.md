@@ -47,6 +47,6 @@ I don't have all the answers. I have questions shaped by watching systems fall a
 
 ---
 
-**Subscribe to my newsletter:** [okhodjaev.substack.com](https://okhodjaev.substack.com)
+**Subscribe to my newsletter:** <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
-**Connect on LinkedIn:** [linkedin.com/in/oybek-khodjaev](https://linkedin.com/in/oybek-khodjaev)
+**Connect on LinkedIn:** <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">linkedin.com/in/oybek-khodjaev</a>
