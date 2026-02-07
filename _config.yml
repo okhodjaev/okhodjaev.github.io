@@ -46,3 +46,5 @@ defaults:
     values:
       layout: single
       author_profile: false
+# Favicon
+logo: "/favicon.ico"
