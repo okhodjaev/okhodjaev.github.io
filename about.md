@@ -49,4 +49,4 @@ I don't have all the answers. I have questions shaped by watching systems fall a
 
 **Subscribe to my newsletter:** [okhodjaev.substack.com](https://okhodjaev.substack.com)
 
-**Connect on LinkedIn:** [linkedin.com/in/oybekkhodjaev](https://linkedin.com/in/oybekkhodjaev)
+**Connect on LinkedIn:** [linkedin.com/in/oybekkhodjaev](https://linkedin.com/in/oybek-khodjaev)
