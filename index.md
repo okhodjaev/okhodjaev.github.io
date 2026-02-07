@@ -11,12 +11,12 @@ Today, I examine how AI reshapes power dynamics and institutional control.
 
 ## Latest Essays
 
-All essays are published on [Substack](https://okhodjaev.substack.com) with full email delivery.
+All essays are published on <a href="https://okhodjaev.substack.com" target="_blank">Substack</a> with full email delivery.
 
 **Coming soon:**
 - The Illusion of Control: AI Governance and the Lessons of Systemic Collapse
 
-Subscribe at [okhodjaev.substack.com](https://okhodjaev.substack.com)
+Subscribe at <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
 ---
 
