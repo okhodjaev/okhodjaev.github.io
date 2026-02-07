@@ -6,7 +6,7 @@ permalink: /essays/
 
 Analysis at the intersection of AI governance, institutional control, and systemic transformation.
 
-All essays are published on [Substack](https://okhodjaev.substack.com) with full email delivery.
+All essays are published on <a href="https://okhodjaev.substack.com" target="_blank">Substack</a> with full email delivery.
 
 ## Coming Soon
 
@@ -16,4 +16,4 @@ I witnessed institutions designed to last forever disintegrate in months. Now I 
 
 ---
 
-**Subscribe to receive weekly essays:** [okhodjaev.substack.com](https://okhodjaev.substack.com)
+**Subscribe to receive weekly essays:** <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
