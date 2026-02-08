@@ -1,3 +1,6 @@
+header:
+  nav: true
+
 # Site Settings
 title: "Oybek Khodjaev"
 subtitle: "AI Governance & Systems Transformation"
@@ -40,18 +43,19 @@ exclude:
   - vendor
 
 # Navigation
-navigation:
-  - title: "Home"
-    url: /
+nav:
+  main:
+    - title: "Home"
+      url: /
 
-  - title: "Essays"
-    url: /essays/
+    - title: "Essays"
+      url: /essays/
 
-  - title: "About"
-    url: /about/
+    - title: "About"
+      url: /about/
 
-  - title: "Contact"
-    url: /contact/
+    - title: "Contact"
+      url: /contact/
 
 # Defaults
 defaults:
