@@ -43,10 +43,13 @@ exclude:
 navigation:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
+
   - title: "Essays"
     url: /essays/
+
+  - title: "About"
+    url: /about/
+
   - title: "Contact"
     url: /contact/
 
