@@ -1,1 +1,24 @@
+/* ================================
+   Footer width & alignment fix
+   ================================ */
 
+.page__footer {
+  background-color: #f3f2ed; /* оставляем цвет темы */
+}
+
+.page__footer > .wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+}
+
+/* Center footer content */
+.page__footer-follow,
+.page__footer-copyright {
+  text-align: left;
+}
+
+/* Footer icons spacing */
+.page__footer-follow .social-icons {
+  margin-bottom: 0.75rem;
+}
