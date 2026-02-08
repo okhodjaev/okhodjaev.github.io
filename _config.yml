@@ -39,6 +39,17 @@ exclude:
   - node_modules
   - vendor
 
+# Navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Essays"
+    url: /essays/
+  - title: "Contact"
+    url: /contact/
+
 # Defaults
 defaults:
   - scope:
