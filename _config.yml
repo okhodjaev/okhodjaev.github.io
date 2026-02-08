@@ -1,7 +1,12 @@
+# =====================================================
+# Header
+# =====================================================
 header:
   nav: true
 
+# =====================================================
 # Site Settings
+# =====================================================
 title: "Oybek Khodjaev"
 subtitle: "AI Governance & Systems Transformation"
 name: "Oybek Khodjaev"
@@ -10,15 +15,20 @@ url: "https://okhodjaev.com"
 baseurl: ""
 repository: "okhodjaev/okhodjaev.github.io"
 
+# =====================================================
 # Theme
+# =====================================================
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
-# Author
+# =====================================================
+# Author (ЕДИНЫЙ БЛОК — БЕЗ ДУБЛЕЙ)
+# =====================================================
 author:
   name: "Oybek Khodjaev"
   bio: "Systems transformation analyst | Former Deputy Governor & Deputy Bank Chairman | Witnessed the Soviet collapse — now examining AI governance through that lens."
   location: "Tashkent, Uzbekistan"
+  avatar: "/assets/images/profile.jpg"
   links:
     - label: "Substack"
       icon: "fas fa-fw fa-envelope"
@@ -27,22 +37,9 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/oybek-khodjaev"
 
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-include-cache
-
-# Exclude
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-
-# Navigation
+# =====================================================
+# Navigation (ГЛАВНОЕ МЕНЮ)
+# =====================================================
 nav:
   main:
     - title: "Home"
@@ -57,34 +54,57 @@ nav:
     - title: "Contact"
       url: /contact/
 
-# Defaults
+# =====================================================
+# Build settings
+# =====================================================
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# =====================================================
+# Exclude
+# =====================================================
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# =====================================================
+# Defaults (ВАЖНО: БЕЗ layout: single)
+# =====================================================
 defaults:
   - scope:
       path: ""
     values:
-      layout: single
       author_profile: false
 
-# Date format
+# =====================================================
+# Date / Time
+# =====================================================
 date_format: "%B %d, %Y"
 timezone: America/New_York
 
+# =====================================================
 # Favicon
+# =====================================================
 head_scripts:
   - <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
-author:
-  avatar: "/assets/images/profile.jpg"
-
+# =====================================================
+# Footer
+# =====================================================
 footer:
   links:
     - label: "Substack"
       icon: "fas fa-fw fa-envelope"
       url: "https://okhodjaev.substack.com"
-    - label: "X.com"
-      icon: "fab fa-fw fa-X-twitter"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://x.com/O_Khodjaev"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/oybek-khodjaev/"
-   
