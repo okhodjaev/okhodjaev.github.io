@@ -1,35 +1,35 @@
 /* ================================
-   FINAL & ONLY footer override
+   FINAL footer spacing fix
    ================================ */
 
+/* убираем лишний отступ перед футером */
+.page__content {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* убираем линию и воздух над футером */
 .page__footer {
-  padding: 0.4rem 0 !important;
+  border-top: none !important;
+  margin-top: 0 !important;
+  padding-top: 0.6rem !important;
+  padding-bottom: 0.6rem !important;
 }
 
-.page__footer > .wrapper {
-  padding: 0 !important;
-  margin: 0 auto !important;
+/* сжимаем внутренний контейнер */
+.page__footer .wrapper {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
 }
 
-.page__footer-follow {
-  margin: 0 !important;
-}
-
-.page__footer-follow .social-icons {
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-.page__footer-follow .social-icons li {
-  margin: 0 1rem 0 0 !important;
-}
-
-.page__footer-follow a {
-  line-height: 1 !important;
+/* делаем ссылки компактными */
+.page__footer a {
+  line-height: 1.1;
   font-size: 0.9rem;
 }
 
+/* копирайт — аккуратно и близко */
 .page__footer-copyright {
-  margin-top: 0.15rem !important;
+  margin-top: 0.25rem !important;
   font-size: 0.85rem;
 }
