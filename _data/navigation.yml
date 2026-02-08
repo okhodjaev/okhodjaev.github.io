@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Essays"
+    url: /essays/
+
+  - title: "About"
+    url: /about/
+
+  - title: "Contact"
+    url: /contact/
