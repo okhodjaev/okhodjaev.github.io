@@ -8,12 +8,12 @@ I'm Oybek Khodjaev — a systems transformation analyst examining AI governance.
 
 ## My journey:
 
-Born in 1969 in Samarkand, I came of age during the final years of the Soviet Union. I witnessed Perestroika's promises and the USSR's collapse. I saw firsthand how institutions designed to last forever disintegrated in months.
+Born in 1969 in Samarkand, I came of age during the final years of the Soviet Union. I witnessed Perestroika's promises and the USSR's collapse. I saw how institutions designed to last forever disintegrated in months.
 
 For over 30 years, I've navigated systemic transitions:
 
 - **Finance & Banking:** Deputy Chairman of the Board, Uzagroindustrialbank; leading roles in lending, treasury, investment, and risk management
-- **Government:** Deputy Governor of Samarkand Region (2019–2022), overseeing investment and foreign trade
+- **Government:** Deputy Governor of Samarkand Region, overseeing investment and foreign trade
 - **Private Sector:** Founder & CEO of INVEXI, advising on strategic transformations across CIS countries
 
 ## Why AI governance matters to me:
@@ -40,7 +40,7 @@ I've seen this movie before. It doesn't end well.
 My analysis draws from direct experience with:
 - Institutional collapse (USSR)
 - Economic transformation (post-Soviet transitions)
-- Digital transformation (Uzbekistan regional government)
+- Observation and analysis of digital transformation processes within regional government systems
 - Cross-sector governance (finance, government, private sector)
 
 I don't have all the answers. I have questions shaped by watching systems fall apart.
