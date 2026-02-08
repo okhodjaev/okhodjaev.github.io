@@ -79,3 +79,37 @@
   margin-top: 0.2rem !important;
   font-size: 0.85rem;
 }
+/* === FINAL footer fix === */
+
+.page__footer {
+  padding-top: 0.4rem !important;
+  padding-bottom: 0.4rem !important;
+}
+
+.page__footer-follow {
+  margin-bottom: 0.25rem !important;
+}
+
+.page__footer .social-icons {
+  margin-bottom: 0 !important;
+}
+
+.page__footer .social-icons li {
+  margin-bottom: 0 !important;
+}
+
+.page__footer a {
+  line-height: 1 !important;
+}
+
+.page__footer-copyright {
+  margin-top: 0.15rem !important;
+  font-size: 0.85rem;
+}
+
+/* simple X text styling */
+.x-text {
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-right: 0.15rem;
+}
