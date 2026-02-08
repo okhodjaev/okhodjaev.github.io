@@ -47,6 +47,5 @@ defaults:
       layout: single
       author_profile: false
 # Favicon
-logo: "/favicon.ico"
 head_scripts:
   - <link rel="icon" type="image/x-icon" href="/favicon.ico">
