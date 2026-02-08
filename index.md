@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: page-no-sidebar
 title: ""
-header:
-  show_title: false
+permalink: /
 ---
 I’m Oybek Khodjaev — an independent systems transformation analyst examining AI governance.
 
