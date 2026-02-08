@@ -12,6 +12,8 @@ permalink: /contact/
 
 **LinkedIn:** <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">linkedin.com/in/oybek-khodjaev</a>
 
+**X.com** (public analysis): <a href="https://x.com/O_Khodjaev/" target="_blank">x.com/O_Khodjaev</a>
+
 ---
 
 For media inquiries, speaking engagements, or collaboration opportunities, please email directly.
