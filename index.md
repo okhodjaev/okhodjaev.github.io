@@ -1,3 +1,8 @@
+---
+layout: home
+title: "Oybek Khodjaev"
+---
+
 I’m Oybek Khodjaev — an independent systems transformation analyst examining AI governance.
 
 For over 30 years, I have worked across finance, banking, government, and business, including serving as Deputy Governor of Samarkand Region. I witnessed the collapse of the Soviet Union from inside and have observed how large systems transform, lose control, and sometimes fail.
