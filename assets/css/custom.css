@@ -1,35 +1,22 @@
-/* ================================
-   FINAL footer spacing fix
-   ================================ */
+/* ======================================
+   FINAL layout cleanup (before footer)
+   ====================================== */
 
-/* убираем лишний отступ перед футером */
+/* Убираем линию перед футером */
+.page__content + hr,
+.page__content-divider {
+  display: none !important;
+}
+
+/* Убираем лишний отступ после контента */
 .page__content {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
 }
 
-/* убираем линию и воздух над футером */
+/* Подтягиваем футер вплотную */
 .page__footer {
-  border-top: none !important;
   margin-top: 0 !important;
-  padding-top: 0.6rem !important;
-  padding-bottom: 0.6rem !important;
-}
-
-/* сжимаем внутренний контейнер */
-.page__footer .wrapper {
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
-}
-
-/* делаем ссылки компактными */
-.page__footer a {
-  line-height: 1.1;
-  font-size: 0.9rem;
-}
-
-/* копирайт — аккуратно и близко */
-.page__footer-copyright {
-  margin-top: 0.25rem !important;
-  font-size: 0.85rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
 }
