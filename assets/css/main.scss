@@ -5,7 +5,7 @@
 @import "minimal-mistakes";
 
 /* Подключение шрифтов из Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Libertinus+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Libertinus+Serif:ital,wght@0,400;0,700;1,400&display=swap');
 
 /* Custom background color */
 body {
@@ -16,23 +16,23 @@ body {
   background-color: #f0eee6;
 }
 
-/* Typography - matching Dario Amodei style */
+/* Typography */
 body {
-  font-family: 'Cardo', serif; /* Основной шрифт */
+  font-family: 'Cardo', serif;
+  font-weight: 400;
   font-size: 18px;
   line-height: 1.6;
   color: #2c3e50;
 }
 
-h1, h2, h3, h4 {
-  font-family: 'Libertinus Serif Display', serif; /* Шрифт для заголовков */
-  font-weight: 700; /* Жирный для выделения */
-  color: #1a202c;
+h1, h2, h3, h4, .page__title, .site-title {
+  font-family: 'Libertinus Serif', serif;
+  font-weight: 700;
+  letter-spacing: -0.025em;
 }
 
 .page__title {
   font-size: 2.5em;
-  font-weight: 700;
 }
 
 /* Links */
@@ -46,15 +46,18 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Masthead (header) */
+/* Masthead (header) - ИСПРАВЛЕНО */
+.site-header {
+  background-color: #f0eee6 !important;
+  border-bottom: 1px solid #d1cfc4 !important;
+}
+
 .masthead {
-  background-color: #f0eee6;
-  border-bottom: 1px solid #d1cfc4;
+  background-color: #f0eee6 !important;
 }
 
 .site-title {
   font-size: 1.5em;
-  font-weight: 600;
 }
 
 /* Footer */
