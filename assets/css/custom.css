@@ -1,17 +1,25 @@
-/* ======================================
-   FINAL layout cleanup (before footer)
-   ====================================== */
+/* =========================================
+   HARD FIX: remove empty block before footer
+   ========================================= */
 
-/* Убираем линию перед футером */
-.page__content + hr,
+/* Убираем служебную линию темы */
+.page__inner-wrap hr,
+.page__content hr,
 .page__content-divider {
   display: none !important;
 }
 
-/* Убираем лишний отступ после контента */
+/* Убираем нижние отступы контента */
+.page__inner-wrap,
 .page__content {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
+}
+
+/* Убираем пустое пространство,
+   которое тема оставляет перед футером */
+.page__content:last-child {
+  margin-bottom: 0 !important;
 }
 
 /* Подтягиваем футер вплотную */
