@@ -22,3 +22,38 @@
 .page__footer-follow .social-icons {
   margin-bottom: 0.75rem;
 }
+/* ===== Clean minimal footer ===== */
+
+.page__footer {
+  padding: 0.75rem 0;
+}
+
+.footer-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.footer-links {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.footer-links a {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.9rem;
+}
+
+.x-icon {
+  width: 14px;
+  height: 14px;
+}
+
+.footer-copy {
+  font-size: 0.85rem;
+  color: #555;
+}
