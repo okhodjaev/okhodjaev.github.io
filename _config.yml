@@ -62,7 +62,7 @@ nav:
 # =====================================================
 markdown: kramdown
 plugins:
-    - jekyll-seo-tag
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
 
@@ -76,13 +76,15 @@ exclude:
   - vendor
 
 # =====================================================
-# Defaults
+# Defaults (CRITICAL)
 # =====================================================
 defaults:
   - scope:
       path: ""
     values:
+      layout: single
       author_profile: false
+      sidebar: false
 
 # =====================================================
 # Date / Time
@@ -91,12 +93,8 @@ date_format: "%B %d, %Y"
 timezone: America/New_York
 
 # =====================================================
-# Favicon
+# Assets
 # =====================================================
 head_scripts:
   - <link rel="icon" type="image/x-icon" href="/favicon.ico">
   - <link rel="stylesheet" href="/assets/css/custom.css">
-
-# =====================================================
-# Footer
-# =====================================================
