@@ -1,22 +1,24 @@
 <footer class="page__footer">
-  <div class="wrapper">
-    <div class="page__footer-follow">
-      {% if site.footer.links %}
-        <ul class="social-icons">
-          {% for link in site.footer.links %}
-            <li>
-             <a href="https://x.com/O_Khodjaev" rel="nofollow noopener noreferrer">
-              <img src="/images/x.svg" alt="X" style="width:16px;height:16px;vertical-align:middle;">
-              <span class="label">X</span>
-             </a>
-            </li>
-          {% endfor %}
-        </ul>
-      {% endif %}
+  <div class="footer-inner">
+    <div class="footer-links">
+      <a href="https://okhodjaev.substack.com" aria-label="Substack">
+        <i class="fas fa-envelope"></i>
+        <span>Substack</span>
+      </a>
+
+      <a href="https://x.com/O_Khodjaev" aria-label="X">
+        <img src="/images/x.svg" alt="X" class="x-icon">
+        <span>X</span>
+      </a>
+
+      <a href="https://www.linkedin.com/in/oybek-khodjaev/" aria-label="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+        <span>LinkedIn</span>
+      </a>
     </div>
 
-    <div class="page__footer-copyright">
-      © {{ site.time | date: "%Y" }} {{ site.title }}
+    <div class="footer-copy">
+      © {{ site.time | date: "%Y" }} Oybek Khodjaev
     </div>
   </div>
 </footer>
