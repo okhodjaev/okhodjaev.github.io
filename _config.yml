@@ -58,6 +58,10 @@ defaults:
       layout: single
       author_profile: false
 
+# Date format
+date_format: "%B %d, %Y"
+timezone: America/New_York
+
 # Favicon
 head_scripts:
   - <link rel="icon" type="image/x-icon" href="/favicon.ico">
