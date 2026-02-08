@@ -1,8 +1,3 @@
----
-layout: home
-title: "AI Governance & Systems Transformation"
----
-
 I'm Oybek Khodjaev — a systems transformation analyst examining AI governance.
 
 With 30+ years navigating finance, banking, and government—including as Deputy Governor of Samarkand Region (2019–2022)—I witnessed the Soviet collapse from inside and led digital transformation efforts in Uzbekistan.
