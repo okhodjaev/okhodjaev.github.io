@@ -1,115 +1,35 @@
 /* ================================
-   Footer width & alignment fix
+   FINAL & ONLY footer override
    ================================ */
 
 .page__footer {
-  background-color: #f3f2ed; /* оставляем цвет темы */
+  padding: 0.4rem 0 !important;
 }
 
 .page__footer > .wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 1.5rem 1rem;
-}
-
-/* Center footer content */
-.page__footer-follow,
-.page__footer-copyright {
-  text-align: left;
-}
-
-/* Footer icons spacing */
-.page__footer-follow .social-icons {
-  margin-bottom: 0.75rem;
-}
-/* ===== Clean minimal footer ===== */
-
-.page__footer {
-  padding: 0.75rem 0;
-}
-
-.footer-inner {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-
-.footer-links {
-  display: flex;
-  gap: 1.5rem;
-  align-items: center;
-  margin-bottom: 0.5rem;
-}
-
-.footer-links a {
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-  font-size: 0.9rem;
-}
-
-.x-icon {
-  width: 14px;
-  height: 14px;
-}
-
-.footer-copy {
-  font-size: 0.85rem;
-  color: #555;
-}
-/* ===== Compact footer fix ===== */
-
-.page__footer {
-  padding: 0.6rem 0 !important;
+  padding: 0 !important;
+  margin: 0 auto !important;
 }
 
 .page__footer-follow {
-  margin-bottom: 0.3rem !important;
+  margin: 0 !important;
+}
+
+.page__footer-follow .social-icons {
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 .page__footer-follow .social-icons li {
-  margin-bottom: 0 !important;
+  margin: 0 1rem 0 0 !important;
 }
 
 .page__footer-follow a {
-  line-height: 1.2;
-}
-
-.page__footer-copyright {
-  margin-top: 0.2rem !important;
-  font-size: 0.85rem;
-}
-/* === FINAL footer fix === */
-
-.page__footer {
-  padding-top: 0.4rem !important;
-  padding-bottom: 0.4rem !important;
-}
-
-.page__footer-follow {
-  margin-bottom: 0.25rem !important;
-}
-
-.page__footer .social-icons {
-  margin-bottom: 0 !important;
-}
-
-.page__footer .social-icons li {
-  margin-bottom: 0 !important;
-}
-
-.page__footer a {
   line-height: 1 !important;
+  font-size: 0.9rem;
 }
 
 .page__footer-copyright {
   margin-top: 0.15rem !important;
   font-size: 0.85rem;
-}
-
-/* simple X text styling */
-.x-text {
-  font-weight: 700;
-  font-size: 0.9rem;
-  margin-right: 0.15rem;
 }
