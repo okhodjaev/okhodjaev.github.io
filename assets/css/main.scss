@@ -47,11 +47,20 @@ a:hover {
 }
 
 .masthead,
+.masthead *,
 .site-header,
-.masthead__inner-wrap {
+.site-header *,
+.masthead__inner-wrap,
+.masthead__inner-wrap * {
   background-color: #f0eee6 !important;
   background-image: none !important;
-  border-bottom: 1px solid #d1cfc4 !important;
+  border: none !important;
+}
+
+.masthead::before,
+.masthead::after {
+  background-color: #f0eee6 !important;
+  background-image: none !important;
 }
 
 .page__footer {
