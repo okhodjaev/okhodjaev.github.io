@@ -3,26 +3,24 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
-
-/* Исправленное подключение шрифтов (без пробелов!) */
 @import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
 
-/* Фон для всей страницы */
-body {
-  background-color: #f0eee6;
-}
-
+body,
 .page {
   background-color: #f0eee6;
 }
 
-/* Единый шрифт Cardo для всего сайта */
-body, h1, h2, h3, h4, .page__title, .site-title {
+body,
+h1,
+h2,
+h3,
+h4,
+.page__title,
+.site-title {
   font-family: 'Cardo', serif;
   color: #2c3e50;
 }
 
-/* Размеры шрифтов */
 body {
   font-size: 18px;
   line-height: 1.6;
@@ -38,7 +36,6 @@ body {
   font-weight: 700;
 }
 
-/* Ссылки */
 a {
   color: #2563eb;
   text-decoration: none;
@@ -49,17 +46,14 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Шапка (FIXED) - КРИТИЧЕСКИ ВАЖНО */
 .masthead,
 .site-header,
-.masthead__inner-wrap,
-.site-header .masthead__inner-wrap {
+.masthead__inner-wrap {
   background-color: #f0eee6 !important;
   background-image: none !important;
   border-bottom: 1px solid #d1cfc4 !important;
 }
 
-/* Футер */
 .page__footer {
   background-color: #e8e6db;
   border-top: 1px solid #d1cfc4;
