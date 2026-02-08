@@ -101,14 +101,3 @@ head_scripts:
 # =====================================================
 # Footer
 # =====================================================
-footer:
-  links:
-    - label: "Substack"
-      icon: "fas fa-fw fa-envelope"
-      url: "https://okhodjaev.substack.com"
-    - label: "X"
-      icon: "fab fa-twitter"
-      url: "https://x.com/O_Khodjaev"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/oybek-khodjaev/"
