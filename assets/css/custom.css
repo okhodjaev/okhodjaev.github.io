@@ -57,3 +57,25 @@
   font-size: 0.85rem;
   color: #555;
 }
+/* ===== Compact footer fix ===== */
+
+.page__footer {
+  padding: 0.6rem 0 !important;
+}
+
+.page__footer-follow {
+  margin-bottom: 0.3rem !important;
+}
+
+.page__footer-follow .social-icons li {
+  margin-bottom: 0 !important;
+}
+
+.page__footer-follow a {
+  line-height: 1.2;
+}
+
+.page__footer-copyright {
+  margin-top: 0.2rem !important;
+  font-size: 0.85rem;
+}
