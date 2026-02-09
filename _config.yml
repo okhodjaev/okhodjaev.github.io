@@ -3,10 +3,8 @@
 # =====================================================
 header:
   nav: true
-
 masthead:
   enabled: true
-
 # =====================================================
 # Site Settings
 # =====================================================
@@ -17,13 +15,11 @@ description: "Analysis at the intersection of governance, institutional control,
 url: "https://okhodjaev.com"
 baseurl: ""
 repository: "okhodjaev/okhodjaev.github.io"
-
 # =====================================================
 # Theme
 # =====================================================
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
-
 # =====================================================
 # Author
 # =====================================================
@@ -39,7 +35,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/oybek-khodjaev"
-
 # =====================================================
 # Navigation
 # =====================================================
@@ -47,16 +42,12 @@ nav:
   main:
     - title: "Home"
       url: /
-
     - title: "Essays"
       url: /essays/
-
     - title: "About"
       url: /about/
-
     - title: "Contact"
       url: /contact/
-
 # =====================================================
 # Build settings
 # =====================================================
@@ -65,7 +56,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
-
 # =====================================================
 # Exclude
 # =====================================================
@@ -74,7 +64,6 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
-
 # =====================================================
 # Defaults (CRITICAL)
 # =====================================================
@@ -84,13 +73,19 @@ defaults:
     values:
       layout: page-no-sidebar
       author_profile: false
-
 # =====================================================
 # Date / Time
 # =====================================================
 date_format: "%B %d, %Y"
 timezone: America/New_York
-
+# =====================================================
+# Google Analytics
+# =====================================================
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-WPSDD2E5H8"
+    anonymize_ip: false
 # =====================================================
 # Assets
 # =====================================================
