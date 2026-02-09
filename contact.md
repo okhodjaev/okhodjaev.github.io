@@ -16,10 +16,10 @@ permalink: /contact/
 
 My company website (INVEXI LLC): <a href="https://invexi.org/" target="_blank">https://invexi.org</a>
 
-**WhatsApp** (messenger): <a href="https://wa.me/998903528350" target="_blank">+998903528350</a>
+**WhatsApp**: <a href="https://wa.me/998903528350" target="_blank">+998903528350</a>
 
-**Telegram:** (messenger): <a href="https://t.me/oybek_khodjaev" target="_blank">@oybek_khodjaev</a>
+**Telegram**: <a href="https://t.me/oybek_khodjaev" target="_blank">@oybek_khodjaev</a>
 
 ---
 
-*For any questions or collaboration opportunities, please reach out via email.*
+*For questions or collaboration opportunities, please reach out via email.*
