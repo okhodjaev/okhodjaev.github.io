@@ -6,7 +6,7 @@ permalink: /contact/
 
 ## Get in Touch
 
-**Email:** oybek.kh@gmail.com
+**Email:** ok@okhodjaev.com
 
 **Newsletter:** Subscribe at <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
