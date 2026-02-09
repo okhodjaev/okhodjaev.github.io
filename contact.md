@@ -22,4 +22,4 @@ My company website (INVEXI LLC): <a href="https://invexi.org/" target="_blank">h
 
 ---
 
-For media inquiries, speaking engagements, or collaboration opportunities, please email directly.
+*For any questions or collaboration opportunities, please reach out via email.*
