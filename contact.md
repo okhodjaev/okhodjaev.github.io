@@ -14,6 +14,8 @@ permalink: /contact/
 
 **X.com** (public analysis): <a href="https://x.com/O_Khodjaev/" target="_blank">x.com/O_Khodjaev</a>
 
+My company website: <a href="https://invexi.org/" target="_blank">https://invexi.org/</a>
+
 ---
 
 For media inquiries, speaking engagements, or collaboration opportunities, please email directly.
