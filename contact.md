@@ -14,7 +14,7 @@ permalink: /contact/
 
 **X.com**: <a href="https://x.com/O_Khodjaev/" target="_blank">x.com/O_Khodjaev</a>
 
-My company website (INVEXI LLC): <a href="https://invexi.org/" target="_blank">https://invexi.org</a>
+My company — INVEXI LLC: <a href="https://invexi.org/" target="_blank">https://invexi.org</a>
 
 **WhatsApp**: <a href="https://wa.me/998903528350" target="_blank">+998903528350</a>
 
