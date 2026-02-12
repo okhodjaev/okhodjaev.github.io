@@ -3,7 +3,7 @@ title: "The Illusion of Control: What the Fall of the USSR Teaches Us About AI G
 date: 2026-02-12
 permalink: /essays/the-illusion-of-control/
 layout: single
-author_profile: true
+author_profile: false
 toc: true
 toc_label: "Contents"
 toc_icon: "file-text"
