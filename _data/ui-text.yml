@@ -1,1 +1,6 @@
-
+en: &DEFAULT_EN
+  date_label: "Published"
+en-US:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
