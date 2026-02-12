@@ -24,7 +24,7 @@ I witnessed institutions designed to last forever disintegrate in months. Now I 
 
 Three structural failure mechanisms — performative control, incentive misalignment, information asymmetry — traced from the 1991 Soviet collapse through the 2008 financial crisis to today's AI governance frameworks.
 
-*February 2026 · ~1,800 words · 8 sources*
+*February 12, 2026.*
 
 [**Read Essay →**](/essays/the-illusion-of-control/){: .btn .btn--primary}
 
