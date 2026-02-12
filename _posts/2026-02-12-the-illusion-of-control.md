@@ -148,7 +148,8 @@ No one in that hall in Tashkent on August 31, 1991, believed three months earlie
 
 ---
 
-*Oybek Khodjaev is a systems transformation analyst and Founder & CEO of INVEXI LLC. In 2019–2022 he served as Deputy Khokim of Samarkand Region. He brings nearly thirty years of experience in economics, banking, finance, and business in Uzbekistan and the CIS.*
-
-*For comments, questions, or a briefing request: [ok@okhodjaev.com](mailto:ok@okhodjaev.com)*
+*I am a systems transformation analyst and Founder & CEO of INVEXI LLC. 
+In 2019–2022 I served as Deputy Governor (Deputy Khokim) of Samarkand 
+Region. I write from nearly thirty years of experience in economics, 
+banking, finance, and business in Uzbekistan and the CIS.*
 
