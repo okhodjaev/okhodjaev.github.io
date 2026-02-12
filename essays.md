@@ -2,7 +2,7 @@
 title: "Essays"
 layout: single
 permalink: /essays/
-author_profile: true
+author_profile: false
 classes: wide
 ---
 
