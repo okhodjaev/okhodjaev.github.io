@@ -14,12 +14,11 @@ I write about how artificial intelligence is reshaping power dynamics, instituti
 
 ## Latest Essays
 ---
-
 ### [The Transparency Trap: Why More Data Does Not Mean More Accountability in AI Governance](/essays/the-transparency-trap/)
 
 AI governance instruments are rebuilding a familiar architecture: disclosure without enforceable accountability. Drawing on direct experience in Uzbekistan's banking sector, this essay identifies the structural mechanisms — window dressing, regulatory capture, speed asymmetry — that make transparency a trap rather than a solution.
 
-*February 21, 2026.* [**Read Essay →**](/essays/the-transparency-trap/)
+*February 17, 2026.* [**Read Essay →**](/essays/the-transparency-trap/)
 
 ---
 
