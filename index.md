@@ -13,7 +13,6 @@ For over thirty years, I have worked across finance, banking, government, and bu
 I write about how artificial intelligence is reshaping power dynamics, institutional control, and humanity's ability to govern what it creates. My perspective is unusual in this field: not a technologist or AI researcher, but a systems analyst who has watched governance frameworks succeed and collapse across thirty years of institutional practice in emerging markets.
 
 ## Latest Essays
-
 ---
 
 ### [The Transparency Trap: Why More Data Does Not Mean More Accountability in AI Governance](/essays/the-transparency-trap/)
