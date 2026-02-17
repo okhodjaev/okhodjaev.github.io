@@ -10,7 +10,7 @@ I'm Oybek Khodjaev — a systems transformation analyst examining AI governance.
 
 ## Background
 
-Born in 1969 in Samarkand, I came of age during the final years of the Soviet Union. I witnessed Perestroika's promises and the collapse of the USSR. I watched institutions designed to last forever disintegrate in months — and spent the following three decades working inside the systems that replaced them.
+Born in 1969 in Samarkand (Uzbekistan), I came of age during the final years of the Soviet Union. I witnessed Perestroika's promises and the collapse of the USSR. I watched institutions designed to last forever disintegrate in months — and spent the following three decades working inside the systems that replaced them.
 
 For over thirty years, I have navigated systemic transitions across finance, government, and the private sector:
 
