@@ -15,6 +15,19 @@ tags:
   - Emerging Markets
 ---
 
+#### Contents
+
+- [I. The Architecture of Declared Control](#i-the-architecture-of-declared-control)
+- [II. The Board That Thought It Had Power](#ii-the-board-that-thought-it-had-power)
+- [III. The 2008 Rehearsal](#iii-the-2008-rehearsal)
+- [IV. The Coordination Mirage](#iv-the-coordination-mirage)
+- [Implications](#implications)
+- [Signals to Watch](#signals-to-watch)
+- [The Questions That Remain Open](#the-questions-that-remain-open)
+- [Sources & Notes](#sources--notes)
+
+---
+
 *I was twenty-two years old on August 31, 1991.*
 
 That evening, my father came home from the Supreme Soviet session in Tashkent. My father — Doctor of Economics, People's Deputy, Chairman of the Committee on Economic Reforms — was one of those who directly participated in drafting the document. A document that, in a single session, dissolved what four generations of my family had been told: this is permanent, this is inevitable, this is indestructible. The Soviet Union — a nuclear superpower, the world's largest state, the system that had shaped every institution, every career, every assumption about how the world works — was ending.
