@@ -2,51 +2,48 @@
 layout: single
 title: "About"
 permalink: /about/
+author_profile: false
+classes: wide
 ---
 
 I'm Oybek Khodjaev — a systems transformation analyst examining AI governance.
 
-## My journey:
+## Background
 
-Born in 1969 in Samarkand, I came of age during the final years of the Soviet Union. I witnessed Perestroika's promises and the USSR's collapse. I saw how institutions designed to last forever disintegrated in months.
+Born in 1969 in Samarkand, I came of age during the final years of the Soviet Union. I witnessed Perestroika's promises and the collapse of the USSR. I watched institutions designed to last forever disintegrate in months — and spent the following three decades working inside the systems that replaced them.
 
-For over 30 years, I've navigated systemic transitions:
+For over thirty years, I have navigated systemic transitions across finance, government, and the private sector:
 
-- **Finance & Banking:** Deputy Chairman of the Board, Uzagroindustrialbank; leading roles in lending, treasury, investment, and risk management
-- **Government:** Deputy Governor of Samarkand Region, overseeing investment and foreign trade
-- **Private Sector:** Founder & CEO of INVEXI, advising on strategic transformations across CIS countries
+**Finance & Banking:** Deputy Chairman of the Management Board and Treasury Director at JSC UzAgroIndustrialBank; leading roles in lending, currency operations, investment, and risk management across the CIS.
 
-## Why AI governance matters to me:
+**Government:** Deputy Governor (Deputy Khokim) of Samarkand Region (2019–2022), overseeing investment attraction and foreign trade for a region of nearly four million people.
 
-I bring a different perspective to AI governance.
+**Private Sector:** Founder & CEO of INVEXI LLC, advising on strategic transformations, foreign direct investment, and institutional reform across Uzbekistan and CIS countries.
 
-I come from direct experience with institutional collapse and systemic transformation.
+## Why AI governance matters to me
 
-When I see today's AI governance debates, I recognize familiar patterns:
-- Institutions claiming control they don't have
-- Technical solutions to governance problems
-- Performative transparency without accountability
-- Belief that "this time is different"
+My perspective on AI governance is shaped by direct experience with institutional collapse and systemic transformation — not by academic study of it.
 
-I've seen this movie before. It doesn't end well.
+When I examine today's AI governance frameworks, I recognize patterns I have watched operate before: institutions claiming control they do not have, technical solutions applied to governance problems, performative transparency without accountability, and the persistent belief that this time is structurally different.
 
-## What I write about:
+The historical record suggests it rarely is. The mechanisms of institutional failure — the gap between declared authority and actual enforcement capacity — are remarkably consistent across contexts and decades.
 
-- How AI governance repeats patterns of failed institutional control
-- Lessons from post-Soviet collapse applied to AI safety
-- The gap between policy frameworks and power realities
-- Why current AI governance approaches may accelerate — not prevent — loss of control
+## What I write about
 
-My analysis draws from direct experience with:
-- Institutional collapse (USSR)
-- Economic transformation (post-Soviet transitions)
-- Observation and analysis of digital transformation processes within regional government systems
-- Cross-sector governance (finance, government, private sector)
+I analyze how AI governance repeats patterns of failed institutional control, drawing on lessons from post-Soviet transformation, the 2008 financial crisis, and thirty years of practitioner experience across banking, government, and business.
 
-I don't have all the answers. I have questions shaped by watching systems fall apart.
+My focus is not prediction but pattern recognition: identifying the structural mechanisms that produce governance failure before they produce governance collapse.
+
+I do not have all the answers. I have questions shaped by watching systems fall apart — and occasionally, by watching them hold.
 
 ---
 
-**Subscribe to my newsletter:** <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
+**Subscribe:** [okhodjaev.substack.com](https://okhodjaev.substack.com)
 
-**Connect on LinkedIn:** <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">linkedin.com/in/oybek-khodjaev</a>
+**LinkedIn:** [linkedin.com/in/oybek-khodjaev](https://www.linkedin.com/in/oybek-khodjaev/)
+
+**X.com:** [x.com/O_Khodjaev](https://x.com/O_Khodjaev)
+
+**Telegram (RU):** [t.me/AIGovernance_RU](https://t.me/AIGovernance_RU)
+
+**Telegram (UZ):** [t.me/AI_Governance_UZ](https://t.me/AI_Governance_UZ)
