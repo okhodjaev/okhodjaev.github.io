@@ -8,21 +8,21 @@ classes: wide
 
 ## Get in Touch
 
-**Email:** [ok@okhodjaev.com](mailto:ok@okhodjaev.com)
+**Email:** <a href="mailto:ok@okhodjaev.com">ok@okhodjaev.com</a>
 
-**Newsletter:** [okhodjaev.substack.com](https://okhodjaev.substack.com)
+**Newsletter:** <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
-**LinkedIn:** [linkedin.com/in/oybek-khodjaev](https://www.linkedin.com/in/oybek-khodjaev/)
+**LinkedIn:** <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">linkedin.com/in/oybek-khodjaev</a>
 
-**X.com:** [x.com/O_Khodjaev](https://x.com/O_Khodjaev)
+**X.com:** <a href="https://x.com/O_Khodjaev" target="_blank">x.com/O_Khodjaev</a>
 
-**Telegram (personal):** [@oybek_khodjaev](https://t.me/oybek_khodjaev)
+**Telegram (personal):** <a href="https://t.me/oybek_khodjaev" target="_blank">@oybek_khodjaev</a>
 
-**Telegram (RU — AI Governance):** [t.me/AIGovernance_RU](https://t.me/AIGovernance_RU)
+**Telegram (RU — AI Governance):** <a href="https://t.me/AIGovernance_RU" target="_blank">t.me/AIGovernance_RU</a>
 
-**Telegram (UZ — AI Governance):** [t.me/AI_Governance_UZ](https://t.me/AI_Governance_UZ)
+**Telegram (UZ — AI Governance):** <a href="https://t.me/AI_Governance_UZ" target="_blank">t.me/AI_Governance_UZ</a>
 
-**INVEXI LLC:** [invexi.org](https://invexi.org)
+**INVEXI LLC:** <a href="https://invexi.org" target="_blank">invexi.org</a>
 
 ---
 

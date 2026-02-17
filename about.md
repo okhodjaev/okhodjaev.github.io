@@ -10,7 +10,7 @@ I'm Oybek Khodjaev — a systems transformation analyst examining AI governance.
 
 ## Background
 
-Born in 1969 in Samarkand (Uzbekistan), I came of age during the final years of the Soviet Union. I witnessed Perestroika's promises and the collapse of the USSR. I watched institutions designed to last forever disintegrate in months — and spent the following three decades working inside the systems that replaced them.
+Born in 1969 in Samarkand, I came of age during the final years of the Soviet Union. I witnessed Perestroika's promises and the collapse of the USSR. I watched institutions designed to last forever disintegrate in months — and spent the following three decades working inside the systems that replaced them.
 
 For over thirty years, I have navigated systemic transitions across finance, government, and the private sector:
 
@@ -38,12 +38,12 @@ I do not have all the answers. I have questions shaped by watching systems fall 
 
 ---
 
-**Subscribe:** [okhodjaev.substack.com](https://okhodjaev.substack.com)
+**Subscribe:** <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
-**LinkedIn:** [linkedin.com/in/oybek-khodjaev](https://www.linkedin.com/in/oybek-khodjaev/)
+**LinkedIn:** <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">linkedin.com/in/oybek-khodjaev</a>
 
-**X.com:** [x.com/O_Khodjaev](https://x.com/O_Khodjaev)
+**X.com:** <a href="https://x.com/O_Khodjaev" target="_blank">x.com/O_Khodjaev</a>
 
-**Telegram (RU):** [t.me/AIGovernance_RU](https://t.me/AIGovernance_RU)
+**Telegram (RU):** <a href="https://t.me/AIGovernance_RU" target="_blank">t.me/AIGovernance_RU</a>
 
-**Telegram (UZ):** [t.me/AI_Governance_UZ](https://t.me/AI_Governance_UZ)
+**Telegram (UZ):** <a href="https://t.me/AI_Governance_UZ" target="_blank">t.me/AI_Governance_UZ</a>
