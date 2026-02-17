@@ -186,4 +186,3 @@ More than thirty years' experience in economics, banking, finance, and business 
 
 **Published** February 17, 2026
 
-[Substack](https://okhodjaev.substack.com) · [X.com](https://x.com/O_Khodjaev) · [LinkedIn](https://www.linkedin.com/in/oybek-khodjaev/)
