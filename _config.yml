@@ -28,6 +28,7 @@ author:
 
 # Build settings
 markdown: kramdown
+future: true
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -50,7 +51,7 @@ defaults:
 
 # Date / Time
 date_format: "%B %d, %Y"
-timezone: America/New_York
+timezone: UTC
 
 # Google Analytics
 analytics:
