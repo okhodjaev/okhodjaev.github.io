@@ -1,6 +1,7 @@
 ---
 title: "Essays"
 permalink: /essays/
+classes: wide
 ---
 
 These essays explore artificial intelligence not as a technological problem, but as a governance challenge.
