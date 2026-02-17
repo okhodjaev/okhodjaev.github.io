@@ -1,6 +1,7 @@
 ---
 title: "Oybek Khodjaev"
 permalink: /
+classes: wide
 ---
 
 I'm Oybek Khodjaev — an independent systems transformation analyst examining AI governance.
