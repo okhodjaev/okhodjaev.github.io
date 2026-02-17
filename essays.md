@@ -43,9 +43,9 @@ Three structural failure mechanisms — performative control, incentive misalign
 * **The Regulator's Dilemma** — building rules for systems that don't yet exist
 * **The Myth of Alignment** — why incentive structures override declared values
 * **The Colonial Pattern** — AI governance and the Global South
+* * **...**
 
 ---
 
 Subscribe to receive weekly essays: <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
