@@ -64,7 +64,7 @@ across Uzbekistan and the CIS.*
 
 **Published** Month DD, YYYY
 
-[Substack](https://okhodjaev.substack.com) · [X.com](https://x.com/O_Khodjaev) · [LinkedIn](https://www.linkedin.com/in/oybek-khodjaev/)
+<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
 ```
 
 **Важно:** Contents пишется ВРУЧНУЮ в тексте — НЕ через `toc: true` в front matter.

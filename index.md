@@ -1,10 +1,6 @@
 ---
-layout: single
-title: ""
+title: "Oybek Khodjaev"
 permalink: /
-author_profile: false
-related: false
-classes: wide
 ---
 
 I'm Oybek Khodjaev — an independent systems transformation analyst examining AI governance.
@@ -14,7 +10,9 @@ For over thirty years, I have worked across finance, banking, government, and bu
 I write about how artificial intelligence is reshaping power dynamics, institutional control, and humanity's ability to govern what it creates. My perspective is unusual in this field: not a technologist or AI researcher, but a systems analyst who has watched governance frameworks succeed and collapse across thirty years of institutional practice in emerging markets.
 
 ## Latest Essays
+
 ---
+
 ### [The Transparency Trap: Why More Data Does Not Mean More Accountability in AI Governance](/essays/the-transparency-trap/)
 
 AI governance instruments are rebuilding a familiar architecture: disclosure without enforceable accountability. Drawing on direct experience in Uzbekistan's banking sector, this essay identifies the structural mechanisms — window dressing, regulatory capture, speed asymmetry — that make transparency a trap rather than a solution.
@@ -31,12 +29,13 @@ The institutions now claiming to govern artificial intelligence are replicating 
 
 ---
 
-All essays are also published on [Substack](https://okhodjaev.substack.com) with full email delivery.
+All essays are also published on <a href="https://okhodjaev.substack.com" target="_blank">Substack</a> with full email delivery.
 
 **[View all essays →](/essays/)**
 
 ---
 
-**About:** [Learn more about my background](/about)  
+**About:** [Learn more about my background](/about/)
+**Contact:** [Get in touch](/contact/)
 
-**Contact:** [Get in touch](/contact)
+<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>

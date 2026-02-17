@@ -1,9 +1,6 @@
 ---
 title: "Essays"
-layout: single
 permalink: /essays/
-author_profile: false
-classes: wide
 ---
 
 These essays explore artificial intelligence not as a technological problem, but as a governance challenge.
@@ -36,7 +33,7 @@ Three structural failure mechanisms — performative control, incentive misalign
 
 *February 12, 2026.*
 
-[**Read Essay →**](/essays/the-illusion-of-control/){: .btn .btn--primary}
+[**Read Essay →**](/essays/the-illusion-of-control/)
 
 ---
 
@@ -45,9 +42,9 @@ Three structural failure mechanisms — performative control, incentive misalign
 * **The Regulator's Dilemma** — building rules for systems that don't yet exist
 * **The Myth of Alignment** — why incentive structures override declared values
 * **The Colonial Pattern** — AI governance and the Global South
-…
 
 ---
 
-Subscribe to receive weekly essays: [okhodjaev.substack.com](https://okhodjaev.substack.com)
+Subscribe to receive weekly essays: <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
+<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
