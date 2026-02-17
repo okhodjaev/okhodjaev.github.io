@@ -4,6 +4,7 @@ date: 2026-02-17
 permalink: /essays/the-transparency-trap/
 description: "AI governance instruments are rebuilding a familiar architecture: disclosure without enforceable accountability. The pattern has a name."
 tags: [AI governance, institutional risk, regulatory capture, transparency, systemic risk]
+classes: wide
 ---
 
 #### Contents
