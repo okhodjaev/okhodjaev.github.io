@@ -4,8 +4,6 @@ date: 2026-02-12
 permalink: /essays/the-illusion-of-control/
 layout: single
 author_profile: false
-toc: true
-toc_label: "Contents"
 toc_icon: "file-text"
 classes: wide
 excerpt: "Institutions now claiming to govern artificial intelligence are replicating a pattern I have watched destroy more durable systems than themselves. They are performing control rather than exercising it."
