@@ -43,7 +43,7 @@ Three structural failure mechanisms — performative control, incentive misalign
 * **The Regulator's Dilemma** — building rules for systems that don't yet exist
 * **The Myth of Alignment** — why incentive structures override declared values
 * **The Colonial Pattern** — AI governance and the Global South
-* * **...**
+* **...**
 
 ---
 
