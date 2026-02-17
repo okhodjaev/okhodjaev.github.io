@@ -184,5 +184,3 @@ Full essay and updated sources: [okhodjaev.com/essays/the-transparency-trap](htt
 Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
 More than thirty years' experience in economics, banking, finance, and business across Uzbekistan and the CIS.*
 
-**Published** February 17, 2026
-
