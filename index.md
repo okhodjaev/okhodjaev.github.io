@@ -36,6 +36,6 @@ All essays are also published on <a href="https://okhodjaev.substack.com" target
 ---
 
 **About:** [Learn more about my background](/about/)
+
 **Contact:** [Get in touch](/contact/)
 
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
