@@ -1,6 +1,6 @@
 ---
 title: "The Regulator's Dilemma: Why You Cannot Govern What You Cannot Keep Up With"
-date: 2026-02-243
+date: 2026-02-23
 permalink: /essays/the-regulators-dilemma/
 description: "AI regulators face an impossible trilemma: understand the technology, move quickly, maintain legitimacy. You can choose two. This essay traces that constraint from 1990s Uzbekistan capital markets to the EU AI Act."
 tags: [AI governance, regulation, institutional design, systemic risk, emerging markets]
