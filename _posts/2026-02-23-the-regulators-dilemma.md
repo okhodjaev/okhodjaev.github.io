@@ -184,5 +184,3 @@ Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury
 and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
 More than thirty years' experience in economics, banking, finance, and business
 across Uzbekistan and the CIS.*
-
-**Published** February 23, 2026
