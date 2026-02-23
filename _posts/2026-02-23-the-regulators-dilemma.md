@@ -1,6 +1,6 @@
 ---
 title: "The Regulator's Dilemma: Why You Cannot Govern What You Cannot Keep Up With"
-date: 2026-02-24
+date: 2026-02-243
 permalink: /essays/the-regulators-dilemma/
 description: "AI regulators face an impossible trilemma: understand the technology, move quickly, maintain legitimacy. You can choose two. This essay traces that constraint from 1990s Uzbekistan capital markets to the EU AI Act."
 tags: [AI governance, regulation, institutional design, systemic risk, emerging markets]
@@ -185,6 +185,6 @@ and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
 More than thirty years' experience in economics, banking, finance, and business
 across Uzbekistan and the CIS.*
 
-**Published** February 24, 2026
+**Published** February 23, 2026
 
 <a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
