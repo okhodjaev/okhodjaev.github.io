@@ -2,53 +2,44 @@
    FOOTER SPACING FIX
    ================================================ */
 
-/* Remove all horizontal rules */
-.page__inner-wrap hr,
-.page__content hr,
-hr {
-  display: none !important;
+#main {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
 }
 
-/* Remove content bottom margins */
-.page__inner-wrap,
-.page__content {
+.initial-content {
+  padding-bottom: 0 !important;
   margin-bottom: 0 !important;
+}
+
+.page {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.page__inner-wrap {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.page__content {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.page__footer {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
   padding-bottom: 0 !important;
 }
 
-/* Compact footer spacing */
-.page__footer {
-  margin-top: 1rem !important;
-  padding-top: 1rem !important;
-  padding-bottom: 1rem !important;
-}
-
-/* Remove extra padding inside footer */
-.page__footer-follow,
-.page__footer-copyright {
-  margin: 0 !important;
-  padding: 0.3rem 0 !important;
+/* Remove horizontal rules */
+hr {
+  display: none !important;
 }
 
 /* Compact footer icons */
 .page__footer .fab,
 .page__footer .fas {
   margin-right: 0.3rem;
-}
-
-/* Reduce whitespace before footer */
-.page__footer {
-  margin-top: 0 !important;
-}
-
-.page__content ~ * {
-  margin-bottom: 0;
-}
-
-body .page__footer {
-  padding-top: 0 !important;
-}
-
-.page {
-  padding-bottom: 1rem !important;
 }
