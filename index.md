@@ -1,5 +1,5 @@
 ---
-title: "Oybek Khodjaev"
+title: "AI Governance & Systems Transformation"
 permalink: /
 classes: wide
 ---
