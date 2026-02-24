@@ -1,54 +1,72 @@
 /* ================================================
-   FOOTER WHITESPACE FIX — FULL OVERRIDE
+   STICKY FOOTER FIX — FLEXBOX OVERRIDE
    ================================================ */
 
-/* Target min-height — this is the real culprit in Minimal Mistakes */
-#main,
-.initial-content,
-.page,
-.page__inner-wrap,
-.page__content,
-.page__hero,
-.page__lead {
+/* Disable sticky footer flexbox behavior */
+html, body {
+  height: auto !important;
+  min-height: 0 !important;
+}
+
+body {
+  display: block !important;
+  flex-direction: unset !important;
+}
+
+#main {
+  flex: 0 !important;
   min-height: 0 !important;
   padding-bottom: 0 !important;
   margin-bottom: 0 !important;
 }
 
-/* Remove all space above footer */
-.page__footer {
+.initial-content {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
   min-height: 0 !important;
+}
+
+.page {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.page__inner-wrap {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.page__content {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Footer itself — compact */
+.page__footer {
   margin-top: 0 !important;
   padding-top: 0 !important;
   padding-bottom: 0 !important;
+  min-height: 0 !important;
 }
 
-/* Remove inner footer elements spacing */
 .page__footer-follow,
 .page__footer-copyright {
-  min-height: 0 !important;
   margin: 0 !important;
   padding: 0 !important;
 }
 
-/* Remove horizontal rules everywhere */
-hr {
-  display: none !important;
-}
-
-/* Compact footer icons */
-.page__footer .fab,
-.page__footer .fas {
-  margin-right: 0.3rem;
-}
-
-/* Remove any ghost space from greedy wrappers */
 .wrapper {
   padding-bottom: 0 !important;
   margin-bottom: 0 !important;
 }
 
-/* Sidebar fix if present */
-.sidebar {
-  padding-bottom: 0 !important;
+/* Remove horizontal rules */
+hr {
+  display: none !important;
+}
+
+/* Footer icons */
+.page__footer .fab,
+.page__footer .fas {
+  margin-right: 0.3rem;
 }
