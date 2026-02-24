@@ -1,39 +1,37 @@
 /* ================================================
-   FOOTER SPACING FIX
+   FOOTER WHITESPACE FIX — FULL OVERRIDE
    ================================================ */
 
-#main {
+/* Target min-height — this is the real culprit in Minimal Mistakes */
+#main,
+.initial-content,
+.page,
+.page__inner-wrap,
+.page__content,
+.page__hero,
+.page__lead {
+  min-height: 0 !important;
   padding-bottom: 0 !important;
   margin-bottom: 0 !important;
 }
 
-.initial-content {
-  padding-bottom: 0 !important;
-  margin-bottom: 0 !important;
-}
-
-.page {
-  padding-bottom: 0 !important;
-  margin-bottom: 0 !important;
-}
-
-.page__inner-wrap {
-  padding-bottom: 0 !important;
-  margin-bottom: 0 !important;
-}
-
-.page__content {
-  padding-bottom: 0 !important;
-  margin-bottom: 0 !important;
-}
-
+/* Remove all space above footer */
 .page__footer {
+  min-height: 0 !important;
   margin-top: 0 !important;
   padding-top: 0 !important;
   padding-bottom: 0 !important;
 }
 
-/* Remove horizontal rules */
+/* Remove inner footer elements spacing */
+.page__footer-follow,
+.page__footer-copyright {
+  min-height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Remove horizontal rules everywhere */
 hr {
   display: none !important;
 }
@@ -42,4 +40,15 @@ hr {
 .page__footer .fab,
 .page__footer .fas {
   margin-right: 0.3rem;
+}
+
+/* Remove any ghost space from greedy wrappers */
+.wrapper {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Sidebar fix if present */
+.sidebar {
+  padding-bottom: 0 !important;
 }
