@@ -35,3 +35,20 @@ hr {
 .page__footer .fas {
   margin-right: 0.3rem;
 }
+
+/* Reduce whitespace before footer */
+.page__footer {
+  margin-top: 0 !important;
+}
+
+.page__content ~ * {
+  margin-bottom: 0;
+}
+
+body .page__footer {
+  padding-top: 0 !important;
+}
+
+.page {
+  padding-bottom: 1rem !important;
+}
