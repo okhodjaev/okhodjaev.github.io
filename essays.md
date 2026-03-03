@@ -5,11 +5,8 @@ classes: wide
 ---
 
 These essays explore artificial intelligence not as a technological problem, but as a governance challenge.
-
 They examine how AI reshapes power, institutional control, and humanity's capacity to govern systems that increasingly escape human oversight.
-
 Analysis at the intersection of AI governance, institutional control, and systemic transformation.
-
 All essays are published on Substack with full email delivery.
 
 ---
