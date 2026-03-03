@@ -3,23 +3,41 @@ title: "Essays"
 permalink: /essays/
 classes: wide
 ---
+
 These essays explore artificial intelligence not as a technological problem, but as a governance challenge.
+
 They examine how AI reshapes power, institutional control, and humanity's capacity to govern systems that increasingly escape human oversight.
+
 Analysis at the intersection of AI governance, institutional control, and systemic transformation.
+
 All essays are published on Substack with full email delivery.
+
 ---
+
 ## Published
 
+### [The Myth of Alignment: Why the AI Industry's Central Promise Is a Question of Power, Not Technology](/essays/the-myth-of-alignment/)
+
+The AI industry's central promise — that advanced AI systems can be reliably aligned to human values — misframes the problem it claims to solve. Alignment is not primarily a technical challenge. It is a question of power: who defines the values, who enforces them, and who bears the consequences when the gap between declared alignment and operational behavior can no longer be contained. Drawing on incentive misalignment in 1990s Uzbekistan banking, the OpenAI board crisis, and the structural exclusion of 6.4 billion people from value choices, this essay examines three levels of the alignment problem — and why only one is currently being addressed.
+
+*March 3, 2026.*
+
+[**Read Essay →**](/essays/the-myth-of-alignment/)
+
+---
+
 ### [The Regulator's Dilemma: Why You Cannot Govern What You Cannot Keep Up With](/essays/the-regulators-dilemma/)
+
 Every regulator facing a fast-moving technology confronts the same impossible constraint: understand it, move quickly, maintain legitimacy. Pick two. AI governance is attempting all three — and achieving none. Drawing on the 1990s Uzbekistan capital markets crisis and the structural limits of the EU AI Act, this essay traces the regulator's trilemma and why it has no clean exit.
 
-*February 23, 2026.*
+*February 25, 2026.*
 
 [**Read Essay →**](/essays/the-regulators-dilemma/)
 
 ---
 
 ### [The Transparency Trap: Why More Data Does Not Mean More Accountability in AI Governance](/essays/the-transparency-trap/)
+
 AI governance instruments are rebuilding a familiar architecture: disclosure without enforceable accountability. Drawing on direct experience in Uzbekistan's banking sector and three decades of institutional observation, this essay identifies the structural mechanisms — window dressing, regulatory capture, speed asymmetry — that make transparency a trap rather than a solution.
 
 *February 17, 2026.*
@@ -29,7 +47,9 @@ AI governance instruments are rebuilding a familiar architecture: disclosure wit
 ---
 
 ### [The Illusion of Control: What the Fall of the USSR Teaches Us About AI Governance](/essays/the-illusion-of-control/)
+
 I witnessed institutions designed to last forever disintegrate in months. Now I examine how AI governance debates repeat familiar patterns of failed institutional control.
+
 Three structural failure mechanisms — performative control, incentive misalignment, information asymmetry — traced from the 1991 Soviet collapse through the 2008 financial crisis to today's AI governance frameworks.
 
 *February 12, 2026.*
@@ -40,7 +60,6 @@ Three structural failure mechanisms — performative control, incentive misalign
 
 ## Coming Soon
 
-* **The Myth of Alignment** — why incentive structures override declared values
 * **The Colonial Pattern** — AI governance and the Global South
 
   **...**
