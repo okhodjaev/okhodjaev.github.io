@@ -27,7 +27,7 @@ The AI industry's central promise — that advanced AI systems can be reliably a
 
 Every regulator facing a fast-moving technology confronts the same impossible constraint: understand it, move quickly, maintain legitimacy. Pick two. AI governance is attempting all three — and achieving none. Drawing on the 1990s Uzbekistan capital markets crisis and the structural limits of the EU AI Act, this essay traces the regulator's trilemma and why it has no clean exit.
 
-*February 25, 2026.*
+*February 23, 2026.*
 
 [**Read Essay →**](/essays/the-regulators-dilemma/)
 
