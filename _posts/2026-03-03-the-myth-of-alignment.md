@@ -189,7 +189,3 @@ Full essay and updated sources: [okhodjaev.com/essays/the-myth-of-alignment/](ht
 ---
 
 *Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC. Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank. More than thirty years' experience in economics, banking, finance, and business across Uzbekistan and the CIS.*
-
-**Published** March 3, 2026
-
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
