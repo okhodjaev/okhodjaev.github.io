@@ -16,9 +16,7 @@ classes: wide
 
 **X.com:** <a href="https://x.com/O_Khodjaev" target="_blank">x.com/O_Khodjaev</a>
 
-**WhatsApp:** <a href="+998903528350" target="_blank">Mobile</a>
-
-**WhatsApp:** <a +998903528350>Mobile</a>
+**WhatsApp:** <a href="+998903528350" target="_blank">Mobile: +(998) 90 352 83 50</a>
 
 **Telegram (personal):** <a href="https://t.me/oybek_khodjaev" target="_blank">@oybek_khodjaev</a>
 
