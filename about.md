@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-<img src="/assets/profile.png" alt="Oybek Khodjaev" style="float: right; margin: 0 0 24px 36px; width: 220px; border-radius: 4px;">
+<img src="/assets/profile.png" alt="Oybek Khodjaev" style="float: left; margin: 0 36px 24px 0; width: 220px; border-radius: 4px;">
 
 I'm Oybek Khodjaev — a systems transformation analyst examining AI governance.
 
