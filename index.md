@@ -8,6 +8,10 @@ For over thirty years, I have worked across finance, banking, government, and bu
 I write about how artificial intelligence is reshaping power dynamics, institutional control, and humanity's ability to govern what it creates. My perspective is unusual in this field: not a technologist or AI researcher, but a systems analyst who has watched governance frameworks succeed and collapse across thirty years of institutional practice in emerging markets.
 ## Latest Essays
 ---
+### [The Correction Window: When Governance Worked — and What Made It Possible](/essays/the-correction-window/)
+Under what structural conditions has governance historically worked? Three domains — banking after the 2008 crisis, pharmaceutical regulation, nuclear verification — reveal three elements that made enforcement real: consequences for misrepresentation, halt authority, and independent verification with access. AI governance today possesses none of them in operational form. The correction window is closing faster than in any previous domain.
+*March 30, 2026.* [**Read Essay** →](/essays/the-correction-window/)
+---
 ### [The Pattern Closes: When Governance Fails in Real Time](/essays/the-pattern-closes/)
 The mechanisms traced across the first five essays are no longer theoretical. In March 2026, they became operational simultaneously in two domains: geopolitics and the relationship between AI companies and state power. The correction window is narrowing — and in AI, it changes category.
 *March 24, 2026.* [**Read Essay** →](/essays/the-pattern-closes/)
@@ -23,12 +27,9 @@ The AI industry's central promise — that advanced AI systems can be reliably a
 ### [The Regulator's Dilemma: Why You Cannot Govern What You Cannot Keep Up With](/essays/the-regulators-dilemma/)
 Every regulator facing a fast-moving technology confronts the same impossible constraint: understand it, move quickly, maintain legitimacy. Pick two. AI governance is attempting all three — and achieving none. Drawing on the 1990s Uzbekistan capital markets crisis, this essay traces the regulator's trilemma and why it has no clean exit.
 *February 25, 2026.* [**Read Essay →**](/essays/the-regulators-dilemma/)
-
 ---
 All essays are also published on <a href="https://okhodjaev.substack.com" target="_blank">Substack</a> with full email delivery.
 **[View all essays →](/essays/)**
-
 ---
 **About:** [Learn more about my background](/about/)  
-
 **Contact:** [Get in touch](/contact/)
