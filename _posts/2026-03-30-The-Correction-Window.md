@@ -163,7 +163,3 @@ Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury
 and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
 More than thirty years' experience in economics, banking, finance, and business
 across Uzbekistan and the CIS.*
-
-**Published** March 30, 2026
-
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
