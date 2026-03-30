@@ -31,5 +31,7 @@ Every regulator facing a fast-moving technology confronts the same impossible co
 All essays are also published on <a href="https://okhodjaev.substack.com" target="_blank">Substack</a> with full email delivery.
 **[View all essays →](/essays/)**
 ---
+
 **About:** [Learn more about my background](/about/)  
+
 **Contact:** [Get in touch](/contact/)
