@@ -1,0 +1,180 @@
+<style>
+/* Кнопка переключения */
+.theme-toggle {
+  position: fixed;
+  top: 80px;
+  right: 20px;
+  z-index: 9999;
+  background: none;
+  border: 1px solid #999;
+  border-radius: 20px;
+  padding: 6px 14px;
+  font-family: 'Cardo', serif;
+  font-size: 13px;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: opacity 0.3s, background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+.theme-toggle:hover {
+  opacity: 1;
+}
+
+/* Светлый режим (текущий — по умолчанию) */
+body.theme-light .theme-toggle {
+  color: #555;
+  background-color: rgba(240, 238, 230, 0.9);
+  border-color: #999;
+}
+
+/* Тёмный режим */
+body.theme-dark {
+  background-color: #1a1a2e !important;
+  color: #d4d4d4 !important;
+}
+body.theme-dark .page {
+  background-color: #1a1a2e !important;
+}
+body.theme-dark h1,
+body.theme-dark h2,
+body.theme-dark h3,
+body.theme-dark h4,
+body.theme-dark .page__title {
+  color: #e0d8c8 !important;
+}
+body.theme-dark p,
+body.theme-dark li,
+body.theme-dark .page__content {
+  color: #d4d4d4 !important;
+}
+body.theme-dark a {
+  color: #7da7d9 !important;
+}
+body.theme-dark a:hover {
+  color: #a8c8ea !important;
+}
+body.theme-dark .masthead,
+body.theme-dark .masthead *,
+body.theme-dark .masthead__inner-wrap,
+body.theme-dark .masthead__inner-wrap * {
+  background-color: #1a1a2e !important;
+}
+body.theme-dark .site-title,
+body.theme-dark .site-description {
+  color: #e0d8c8 !important;
+}
+body.theme-dark .greedy-nav a {
+  color: #999 !important;
+}
+body.theme-dark .greedy-nav a:hover {
+  color: #e0d8c8 !important;
+}
+body.theme-dark .page__footer {
+  background-color: #141425 !important;
+  border-top-color: #2a2a4a !important;
+}
+body.theme-dark .page__footer * {
+  color: #999 !important;
+}
+body.theme-dark .theme-toggle {
+  color: #ccc;
+  background-color: rgba(26, 26, 46, 0.9);
+  border-color: #555;
+}
+body.theme-dark em {
+  color: #c0b8a8 !important;
+}
+body.theme-dark strong {
+  color: #e8e0d0 !important;
+}
+body.theme-dark blockquote {
+  color: #b0a890 !important;
+  border-left-color: #444 !important;
+}
+
+/* Режим для чтения (сепия — как электронная книга) */
+body.theme-sepia {
+  background-color: #f5e6c8 !important;
+  color: #3b2f1e !important;
+}
+body.theme-sepia .page {
+  background-color: #f5e6c8 !important;
+}
+body.theme-sepia h1,
+body.theme-sepia h2,
+body.theme-sepia h3,
+body.theme-sepia h4,
+body.theme-sepia .page__title {
+  color: #2a1f0e !important;
+}
+body.theme-sepia p,
+body.theme-sepia li,
+body.theme-sepia .page__content {
+  color: #3b2f1e !important;
+}
+body.theme-sepia a {
+  color: #6b4c1e !important;
+}
+body.theme-sepia a:hover {
+  color: #4a3010 !important;
+}
+body.theme-sepia .masthead,
+body.theme-sepia .masthead *,
+body.theme-sepia .masthead__inner-wrap,
+body.theme-sepia .masthead__inner-wrap * {
+  background-color: #f5e6c8 !important;
+}
+body.theme-sepia .site-title,
+body.theme-sepia .site-description {
+  color: #2a1f0e !important;
+}
+body.theme-sepia .greedy-nav a {
+  color: #6b5a3e !important;
+}
+body.theme-sepia .page__footer {
+  background-color: #e8d5b0 !important;
+  border-top-color: #c8b48a !important;
+}
+body.theme-sepia .theme-toggle {
+  color: #5a4a2e;
+  background-color: rgba(245, 230, 200, 0.9);
+  border-color: #a89060;
+}
+
+/* Плавные переходы */
+body, .page, .masthead, .masthead *, .page__footer, h1, h2, h3, h4, p, a, li, em, strong {
+  transition: background-color 0.4s ease, color 0.4s ease, border-color 0.4s ease;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Создаём кнопку
+  var btn = document.createElement('button');
+  btn.className = 'theme-toggle';
+  btn.setAttribute('aria-label', 'Switch reading mode');
+  document.body.appendChild(btn);
+
+  // Три режима: light → sepia → dark → light
+  var modes = ['theme-light', 'theme-sepia', 'theme-dark'];
+  var labels = ['☀️ Light', '📖 Sepia', '🌙 Dark'];
+
+  // Загружаем сохранённый режим
+  var saved = localStorage.getItem('reading-mode');
+  var currentIndex = saved ? modes.indexOf(saved) : 0;
+  if (currentIndex === -1) currentIndex = 0;
+
+  function applyMode(index) {
+    modes.forEach(function(m) { document.body.classList.remove(m); });
+    document.body.classList.add(modes[index]);
+    btn.textContent = labels[index];
+    localStorage.setItem('reading-mode', modes[index]);
+  }
+
+  applyMode(currentIndex);
+
+  btn.addEventListener('click', function() {
+    currentIndex = (currentIndex + 1) % modes.length;
+    applyMode(currentIndex);
+  });
+});
+</script>
