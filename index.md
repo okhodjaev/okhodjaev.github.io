@@ -8,6 +8,10 @@ For over thirty years, I have worked across finance, banking, government, and bu
 I write about how artificial intelligence is reshaping power dynamics, institutional control, and humanity's ability to govern what it creates. My perspective is unusual in this field: not a technologist or AI researcher, but a systems analyst who has watched governance frameworks succeed and collapse across thirty years of institutional practice in emerging markets.
 ## Latest Essays
 ---
+### [The Agency Transfer: What Happens When Machines Make Decisions Humans Used to Make](/essays/the-agency-transfer/)
+Agency transfer — the migration of consequential decisions from human judgment to automated systems — is not a binary event. It is a gradient with a threshold beyond which reversal becomes operationally non-viable. Drawing on banking automation in the 1990s, the live rollout of electronic prescriptions in Uzbekistan, and the classical automation literature, this essay names the mechanism through which the correction window closes: not through crisis, but through the quiet atrophy of human institutional capacity.
+*April 6, 2026.* [**Read Essay** →](/essays/the-agency-transfer/)
+---
 ### [The Correction Window: When Governance Worked — and What Made It Possible](/essays/the-correction-window/)
 Under what structural conditions has governance historically worked? Three domains — banking after the 2008 crisis, pharmaceutical regulation, nuclear verification — reveal three elements that made enforcement real: consequences for misrepresentation, halt authority, and independent verification with access. AI governance today possesses none of them in operational form. The correction window is closing faster than in any previous domain.
 *March 30, 2026.* [**Read Essay** →](/essays/the-correction-window/)
