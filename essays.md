@@ -9,6 +9,13 @@ Analysis at the intersection of AI governance, institutional control, and system
 All essays are published on Substack with full email delivery. 
 ---
 ## Published
+
+### (8) [The Agency Transfer: What Happens When Machines Make Decisions Humans Used to Make](/essays/the-agency-transfer/)
+Agency transfer — the migration of consequential decisions from human judgment to automated systems — is not a binary event. It is a gradient with a threshold beyond which reversal becomes operationally non-viable on the timelines that matter. Drawing on banking automation in 1990s Uzbekistan, the live rollout of electronic prescriptions (DMED), the classical automation literature (Bainbridge, Parasuraman), and the Anthropic–Pentagon episode, this essay names the mechanism through which the correction window closes: not through crisis, but through the quiet atrophy of human institutional capacity. It proposes an operational instrument — the agency transfer audit — and identifies three dimensions of reversibility that current governance frameworks do not measure.
+*April 6, 2026.*
+[**Read Essay →**](/essays/the-agency-transfer/)
+
+---
 ### (7) [The Correction Window: When Governance Worked — and What Made It Possible](/essays/the-correction-window/)
 Under what structural conditions has governance historically worked? Three domains — banking after the 2008 global financial crisis, pharmaceutical regulation, nuclear verification — reveal three elements that made enforcement real rather than performative: consequences for misrepresentation, halt authority, and independent verification with access. Drawing on the 2003 Uzbekistan correspondent account reform, Basel III stress-testing, FDA approval gates, and the IAEA inspection regime, this essay examines when correction was still possible — and why that window is closing faster for AI than for any previous domain.
 *March 30, 2026.*
