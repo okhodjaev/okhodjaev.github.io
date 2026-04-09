@@ -1,15 +1,11 @@
 main:
   - title: "Home"
     url: /
-
   - title: "Essays"
     url: /essays/
-
   - title: "About"
     url: /about/
-
   - title: "Contact"
     url: /contact/
-
-    - title: "Copyright"
+  - title: "Copyright"
     url: /copyright/
