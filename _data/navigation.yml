@@ -1,5 +1,5 @@
 main:
-  - title: "Home"
+  - title: "🏠"
     url: /
   - title: "Essays"
     url: /essays/
@@ -7,7 +7,3 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
-  - title: "Copyright"
-    url: /copyright/
-  - title: "Privacy"
-    url: /privacy/
