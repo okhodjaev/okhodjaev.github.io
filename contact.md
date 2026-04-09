@@ -16,10 +16,6 @@ classes: wide
 
 **X.com:** <a href="https://x.com/O_Khodjaev" target="_blank">x.com/O_Khodjaev</a>
 
-**WhatsApp:** <a href="https://wa.me/998903528350" target="_blank">+(998) 90 352 83 50</a>
-
-**Telegram (personal):** <a href="https://t.me/oybek_khodjaev" target="_blank">@oybek_khodjaev</a>
-
 **Telegram (RU — AI Governance):** <a href="https://t.me/AIGovernance_RU" target="_blank">t.me/AIGovernance_RU</a>
 
 **Telegram (UZ — AI Governance):** <a href="https://t.me/AI_Governance_UZ" target="_blank">t.me/AI_Governance_UZ</a>
