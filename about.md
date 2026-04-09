@@ -49,9 +49,3 @@ I do not have all the answers. I have questions shaped by watching systems fall 
 **Subscribe:** <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
 **LinkedIn:** <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">linkedin.com/in/oybek-khodjaev</a>
-
-**X.com:** <a href="https://x.com/O_Khodjaev" target="_blank">x.com/O_Khodjaev</a>
-
-**Telegram (RU):** <a href="https://t.me/AIGovernance_RU" target="_blank">t.me/AIGovernance_RU</a>
-
-**Telegram (UZ):** <a href="https://t.me/AI_Governance_UZ" target="_blank">t.me/AI_Governance_UZ</a>
