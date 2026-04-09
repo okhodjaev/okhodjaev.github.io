@@ -1,15 +1,12 @@
 ---
 ---
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 @import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
-
 body,
 .page {
   background-color: #f0eee6;
 }
-
 body,
 h1,
 h2,
@@ -20,32 +17,26 @@ h4,
   font-family: 'Cardo', serif;
   color: #2c3e50;
 }
-
 body {
   font-size: 18px;
   line-height: 1.6;
 }
-
 .page__title {
   font-size: 2.5em;
   font-weight: 700;
 }
-
 .site-title {
   font-size: 1.5em;
   font-weight: 700;
 }
-
 a {
   color: #2563eb;
   text-decoration: none;
 }
-
 a:hover {
   color: #1d4ed8;
   text-decoration: underline;
 }
-
 .masthead,
 .masthead *,
 .site-header,
@@ -56,18 +47,15 @@ a:hover {
   background-image: none !important;
   border: none !important;
 }
-
 .masthead::before,
 .masthead::after {
   background-color: #f0eee6 !important;
   background-image: none !important;
 }
-
 .page__footer {
   background-color: #e8e6db;
   border-top: 1px solid #d1cfc4;
 }
-
 .site-title,
 .site-description {
   color: #000000 !important;
