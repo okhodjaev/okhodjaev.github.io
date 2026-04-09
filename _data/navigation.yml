@@ -9,3 +9,5 @@ main:
     url: /contact/
   - title: "Copyright"
     url: /copyright/
+  - title: "Privacy"
+    url: /privacy/
