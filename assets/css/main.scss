@@ -77,3 +77,8 @@ a:hover {
 .greedy-nav button {
   font-family: 'Cardo', serif;
 }
+
+/* Hide horizontal rules globally */
+hr {
+  display: none !important;
+}
