@@ -70,3 +70,9 @@ a:hover {
 hr {
   display: none !important;
 }
+
+/* Remove border under h2 headings */
+.page__content h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
