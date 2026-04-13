@@ -8,6 +8,10 @@ For over thirty years, I have worked across finance, banking, government, and bu
 I write about how artificial intelligence is reshaping power dynamics, institutional control, and humanity's ability to govern what it creates. My perspective is unusual in this field: not a technologist or AI researcher, but a systems analyst who has watched governance frameworks succeed and collapse across thirty years of institutional practice in emerging markets.
 ## Latest Essays
 ---
+### [The Sovereignty Question: Who Governs the Governors?](/essays/the-sovereignty-question/)
+Every enforcement architecture in AI governance meets one structural limit — the sovereign will of a state for which the technology has become an element of strategic autonomy. Drawing on the IMF/Uzbekistan reforms of the 1990s, the NPT and SWIFT precedents, the live Anthropic–Pentagon dispute, the Strait of Hormuz crisis, the October 2025 Chinese rare earth licensing cycle, and Uzbekistan's Resolution No. 109 of March 2026, this essay opens Block 2 of the series by isolating the first structural limit on any attempt at correction: sovereign override, operating now within a window shorter than any prior sovereign conflict.
+*April 13, 2026.* [**Read Essay** →](/essays/the-sovereignty-question/)
+---
 ### [The Agency Transfer: What Happens When Machines Make Decisions Humans Used to Make](/essays/the-agency-transfer/)
 Agency transfer — the migration of consequential decisions from human judgment to automated systems — is not a binary event. It is a gradient with a threshold beyond which reversal becomes operationally non-viable. Drawing on banking automation in the 1990s, the live rollout of electronic prescriptions in Uzbekistan, and the classical automation literature, this essay names the mechanism through which the correction window closes: not through crisis, but through the quiet atrophy of human institutional capacity.
 *April 6, 2026.* [**Read Essay** →](/essays/the-agency-transfer/)
