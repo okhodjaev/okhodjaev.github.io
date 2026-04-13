@@ -10,6 +10,12 @@ All essays are published on Substack with full email delivery.
 ---
 ## Published
 
+### (9) [The Sovereignty Question: Who Governs the Governors?](/essays/the-sovereignty-question/)
+Every enforcement architecture in AI governance meets one structural limit — the sovereign will of a state for which the technology has become an element of strategic autonomy. The limit is neither normative nor technical, and in the AI domain it compresses into a window shorter than any prior sovereign conflict. Drawing on the IMF/Uzbekistan reforms of the 1990s, the NPT and SWIFT precedents, the live Anthropic–Pentagon dispute, the Strait of Hormuz crisis of March 2026, the October 2025 Chinese rare earth licensing cycle and its November 2025 partial suspension, and Uzbekistan's Resolution No. 109 of March 2026, this essay opens Block 2 of the series by isolating the first structural limit on any attempt at correction. It maps how sovereign override reproduces across domains, and why the AI domain compresses the cycle of override and adjustment below the interval in which any historical enforcement coalition has formed and acted.
+*April 13, 2026.*
+[**Read Essay →**](/essays/the-sovereignty-question/)
+
+---
 ### (8) [The Agency Transfer: What Happens When Machines Make Decisions Humans Used to Make](/essays/the-agency-transfer/)
 Agency transfer — the migration of consequential decisions from human judgment to automated systems — is not a binary event. It is a gradient with a threshold beyond which reversal becomes operationally non-viable on the timelines that matter. Drawing on banking automation in 1990s Uzbekistan, the live rollout of electronic prescriptions (DMED), the classical automation literature (Bainbridge, Parasuraman), and the Anthropic–Pentagon episode, this essay names the mechanism through which the correction window closes: not through crisis, but through the quiet atrophy of human institutional capacity. It proposes an operational instrument — the agency transfer audit — and identifies three dimensions of reversibility that current governance frameworks do not measure.
 *April 6, 2026.*
