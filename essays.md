@@ -89,6 +89,8 @@ Three structural failure mechanisms — performative control, incentive misalign
 ### (12) Beyond Control: What Happens When the Correction Window Closes
 
 
+
 ---
+
 
 Subscribe to receive weekly essays: <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
