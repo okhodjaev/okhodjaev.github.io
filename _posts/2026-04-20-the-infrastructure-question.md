@@ -1,6 +1,6 @@
 ---
 title: "The Infrastructure Question: Who Controls the Compute Controls the Future"
-date: 2026-04-17
+date: 2026-04-20
 permalink: /essays/the-infrastructure-question/
 description: "The physical configuration of the compute stack — fabs, tools, data centres, and grids — pre-determines the choice space for most jurisdictions before any sovereign decision is taken. This is not a prediction. It is a description of the present."
 tags: [AI governance, compute, semiconductors, export controls, infrastructure, structural dependency, Global South]
@@ -124,6 +124,6 @@ Full essay and updated sources: [okhodjaev.com/essays/the-infrastructure-questio
 
 *Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC. Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank. More than thirty years' experience in economics, banking, finance, and business across Uzbekistan and the CIS.*
 
-**Published** April 17, 2026
+**Published** April 20, 2026
 
 <a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
