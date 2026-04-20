@@ -11,7 +11,7 @@ I write about how artificial intelligence is reshaping power dynamics, instituti
 ### [The Infrastructure Question: Who Controls the Compute Controls the Future](/essays/the-infrastructure-question/)
 The physical configuration of the compute stack — chip fabs, EUV lithography, high-bandwidth memory, hyperscale data centres, and energy grids — pre-determines the choice space for most jurisdictions before any sovereign decision is taken. Drawing on Uzbekistan's cotton-textile cluster reform as a structural parallel, and on U.S. semiconductor export controls, TSMC concentration, and IEA energy projections, this essay identifies the limit of matter: the second structural constraint on any attempt at AI governance correction, distinct from and operating alongside the limit of sovereign will established in Essay 9.
 
-*April 17, 2026.* [**Read Essay** →](/essays/the-infrastructure-question/)
+*April 20, 2026.* [**Read Essay** →](/essays/the-infrastructure-question/)
 
 ---
 ### [The Sovereignty Question: Who Governs the Governors?](/essays/the-sovereignty-question/)
