@@ -180,6 +180,10 @@ Full essay and updated sources: [okhodjaev.com/essays/the-transparency-trap](htt
 
 ---
 
+**Cite this work:** Khodjaev, O. (2026). *The Transparency Trap: Why More Data Does Not Mean More Accountability in AI Governance.* Zenodo. <a href="https://doi.org/10.5281/zenodo.19659603" target="_blank">doi.org/10.5281/zenodo.19659603</a>
+
+---
+
 *Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC.
 Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
 More than thirty years' experience in economics, banking, finance, and business across Uzbekistan and the CIS.*
