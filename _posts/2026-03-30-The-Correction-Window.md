@@ -158,6 +158,10 @@ Full essay and updated sources: [okhodjaev.com/essays/the-correction-window/](ht
 
 ---
 
+**Cite this work:** Khodjaev, O. (2026). *The Correction Window: When Governance Worked — and What Made It Possible.* Zenodo. <a href="https://doi.org/10.5281/zenodo.19661952" target="_blank">doi.org/10.5281/zenodo.19661952</a>
+
+---
+
 *Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC.
 Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director
 and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
