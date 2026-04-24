@@ -46,6 +46,12 @@ My focus is not prediction but pattern recognition: identifying the structural m
 I do not have all the answers. I have questions shaped by watching systems fall apart — and occasionally, by watching them hold.
 
 ---
+
+**A note on language and process**
+
+My analysis, ideas, frameworks, and case selection are my own — developed from years of practitioner experience across banking, government, and business. I use AI tools to professionally formulate and articulate my thinking in English. The intellectual content is mine; the English formulation is AI-assisted.
+
+---
 **Subscribe:** <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
 **LinkedIn:** <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">linkedin.com/in/oybek-khodjaev</a>
