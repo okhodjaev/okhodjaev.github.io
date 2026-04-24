@@ -152,6 +152,10 @@ Full essay and updated sources: [okhodjaev.com/essays/the-agency-transfer/](http
 
 ---
 
+**Cite this work:** Khodjaev, O. (2026). *The Agency Transfer: What Happens When Machines Make Decisions Humans Used to Make.* Zenodo. <a href="https://doi.org/10.5281/zenodo.19664688" target="_blank">doi.org/10.5281/zenodo.19664688</a>
+
+---
+
 *Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC.
 Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director
 and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
