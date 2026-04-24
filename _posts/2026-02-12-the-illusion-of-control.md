@@ -158,7 +158,7 @@ No one in that hall in Tashkent on August 31, 1991, believed three months earlie
 \[8\] For the governance/control gap in AI, see also: CSET (Georgetown). *AI Safety Technical Research* series 2023–2025; Anthropic. *Responsible Scaling Policy*, September 2023. [anthropic.com](https://anthropic.com)
 
 ---
-**Cite this work:** Khodjaev, O. (2026). *The Illusion of Control: How AI Governance Became Performative.* Zenodo. [doi.org/10.5281/zenodo.19659250](https://doi.org/10.5281/zenodo.19659250)
+**Cite this work:** Khodjaev, O. (2026). *The Illusion of Control: How AI Governance Became Performative.* Zenodo. <a href="https://doi.org/10.5281/zenodo.19659250" target="_blank">doi.org/10.5281/zenodo.19659250</a>
 ---
 
 *Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC. 
