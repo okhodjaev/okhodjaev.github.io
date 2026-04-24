@@ -164,6 +164,10 @@ Full essay and updated sources: [okhodjaev.com/essays/the-sovereignty-question/]
 
 ---
 
+**Cite this work:** Khodjaev, O. (2026). *The Sovereignty Question: Who Governs the Governors?* Zenodo. <a href="https://doi.org/10.5281/zenodo.19664787" target="_blank">doi.org/10.5281/zenodo.19664787</a>
+
+---
+
 *Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC. Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank. More than thirty years' experience in economics, banking, finance, and business across Uzbekistan and the CIS.*
 
 **Published** April 13, 2026 on [https://okhodjaev.com/essays/the-sovereignty-question/](https://okhodjaev.com/essays/the-sovereignty-question/)
