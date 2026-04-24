@@ -179,6 +179,10 @@ Full essay and updated sources: [okhodjaev.com/essays/the-regulators-dilemma](ht
 
 ---
 
+**Cite this work:** Khodjaev, O. (2026). *The Regulator's Dilemma: Why You Cannot Govern What You Cannot Keep Up With.* Zenodo. <a href="https://doi.org/10.5281/zenodo.19661370" target="_blank">doi.org/10.5281/zenodo.19661370</a>
+
+---
+
 *Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC.
 Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director
 and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
