@@ -132,6 +132,44 @@ That is where the next essay begins.
 
 ---
 
+## Sources
+
+**Regulatory documents**
+
+- Central Bank of Uzbekistan, Board Resolution No. 5/11 (March 25, 2026). *Rules for Payment Services via Unified QR Code*. Registered by the Ministry of Justice of the Republic of Uzbekistan, April 15, 2026, No. 3817. [lex.uz/docs/-8139307](https://lex.uz/docs/-8139307)
+- Presidential Decree of the Republic of Uzbekistan (December 2025). On mandatory non-cash payments for significant transactions.
+
+**Pharmaceutical case**
+
+- Ministry of Health of the Republic of Uzbekistan. Official statements on Dok-1 Max (October–December 2022).
+- World Health Organization. *Medical Product Alert: Substandard (Contaminated) Paediatric Medicines* (2022–2023). [who.int](https://www.who.int)
+- Court of the Republic of Uzbekistan. Criminal case materials on the Dok-1 Max procurement and distribution chain (2023).
+
+**AI governance**
+
+- Bengio, Y. et al. *International AI Safety Report 2026* (February 2026). [internationalaisafetyreport.org](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)
+- Eurasia Group. *Top Risks 2026* (January 2026). Risk #8: AI Eats Its Users.
+- The Editorial. *AI Safety Crisis: Frontier Models Outpacing Safety Guardrails* (March 30, 2026). [theeditorial.news](https://theeditorial.news/technology/inside-the-ai-arms-race-how-frontier-models-are-outpacing-safety-guardrails-mne8v6u6)
+- OpenAI. Deployment Safety Hub (updated March 2026). [deploymentsafety.openai.com](https://deploymentsafety.openai.com)
+
+**Interviews and expert statements**
+
+- Hinton, G. Interview on AI risk and regulatory limits (2024–2025). Transcript reviewed for this essay.
+- Bengio, Y. Interview on AI safety and governance (2024–2025). Transcript reviewed for this essay.
+
+**Comparative payment systems**
+
+- National Payments Corporation of India. UPI ecosystem documentation.
+- Banco Central do Brasil. *Pix: Design and governance framework* (2020–2023).
+
+**Series cross-references**
+
+- Essay 6: [The Pattern Closes](/essays/the-pattern-closes/) — performative control in real time.
+- Essay 7: [The Correction Window](/essays/the-correction-window/) — three elements of real enforcement.
+- Essay 8: [The Agency Transfer](/essays/the-agency-transfer/) — atrophy of institutional capacity.
+
+---
+
 *Oybek Khodjaev is the founder and CEO of INVEXI LLC, former Deputy Chairman of a major Uzbek commercial bank, and former Deputy Governor of the Samarkand Region (2019–2022). He writes on AI governance and institutional risk at [okhodjaev.com](https://okhodjaev.com). This essay is part of the series Beyond Control — Theory of Limits of AI Governance.*
 
 *April 27, 2026.*
