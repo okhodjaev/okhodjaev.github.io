@@ -10,6 +10,13 @@ All essays are published on Substack with full email delivery.
 ---
 ## Published
 
+### (11) [The Institutional Gap: Why No Existing Institution Can Govern AI](/essays/the-institutional-gap/)
+The problem is not that governance is missing. The problem is a category mismatch: what real enforcement requires and what existing institutions can produce are not the same thing — and no amount of additional regulation, budget, or political will can close a gap that is structural in origin. Drawing on the 2022 Dok-1 Max pharmaceutical tragedy, Uzbekistan's unified QR payment architecture of 2026, and the documented pattern of safety team dissolution at frontier AI laboratories, this essay explains why halt authority, independent access, and consequences for misrepresentation are not merely absent from AI governance — they are structurally unavailable within the current institutional order. Developing economies are not merely illustrative: they are a structural demonstration of the gap in concentrated form, where fewer institutional layers exist to obscure it.
+
+*April 27, 2026.*
+[**Read Essay →**](/essays/the-institutional-gap/)
+
+---
 ### (10) [The Infrastructure Question: Who Controls the Compute Controls the Future](/essays/the-infrastructure-question/)
 The physical configuration of the compute stack — chip fabs, EUV lithography, high-bandwidth memory, hyperscale data centres, and energy grids — pre-determines the choice space for most jurisdictions before any sovereign decision is taken. Drawing on Uzbekistan's cotton-textile cluster reform as a structural parallel, and on U.S. semiconductor export controls, TSMC concentration, and IEA energy projections, this essay identifies the limit of matter: the second structural constraint on any attempt at AI governance correction, distinct from and operating alongside the limit of sovereign will established in Essay 9. Any governance framework that ignores either will measure its own intent rather than its effect.
 
@@ -84,13 +91,8 @@ Three structural failure mechanisms — performative control, incentive misalign
 
 ## Coming Soon
 
-### (11) The Institutional Gap: Why No Existing Institution Can Govern AI
-
 ### (12) Beyond Control: What Happens When the Correction Window Closes
 
-
-
 ---
-
 
 Subscribe to receive weekly essays: <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
