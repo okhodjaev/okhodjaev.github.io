@@ -11,13 +11,13 @@ Published interviews and appearances in external media.
 
 ---
 
-### [AI Governance and the Structural Limits of Control](https://www.wgi.world/ai-governance-and-the-structural-limits-of-control/)
+### <a href="https://www.wgi.world/ai-governance-and-the-structural-limits-of-control/" target="_blank">AI Governance and the Structural Limits of Control</a>
 
 **World Geostrategic Insights** · April 30, 2026
 
 A nine-question written interview on the structural limits of AI governance: agency transfer, the regulator's trilemma, the colonial pattern of digital dependency, and the parallel with the 2008 financial crisis. Published in the Interviews section and featured on the WGI homepage.
 
-[**Read the interview →**](https://www.wgi.world/ai-governance-and-the-structural-limits-of-control/)
+<a href="https://www.wgi.world/ai-governance-and-the-structural-limits-of-control/" target="_blank"><strong>Read the interview →</strong></a>
 
 ---
 
