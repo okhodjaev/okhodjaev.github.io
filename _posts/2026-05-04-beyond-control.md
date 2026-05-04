@@ -18,13 +18,13 @@ author_profile: true
 
 ## Contents
 
-1. [Three Limits, One Impossibility](#i-three-limits-one-impossibility)
-2. [The Gradient of Irreversibility](#ii-the-gradient-of-irreversibility)
-3. [What Closure Looks Like](#iii-what-closure-looks-like)
-4. [The Governance Residual](#iv-the-governance-residual)
-5. [The Asymmetry the Mainstream Governance Discourse Does Not See](#v-the-asymmetry-the-mainstream-governance-discourse-does-not-see)
+1. [I. Three Limits, One Impossibility](#i-three-limits-one-impossibility)
+2. [II. The Gradient of Irreversibility](#ii-the-gradient-of-irreversibility)
+3. [III. What Closure Looks Like](#iii-what-closure-looks-like)
+4. [IV. The Governance Residual](#iv-the-governance-residual)
+5. [V. The Asymmetry the Mainstream Governance Discourse Does Not See](#v-the-asymmetry-the-mainstream-governance-discourse-does-not-see)
 6. [Signals to Watch](#signals-to-watch)
-7. [What the Series Has Established](#vi-what-the-series-has-established)
+7. [VI. What the Series Has Established](#vi-what-the-series-has-established)
 8. [Sources and Notes](#sources-and-notes)
 
 ---
