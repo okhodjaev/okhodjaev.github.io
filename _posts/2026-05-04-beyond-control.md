@@ -7,7 +7,7 @@ categories: [essays]
 tags: [AI governance, institutional theory, governance residual, correction window, Global South, agency transfer, sovereign override, limit theorem, structural hypocrisy]
 excerpt: "Three structural limits — institutional, sovereign, material — interact multiplicatively to produce one architectural impossibility. What remains is the governance residual: partial, asymmetric, uncoordinated, insufficient for correction. And a choice: not between control and chaos, but between acknowledged dependency and unacknowledged collapse."
 classes: wide
-author_profile: true
+author_profile: false
 ---
 
 *Essay 12 of 12 · Beyond Control: Theory of Limits of AI Governance*
