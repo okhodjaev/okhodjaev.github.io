@@ -173,6 +173,8 @@ The window has closed. The pattern is complete. What we build now will not be go
 
 Full series and references: [okhodjaev.com/essays/](https://okhodjaev.com/essays/)
 
+Cite this work: Khodjaev, O. (2026). The Infrastructure Question: Who Controls the Compute Controls the Future. Zenodo. [doi.org/10.5281/zenodo.19664876](https://doi.org/10.5281/zenodo.20067750)
+
 ---
 
 *Oybek Khodjaev is a systems transformation analyst with thirty-five years of experience across economics, banking, business, and government in Uzbekistan and the CIS, including service as Deputy Governor (Deputy Khokim) of Samarkand Region (2019–2022). He is the founder and CEO of INVEXI LLC. His work on AI governance and institutional risk is published at [okhodjaev.com](https://okhodjaev.com).*
