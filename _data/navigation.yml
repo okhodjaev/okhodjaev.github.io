@@ -1,8 +1,10 @@
 main:
   - title: "Essays"
     url: /essays/
-  - title: "Analytical Syntheses"
+  - title: "Syntheses"
     url: /synthesis/
+  - title: "Analysis"
+    url: /analysis/
   - title: "In the Media"
     url: /media/
   - title: "About"
