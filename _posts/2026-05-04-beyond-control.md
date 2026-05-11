@@ -173,7 +173,7 @@ The window has closed. The pattern is complete. What we build now will not be go
 
 Full series and references: [okhodjaev.com/essays/](https://okhodjaev.com/essays/)
 
-Cite this work: Khodjaev, O. (2026). Beyond Control: What Happens When the Correction Window Closes. Zenodo. [doi.org/10.5281/zenodo.19664876](https://doi.org/10.5281/zenodo.20067750)
+Cite this work: Khodjaev, O. (2026). Beyond Control: What Happens When the Correction Window Closes. Zenodo. [doi.org/10.5281/zenodo.20067750](https://doi.org/10.5281/zenodo.20067750)
 
 ---
 
