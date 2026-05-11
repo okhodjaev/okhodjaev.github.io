@@ -178,7 +178,7 @@ Cite this work: Oybek Khodjaev (2026). The Institutional Gap: Why No Existing In
 
 *This essay is part of the series Beyond Control. The analytical synthesis of all twelve essays is available here: [Theory of Limits of AI Governance — An Analytical Synthesis](/synthesis/)*
 
-*Oybek Khodjaev is the founder and CEO of INVEXI LLC, former Deputy Chairman of a major Uzbek commercial bank, and former Deputy Governor of the Samarkand Region (2019–2022). He writes on AI governance and institutional risk at [okhodjaev.com](https://okhodjaev.com). This essay is part of the series Beyond Control — Theory of Limits of AI Governance.*
+*Oybek Khodjaev is the founder and CEO of INVEXI LLC, former Deputy Chairman of a major Uzbek commercial bank, and former Deputy Governor of the Samarkand Region (2019–2022). He writes on AI governance and institutional risk at [okhodjaev.com](https://okhodjaev.com)*
 
 *April 27, 2026.*
 
