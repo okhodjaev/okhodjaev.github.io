@@ -3,8 +3,11 @@ title: "AI Governance & Systems Transformation"
 permalink: /
 classes: wide
 ---
-I'm Oybek Khodjaev — an independent systems transformation analyst examining AI governance.
+I'm Oybek Khodjaev — author of the *Beyond Control* series and the analytical synthesis establishing the **Theory of Limits of AI Governance**.
+
 For over thirty years, I have worked across finance, banking, government, and business, including serving as Deputy Governor of Samarkand Region and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank. I witnessed the collapse of the Soviet Union from the inside and have spent decades observing how large systems transform, lose control, and sometimes fail.
+
+Twelve essays and one analytical synthesis establish a single structural finding: the institutional order created for governing previous technologies is categorically incapable of governing frontier AI — not because of incompetence or bad faith, but because three structural limits interact multiplicatively to produce a governance environment in which the conditions for real enforcement cannot be simultaneously satisfied.
 
 I write about how artificial intelligence is reshaping power dynamics, institutional control, and humanity's ability to govern what it creates. My perspective is unusual in this field: not a technologist or AI researcher, but a systems analyst who has watched governance frameworks succeed and collapse across thirty years of institutional practice in emerging markets.
 
