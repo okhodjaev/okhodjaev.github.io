@@ -11,6 +11,18 @@ Twelve essays and one analytical synthesis establish a single structural finding
 
 I write about how artificial intelligence is reshaping power dynamics, institutional control, and humanity's ability to govern what it creates. My perspective is unusual in this field: not a technologist or AI researcher, but a systems analyst who has watched governance frameworks succeed and collapse across thirty years of institutional practice in emerging markets.
 
+---
+
+## Analytical Synthesis
+
+**[Beyond Control: Theory of Limits of AI Governance — An Analytical Synthesis](/synthesis/)**
+
+The capstone of the twelve-essay series. Establishes the Theory of Limits of AI Governance: three structural constraints — sovereign override, material predetermination, and institutional mismatch — and their multiplicative interaction. Includes diagnostic table, glossary, and full DOI index.
+
+*May 2026 · Version 1.0* · [**Read Synthesis →**](/synthesis/) · [PDF + DOI](https://zenodo.org/communities/beyond-control-ai-governance)
+
+---
+
 ## Latest Essays
 
 ---
