@@ -168,6 +168,10 @@ Full essay and updated sources: [okhodjaev.com/essays/the-sovereignty-question/]
 
 ---
 
+---
+
+*This essay is part of the series Beyond Control. The analytical synthesis of all twelve essays is available here: [Theory of Limits of AI Governance — An Analytical Synthesis](/synthesis/)*
+
 *Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC. Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank. More than thirty years' experience in economics, banking, finance, and business across Uzbekistan and the CIS.*
 
 **Published** April 13, 2026 on [https://okhodjaev.com/essays/the-sovereignty-question/](https://okhodjaev.com/essays/the-sovereignty-question/)
