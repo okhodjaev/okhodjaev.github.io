@@ -161,6 +161,10 @@ No one in that hall in Tashkent on August 31, 1991, believed three months earlie
 **Cite this work:** Khodjaev, O. (2026). *The Illusion of Control: How AI Governance Became Performative.* Zenodo. <a href="https://doi.org/10.5281/zenodo.19659250" target="_blank">doi.org/10.5281/zenodo.19659250</a>
 ---
 
+---
+
+*This essay is part of the series Beyond Control. The analytical synthesis of all twelve essays is available here: [Theory of Limits of AI Governance — An Analytical Synthesis](/synthesis/)*
+
 *Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC. 
 Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank. 
 More than thirty years' experience in economics, banking, finance, and business across Uzbekistan and the CIS.*
