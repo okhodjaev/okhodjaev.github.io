@@ -39,6 +39,10 @@ excerpt: "Норма существует — инструмент её прим
 
 ---
 
+*📄 [Скачать PDF (русский)](/assets/pdfs/AI_in_Uzbekistan_-_A_Question_of_Manageability_Not_Implementation_RU.pdf) · [Download PDF (English)](/assets/pdfs/AI_in_Uzbekistan_-_A_Question_of_Manageability_Not_Implementation.pdf)*
+
+---
+
 ## Источники
 
 [1] Постановление Президента Республики Узбекистан № ПП-358 от 14.10.2024 «Об утверждении Стратегии развития технологий искусственного интеллекта до 2030 года». [lex.uz](https://lex.uz/ru/docs/7158606)
