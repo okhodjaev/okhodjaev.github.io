@@ -39,6 +39,10 @@ As AI integration deepens, the cost of building such an architecture will only g
 
 ---
 
+*📄 [Download PDF (English)](/assets/pdfs/AI_in_Uzbekistan_-_A_Question_of_Manageability_Not_Implementation.pdf) · [Скачать PDF (русский)](/assets/pdfs/AI_in_Uzbekistan_-_A_Question_of_Manageability_Not_Implementation_RU.pdf)*
+
+---
+
 ## Sources
 
 [1] Presidential Decree of the Republic of Uzbekistan No. PP-358, 14.10.2024, "On Approving the AI Technology Development Strategy to 2030." [lex.uz](https://lex.uz/ru/docs/7158606)
