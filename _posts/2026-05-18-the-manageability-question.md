@@ -1,6 +1,6 @@
 ---
 title: "AI in Uzbekistan: A Question of Manageability, Not Implementation"
-date: 2026-05-20
+date: 2026-05-18
 permalink: /governance-briefs/the-manageability-question/
 description: "An analytical note on the structural gap between Uzbekistan's AI regulatory framework and the mechanisms needed to enforce it — and why this window is narrowing faster than in any previous sector."
 tags: [AI governance, Uzbekistan, governance briefs, institutional design, verification, Central Asia]
