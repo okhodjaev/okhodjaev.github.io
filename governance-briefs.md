@@ -13,7 +13,7 @@ description: "Applied analytical notes on AI governance in Uzbekistan and Centra
 
 ### Published
 
-**[Brief No. 1 — AI in Uzbekistan: A Question of Manageability, Not Implementation** · 
+[**Brief No. 1 — AI in Uzbekistan: A Question of Manageability, Not Implementation** · 
 May 2026 · English](/governance-briefs/the-manageability-question/) · 
 [Русская версия](/governance-briefs/the-manageability-question-ru/)
 
