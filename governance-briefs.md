@@ -7,14 +7,14 @@ classes: wide
 description: "Applied analytical notes on AI governance in Uzbekistan and Central Asia, operationalising the Beyond Control essay series through concrete regulatory and institutional cases."
 ---
 
-*Applied analytical notes on AI governance in Uzbekistan and Central Asia. Each brief operationalises a specific argument from the [Beyond Control](/essays/) essay series through concrete regulatory and institutional cases. Full texts are published in Russian; an English version is available for each brief.*
+*Applied analytical notes on AI governance in Uzbekistan and Central Asia. Each brief operationalises a specific argument from the [Beyond Control](/essays/) essay series through concrete regulatory and institutional cases. Published in English; Russian-language versions are available for readers in Uzbekistan, Central Asia and the wider CIS region.*
 
 ---
 
 ### Published
 
 **Brief No. 1 — AI in Uzbekistan: A Question of Manageability, Not Implementation**
-May 2026 · [English version](/governance-briefs/the-manageability-question/) · [Русская версия](/governance-briefs/the-manageability-question-ru/)
+May 2026 · [English](/governance-briefs/the-manageability-question/) · [Русская версия](/governance-briefs/the-manageability-question-ru/)
 
 The structural gap between Uzbekistan's AI regulatory framework and the mechanisms needed to enforce it — and why this window is narrowing faster than in any previous sector.
 
