@@ -7,7 +7,7 @@ classes: wide
 description: "Applied analytical notes on AI governance in Uzbekistan and Central Asia, operationalising the Beyond Control essay series through concrete regulatory and institutional cases."
 ---
 
-*Applied analytical notes on AI governance in Uzbekistan and Central Asia. Each brief operationalises a specific argument from the [Beyond Control](/essays/) essay series through concrete regulatory and institutional cases. Published in English; Russian-language versions are available for readers in Uzbekistan, Central Asia and the wider CIS region.*
+*Applied analytical notes on AI governance in Uzbekistan and Central Asia. Each brief operationalises a specific argument from the [Beyond Control](/essays/) essay series through concrete regulatory and institutional cases. Published in English; Russian-language versions are also available.*
 
 ---
 
