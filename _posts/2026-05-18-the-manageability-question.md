@@ -63,10 +63,7 @@ Full brief and updated sources: [okhodjaev.com/governance-briefs/the-manageabili
 
 *Oybek Khodjaev — over 35 years of experience in banking, finance, public administration and business in Uzbekistan and the CIS. Author of the essay series "Beyond Control: The Theory of the Limits of AI Governance". [okhodjaev.com](https://okhodjaev.com)*
 
-**Published** May 20, 2026
-
 ---
 
 *The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
 
-*[ok@okhodjaev.com](mailto:ok@okhodjaev.com)*
