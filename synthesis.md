@@ -18,6 +18,8 @@ excerpt: "Three limits operate simultaneously on any AI governance architecture.
 
 [**↓ Download PDF**](https://doi.org/10.5281/zenodo.20120514){: .btn .btn--primary} &nbsp; [**Zenodo Record**](https://doi.org/10.5281/zenodo.20120514){: .btn .btn--inverse} &nbsp; [**Series Community**](https://zenodo.org/communities/beyond-control-ai-governance){: .btn .btn--inverse}
 
+*[Russian-language version is also available.](/assets/pdfs/Beyond_Control_Synthesis_RU.pdf)*
+
 **Cite as:** Khodjaev, O. (2026). *Beyond Control: Theory of Limits of AI Governance — An Analytical Synthesis.* Version 1.0, May 2026. okhodjaev.com. [https://doi.org/10.5281/zenodo.20120514](https://doi.org/10.5281/zenodo.20120514)
 
 ---
