@@ -11,7 +11,7 @@ toc_icon: "file-text"
 excerpt: "Норма существует. Правоприменительная архитектура пока не сформирована. Система управления без правоприменительной инфраструктуры — это не более слабая форма управления, это структурно иное состояние."
 ---
 
-*Аналитическая записка №2 · Серия: [Governance Briefs](/governance-briefs/) · Май 2026 · [English version](/governance-briefs/the-paper-architecture/)*
+*Аналитическая записка №2 · Серия: [Governance Briefs](/governance-briefs/) · Май 2026 · *
 *Операционализирует: Эссе 1 «Иллюзия контроля» — [Beyond Control: Теория пределов управления ИИ](/essays/)*
 
 *English version: [okhodjaev.com/governance-briefs/the-paper-architecture/](https://okhodjaev.com/governance-briefs/the-paper-architecture/)*
