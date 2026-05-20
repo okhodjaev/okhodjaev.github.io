@@ -1,5 +1,5 @@
 ---
-title: "Analytical Note No. 2 — The Paper Architecture"
+title: "The Paper Architecture"
 date: 2026-05-20
 permalink: /governance-briefs/the-paper-architecture/
 description: "When AI governance frameworks exist but cannot be enforced. The structural gap between Uzbekistan's regulatory output and the enforcement architecture needed to make it operational."
@@ -11,10 +11,10 @@ toc_icon: "file-text"
 excerpt: "The norm exists. The enforcement architecture does not yet. A governance framework without enforcement infrastructure is not a weaker version of governance — it is a structurally different condition."
 ---
 
-*Analytical Note No. 2 · Series: [Governance Briefs](/governance-briefs/) · May 2026 · [Русская версия](/governance-briefs/the-paper-architecture-ru/)*
-
+*Analytical Note No. 2 · Series: [Governance Briefs](/governance-briefs/) · May 2026 · *
 *Operationalises: Essay 1 "The Illusion of Control" — [Beyond Control: Theory of Limits of AI Governance](/essays/)*
 
+*[Русская версия](/governance-briefs/the-paper-architecture-ru/)*
 ---
 
 Over the past two years, Uzbekistan has produced a regulatory architecture for artificial intelligence that few countries in Central Asia can match in scope or pace. Presidential Decree No. PP-358 (October 2024) established an AI development strategy to 2030. Law No. ZRU-1115 (January 2026) introduced the first legislative definition of artificial intelligence and placed explicit restrictions on autonomous decision-making in legally significant contexts. The Ministry of Digital Technologies issued Ethical Rules for AI Application in March 2026. Presidential Decree UP-189 (October 2025) mandated NAPPM coordination for all regulatory proposals involving AI implementation. The Cybersecurity Strategy 2026–2030 addressed AI-related infrastructure risks.
