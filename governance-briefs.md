@@ -30,34 +30,44 @@ description: "Applied analytical notes on AI governance in Uzbekistan and Centra
 ### Forthcoming
 
 Analytical Note No. 3 — **The Conflict of Functions**
- Who audits the regulator?
+---
+*Who audits the regulator?*
 
 Analytical Note No. 4 — **Audit Without Access**
- Behavioural datasets and the limits of fiscal oversight.
+---
+*Behavioural datasets and the limits of fiscal oversight.*
 
 Analytical Note No. 5 — **The Incident Gap**
- Why the absence of incident protocols is itself a governance failure.
+---
+*Why the absence of incident protocols is itself a governance failure.*
 
 Analytical Note No. 6 — **The Rollback Problem**
- AI scoring in Uzbekistan's banking sector and the non-linear cost of correction.
+---
+*AI scoring in Uzbekistan's banking sector and the non-linear cost of correction.*
 
 Analytical Note No. 7 — **The Procurement Trap**
- How AI procurement decisions lock in governance architecture.
+---
+*How AI procurement decisions lock in governance architecture.*
 
-nalytical Note No. 8 — **AThree Centralisation Architectures**
- Comparative analysis: Uzbekistan, India UPI, Brazil Pix.
+Analytical Note No. 8 — **AThree Centralisation Architectures**
+---
+*Comparative analysis: Uzbekistan, India UPI, Brazil Pix.*
 
 Analytical Note No. 9 — **Why Governance Does Not Scale**
- The structural limits of transposing developed-economy oversight to emerging institutional environments.
+---
+*The structural limits of transposing developed-economy oversight to emerging institutional environments.*
 
 Analytical Note No. 10 — **Aligned on Paper**
- What AI alignment means for institutions that did not build the system.
+---
+*What AI alignment means for institutions that did not build the system.*
 
 Analytical Note No. 11 — **Sovereignty Without Infrastructure**
- Digital sovereignty as institutional claim versus operational reality.
+---
+*Digital sovereignty as institutional claim versus operational reality.*
 
 Analytical Note No. 12 — **Minimum Viable Oversight**
- What governance architecture can still achieve within structural limits.
+---
+*What governance architecture can still achieve within structural limits.*
 
 ---
 
