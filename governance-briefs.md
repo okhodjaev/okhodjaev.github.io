@@ -13,15 +13,17 @@ description: "Applied analytical notes on AI governance in Uzbekistan and Centra
 
 ### Published
 
-[**Analytical Note No. 1 — AI in Uzbekistan: A Question of Manageability, Not Implementation** · May 2026 · English](/governance-briefs/the-manageability-question/) · 
- [Русская версия](/governance-briefs/the-manageability-question-ru/)
+[Analytical Note No. 1 — **AI in Uzbekistan: A Question of Manageability, Not Implementation** · May 2026 · English](/governance-briefs/the-manageability-question/) 
+---
+[Русская версия](/governance-briefs/the-manageability-question-ru/)
 
-The structural gap between Uzbekistan's AI regulatory framework and the mechanisms needed to enforce it — and why this window is narrowing faster than in any previous sector.
+*The structural gap between Uzbekistan's AI regulatory framework and the mechanisms needed to enforce it — and why this window is narrowing faster than in any previous sector.*
 
-[**Analytical Note No. 2 — The Paper Architecture** · May 2026 · English](/governance-briefs/the-paper-architecture/) ·
- [Русская версия](/governance-briefs/the-paper-architecture-ru/)
+[Analytical Note No. 2 — **The Paper Architecture** · May 2026 · English](/governance-briefs/the-paper-architecture/) 
+---
+[Русская версия](/governance-briefs/the-paper-architecture-ru/)
 
-When AI governance frameworks exist but cannot be enforced. The structural gap between Uzbekistan's regulatory output and the enforcement architecture needed to make it operational.
+*When AI governance frameworks exist but cannot be enforced. The structural gap between Uzbekistan's regulatory output and the enforcement architecture needed to make it operational.*
 
 ---
 
