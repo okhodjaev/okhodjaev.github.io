@@ -75,10 +75,6 @@ Understanding the actual regulatory position requires examining what AI systems 
 
 ---
 
-*Oybek Khodjaev — over 35 years of experience in the banking sector, finance, public administration, and business in Uzbekistan and the CIS. Author of the essay series "Beyond Control: Theory of Limits of AI Governance." [okhodjaev.com](https://okhodjaev.com)*
+*Oybek Khodjaev — over 35 years of experience in the banking sector, finance, public administration, and business in Uzbekistan and the CIS. Author of the essay series "**Beyond Control: Theory of Limits of AI Governance.**" [okhodjaev.com](https://okhodjaev.com)*
 
 *The author develops analytical materials and architectural recommendations on AI governance, verification frameworks, and institutional readiness for government bodies, banks, and other institutions.*
-
-**Published** May 20, 2026
-
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
