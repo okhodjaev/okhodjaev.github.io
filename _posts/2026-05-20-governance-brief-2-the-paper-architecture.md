@@ -1,5 +1,5 @@
 ---
-title: "Brief No. 2 — The Paper Architecture"
+title: "Analytical Note No. 2 — The Paper Architecture"
 date: 2026-05-20
 permalink: /governance-briefs/the-paper-architecture/
 description: "When AI governance frameworks exist but cannot be enforced. The structural gap between Uzbekistan's regulatory output and the enforcement architecture needed to make it operational."
@@ -11,11 +11,9 @@ toc_icon: "file-text"
 excerpt: "The norm exists. The enforcement architecture does not yet. A governance framework without enforcement infrastructure is not a weaker version of governance — it is a structurally different condition."
 ---
 
-*Governance Briefs — No. 2 · May 2026 · [Русская версия](/governance-briefs/the-paper-architecture-ru/)*
+*Analytical Note No. 2 · Series: [Governance Briefs](/governance-briefs/) · May 2026 · [Русская версия](/governance-briefs/the-paper-architecture-ru/)*
 
 *Operationalises: Essay 1 "The Illusion of Control" — [Beyond Control: Theory of Limits of AI Governance](/essays/)*
-
-*Series: [Governance Briefs](/governance-briefs/)*
 
 ---
 
@@ -43,11 +41,11 @@ Order 3787 (AI Ethics Rules, March 2026) illustrates this at a further level. Pr
 
 ## The architecture and the window
 
-Brief No. 1 in this series established that the correction window is narrowing faster in AI governance than in any previous regulatory domain. Each period of operation without a verification mechanism is a period in which AI systems accumulate operational history, institutions develop dependencies, and the cost of subsequent audit increases while the practical significance of its findings decreases.
+Analytical Note No. 1 in this series established that the correction window is narrowing faster in AI governance than in any previous regulatory domain. Each period of operation without a verification mechanism is a period in which AI systems accumulate operational history, institutions develop dependencies, and the cost of subsequent audit increases while the practical significance of its findings decreases.
 
 The logic of the paper architecture compounds this. A jurisdiction that builds documentation quickly but enforcement infrastructure slowly does not preserve its correction window by the act of documentation. Documents do not slow the clock. The cost of building that infrastructure grows faster than is generally assumed.
 
-Uzbekistan's regulatory output to date represents a significant investment in the first stage of a governance architecture. What the second stage requires is not additional documentation — it is the institutional machinery that makes the documentation operative: independent verification capacity, a designated oversight authority with meaningful access rights, incident response protocols, and consequence structures that create incentives for compliance behaviour rather than compliance documentation. Building that machinery is harder than drafting the documents. It requires resolving questions of institutional jurisdiction that the current framework leaves open — including, examined in Brief No. 3, the question of who has authority to verify what AI systems actually do, as distinct from what their operators declare.
+Uzbekistan's regulatory output to date represents a significant investment in the first stage of a governance architecture. What the second stage requires is not additional documentation — it is the institutional machinery that makes the documentation operative: independent verification capacity, a designated oversight authority with meaningful access rights, incident response protocols, and consequence structures that create incentives for compliance behaviour rather than compliance documentation. Building that machinery is harder than drafting the documents. It requires resolving questions of institutional jurisdiction that the current framework leaves open — including, examined in Analytical Note No. 3, the question of who has authority to verify what AI systems actually do, as distinct from what their operators declare.
 
 ## What this means for institutions
 
@@ -69,7 +67,7 @@ Understanding the actual regulatory position requires examining what AI systems 
 
 [5] Presidential Decree No. UP-38, 2026. *Cybersecurity Strategy of the Republic of Uzbekistan 2026–2030.* [lex.uz](https://lex.uz)
 
-[6] European Parliament and Council. *Regulation (EU) 2024/1689 of the European Parliament and of the Council — AI Act.* August 2024. [eur-lex.europa.eu](https://eur-lex.europa.eu)
+[6] European Parliament and Council. *Regulation (EU) 2024/1689 — AI Act.* August 2024. [eur-lex.europa.eu](https://eur-lex.europa.eu)
 
 [7] The White House. *Executive Order 14110 on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence.* October 2023. [whitehouse.gov](https://whitehouse.gov)
 
