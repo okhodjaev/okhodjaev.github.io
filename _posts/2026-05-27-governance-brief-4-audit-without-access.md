@@ -1,6 +1,6 @@
 ---
 title: "Audit Without Access"
-date: 2026-05-26
+date: 2026-05-27
 permalink: /governance-briefs/audit-without-access/
 description: "Behavioural data and the structural limits of AI oversight in Uzbekistan's financial sector. Analytical Note No. 4 — Governance Briefs series."
 tags: [AI governance, Uzbekistan, data access, QR payments, CBU, financial sector]
@@ -9,6 +9,8 @@ author_profile: false
 classes: wide
 excerpt: "The distinction between reviewing compliance documentation and examining operational data is the difference between reading the instructions and inspecting the machine in operation."
 ---
+***The distinction between reviewing compliance documentation and examining operational data is the difference between reading the instructions and inspecting the machine in operation.***
+
 
 *Analytical Note No. 4 · Series: [Governance Briefs](/governance-briefs/) · May 2026*
 *Operationalises: Essay 8 "The Agency Transfer" — [Beyond Control: Theory of Limits of AI Governance](/essays/)*
@@ -97,7 +99,3 @@ Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury
 and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
 More than thirty years' experience in economics, banking, finance, and business
 across Uzbekistan and the CIS.*
-
-**Published** May 26, 2026
-
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
