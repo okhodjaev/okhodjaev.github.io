@@ -4,7 +4,6 @@ permalink: /governance-briefs/
 layout: single
 author_profile: false
 classes: wide
-description: "Applied analytical notes on AI governance in Uzbekistan and Central Asia, operationalising the Beyond Control essay series through concrete regulatory and institutional cases."
 ---
 
 *Applied analytical notes on AI governance in Uzbekistan and Central Asia. Each note operationalises a specific argument from the [**Beyond Control**](/essays/) essay series through concrete regulatory and institutional cases. Published in English; Russian-language versions are also available.*
@@ -31,13 +30,15 @@ description: "Applied analytical notes on AI governance in Uzbekistan and Centra
 
 *Who audits the regulator? The structural gap between coordination of AI regulatory proposals and independent oversight of deployed AI systems — and why the current architecture conflates both.*
 
+## [Analytical Note No. 4 — **Audit Without Access** · May 2026 · English](/governance-briefs/audit-without-access/)
+
+[Русская версия](/governance-briefs/audit-without-access-ru/)
+
+*Behavioural data and the structural limits of AI oversight in Uzbekistan's financial sector. Even an ideal independent verification body would have no defined access path to the data its work requires under the current QR payment architecture.*
+
 ---
 
 ### Forthcoming
-
-## Analytical Note No. 4 — **Audit Without Access**
-
-*Behavioural datasets and the limits of fiscal oversight.*
 
 ## Analytical Note No. 5 — **The Incident Gap**
 
@@ -73,4 +74,4 @@ description: "Applied analytical notes on AI governance in Uzbekistan and Centra
 
 ---
 
-*For institutional inquiries and analytical materials: [ok@okhodjaev.com](mailto:ok@okhodjaev.com)*
+*For institutional and consulting inquiries: [ok@okhodjaev.com](mailto:ok@okhodjaev.com)*
