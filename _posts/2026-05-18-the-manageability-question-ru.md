@@ -10,10 +10,10 @@ classes: wide
 excerpt: "Норма существует — инструмент её применения отсутствует."
 ---
 
-*Аналитическая записка · Серия: Governance Briefs · 1 из 9*
-*Операционализирует: Эссе 7 «Окно коррекции», Эссе 8 «Агентский трансфер», Эссе 11 «Институциональный разрыв»*
+*Аналитическая записка №1 · Серия: Governance Briefs · Май 2026*
+*Операционализирует: Эссе 7 «Окно коррекции», Эссе 8 «Агентский трансфер», Эссе 11 «Институциональный разрыв» — серия «Beyond Control: Theory of Limits of AI Governance»*
 
-*English version: [okhodjaev.com/governance-briefs/the-manageability-question/](https://okhodjaev.com/governance-briefs/the-manageability-question/)*
+*[English version](/governance-briefs/the-manageability-question/)*
 
 ---
 
@@ -61,13 +61,11 @@ excerpt: "Норма существует — инструмент её прим
 
 [8] Basel Committee on Banking Supervision. *Principles for Sound Management of Operational Risk.* Bank for International Settlements. [bis.org](https://www.bis.org/publ/bcbs195.htm)
 
-Полная версия и источники: [okhodjaev.com/governance-briefs/the-manageability-question-ru/](https://okhodjaev.com/governance-briefs/the-manageability-question-ru/)
+---
+
+*Ойбек Ходжаев — более 35 лет опыта в банковском секторе, финансах, государственном управлении и бизнесе Узбекистана и СНГ. 
+Автор серии эссе «Beyond Control: Theory of Limits of AI Governance». [okhodjaev.com](https://okhodjaev.com)*
 
 ---
 
-*Ойбек Ходжаев — более 35 лет опыта в банковском секторе, финансах, государственном управлении и бизнесе Узбекистана и СНГ. Автор серии эссе «За пределами контроля: теория пределов управления искусственным интеллектом». [okhodjaev.com](https://okhodjaev.com)*
-
-
----
-
-*Автор формирует аналитические материалы и архитектурные рекомендации по вопросам системы управления ИИ, верификации и институциональной готовности государственных органов, банков и других институтов.*
+*Автор консультирует государственные органы и финансовые организации по вопросам управления ИИ, систем верификации и институциональной готовности.*
