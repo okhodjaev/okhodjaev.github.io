@@ -13,6 +13,7 @@ excerpt: "Разница между проверкой документации 
 
 *Аналитическая записка №4 · Серия: [Governance Briefs](/governance-briefs/) · Май 2026* · 
 *Операционализирует: Эссе 8 «Передача полномочий» — [Beyond Control: Theory of Limits of AI Governance](/essays/)*
+
 *[English version](/governance-briefs/audit-without-access/)*
 
 ---
