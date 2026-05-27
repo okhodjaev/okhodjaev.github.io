@@ -10,7 +10,7 @@ classes: wide
 excerpt: "Норма существует — инструмент её применения отсутствует."
 ---
 
-*Аналитическая записка №1 · Серия: Governance Briefs · Май 2026*
+*Аналитическая записка №1 · Серия: Governance Briefs · Май 2026* · 
 *Операционализирует: Эссе 7 «Окно коррекции», Эссе 8 «Агентский трансфер», Эссе 11 «Институциональный разрыв» — серия «Beyond Control: Theory of Limits of AI Governance»*
 
 *[English version](/governance-briefs/the-manageability-question/)*
