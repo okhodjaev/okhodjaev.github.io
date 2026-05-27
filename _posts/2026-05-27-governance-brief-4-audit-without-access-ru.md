@@ -1,6 +1,6 @@
 ---
 title: "Аудит без доступа"
-date: 2026-05-26
+date: 2026-05-27
 permalink: /governance-briefs/audit-without-access-ru/
 description: "Поведенческие данные и структурные ограничения надзора за ИИ в финансовом секторе Узбекистана. Аналитическая записка №4 — серия Governance Briefs."
 tags: [AI governance, Uzbekistan, data access, QR payments, CBU, financial sector]
@@ -9,6 +9,7 @@ author_profile: false
 classes: wide
 excerpt: "Разница между проверкой документации о соответствии и анализом операционных данных — это разница между чтением инструкции и осмотром машины в работе."
 ---
+***Разница между проверкой документации о соответствии и анализом операционных данных — это разница между чтением инструкции и осмотром машины в работе.***
 
 *Аналитическая записка №4 · Серия: [Governance Briefs](/governance-briefs/) · Май 2026*
 *Операционализирует: Эссе 8 «Передача полномочий» — [Beyond Control: Theory of Limits of AI Governance](/essays/)*
@@ -91,7 +92,3 @@ excerpt: "Разница между проверкой документации 
 ---
 
 *Ойбек Ходжаев — более 35 лет опыта в банковском секторе, финансах, государственном управлении и бизнесе в Узбекистане и СНГ. Автор серии эссе «Beyond Control: Theory of Limits of AI Governance.» [okhodjaev.com](https://okhodjaev.com)*
-
-**Опубликовано** 26 мая 2026 года
-
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
