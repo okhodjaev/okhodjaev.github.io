@@ -11,7 +11,7 @@ description: "Кто проверяет регулятора? Структурн
 
 *Аналитическая записка №3 · Серия: [Governance Briefs](/governance-briefs/) · Май 2026*  
 *Операционализирует: Эссе 3 «Дилемма регулятора» — серия «Beyond Control: Теория пределов управления ИИ»*  
-*English version: [okhodjaev.com/governance-briefs/the-conflict-of-functions/](/governance-briefs/the-conflict-of-functions/)*
+*[English version](/governance-briefs/the-conflict-of-functions/)*
 
 ---
 
@@ -87,10 +87,10 @@ description: "Кто проверяет регулятора? Структурн
 
 ---
 
-*Ойбек Ходжаев — более 35 лет опыта в банковской сфере, финансах, государственном управлении и бизнесе в Узбекистане и СНГ. Автор серии эссе «Beyond Control: Теория пределов управления ИИ». [okhodjaev.com](https://okhodjaev.com)*
+*Ойбек Ходжаев — более 35 лет опыта в банковском секторе, финансах, государственном управлении и бизнесе в Узбекистане и СНГ. 
+Автор серии эссе «Beyond Control: Theory of Limits of AI Governance». [okhodjaev.com](https://okhodjaev.com)*
 
-*Автор разрабатывает аналитические материалы и архитектурные рекомендации по управлению ИИ, системам верификации и институциональной готовности для государственных органов, банков и иных организаций.*
+*Автор консультирует государственные органы и финансовые организации по вопросам управления ИИ, систем верификации и институциональной готовности.*
 
-**Опубликовано** май 2026
 
 [Previous](/governance-briefs/the-conflict-of-functions/ "The Conflict of Functions") [Next](#)
