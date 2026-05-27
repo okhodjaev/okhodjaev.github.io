@@ -11,7 +11,7 @@ excerpt: "The distinction between reviewing compliance documentation and examini
 ---
 ***The distinction between reviewing compliance documentation and examining operational data is the difference between reading the instructions and inspecting the machine in operation.***
 
-*Analytical Note No. 4 · Series: [Governance Briefs](/governance-briefs/) · May 2026*
+*Analytical Note No. 4 · Series: [Governance Briefs](/governance-briefs/) · May 2026* · 
 *Operationalises: Essay 8 "The Agency Transfer" — [Beyond Control: Theory of Limits of AI Governance](/essays/)*
 *[Русская версия](/governance-briefs/audit-without-access-ru/)*
 
