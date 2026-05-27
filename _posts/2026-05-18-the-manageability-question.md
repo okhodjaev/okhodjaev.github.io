@@ -10,7 +10,7 @@ classes: wide
 excerpt: "The norm exists — the instrument for its enforcement does not."
 ---
 
-*Analytical Note No. 1 · Series: Governance Briefs · May 2026*
+*Analytical Note No. 1 · Series: Governance Briefs · May 2026* · 
 *Operationalises: Essay 7 "The Correction Window", Essay 8 "The Agency Transfer", Essay 11 "The Institutional Gap" — Beyond Control: Theory of Limits of AI Governance*
 
 *[Русская версия](/governance-briefs/the-manageability-question-ru/)*
