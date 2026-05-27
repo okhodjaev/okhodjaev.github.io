@@ -11,8 +11,8 @@ toc_icon: "file-text"
 excerpt: "The norm exists. The enforcement architecture does not yet. A governance framework without enforcement infrastructure is not a weaker version of governance — it is a structurally different condition."
 ---
 
-*Analytical Note No. 2 · Series: [Governance Briefs](/governance-briefs/) · May 2026 · *
-*Operationalises: Essay 1 "The Illusion of Control" — [Beyond Control: Theory of Limits of AI Governance](/essays/)*
+**Analytical Note No. 2 · Series: Governance Briefs · May 2026**
+*Operationalises: Essay 1 "The Illusion of Control" — Beyond Control: Theory of Limits of AI Governance*
 *[Русская версия](/governance-briefs/the-paper-architecture-ru/)*
 
 ---
@@ -75,6 +75,7 @@ Understanding the actual regulatory position requires examining what AI systems 
 
 ---
 
-*Oybek Khodjaev — over 35 years of experience in the banking sector, finance, public administration, and business in Uzbekistan and the CIS. Author of the essay series "**Beyond Control: Theory of Limits of AI Governance.**" [okhodjaev.com](https://okhodjaev.com)*
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. 
+Author of the essay series "**Beyond Control: Theory of Limits of AI Governance.**" [okhodjaev.com](https://okhodjaev.com)*
 
-*The author develops analytical materials and architectural recommendations on AI governance, verification frameworks, and institutional readiness for government bodies, banks, and other institutions.*
+The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.
