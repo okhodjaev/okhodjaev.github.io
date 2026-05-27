@@ -11,7 +11,7 @@ toc_icon: "file-text"
 excerpt: "The norm exists. The enforcement architecture does not yet. A governance framework without enforcement infrastructure is not a weaker version of governance — it is a structurally different condition."
 ---
 
-**Analytical Note No. 2 · Series: Governance Briefs · May 2026**
+**Analytical Note No. 2 · Series: Governance Briefs · May 2026** · 
 *Operationalises: Essay 1 "The Illusion of Control" — Beyond Control: Theory of Limits of AI Governance*
 *[Русская версия](/governance-briefs/the-paper-architecture-ru/)*
 
