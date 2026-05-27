@@ -11,7 +11,7 @@ description: "Who audits the regulator? The structural gap between coordination 
 
 *Analytical Note No. 3 · Series: [Governance Briefs](/governance-briefs/) · May 2026*  
 *Operationalises: Essay 3 "The Regulator's Dilemma" — [Beyond Control: Theory of Limits of AI Governance](/essays/)*  
-*Русская версия: [okhodjaev.com/governance-briefs/the-conflict-of-functions-ru/](/governance-briefs/the-conflict-of-functions-ru/)*
+*[Русская версия](/governance-briefs/the-conflict-of-functions-ru/)*
 
 ---
 
@@ -87,7 +87,8 @@ Analytical Note No. 4 — "Audit Without Access" — examines this directly: wha
 
 ---
 
-*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration and business in Uzbekistan and the CIS. Author of the essay series "Beyond Control: Theory of Limits of AI Governance." [okhodjaev.com](https://okhodjaev.com)*
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. 
+Author of the essay series "Beyond Control: Theory of Limits of AI Governance." [okhodjaev.com](https://okhodjaev.com)*
 
 *The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
 
