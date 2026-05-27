@@ -164,3 +164,72 @@ across Uzbekistan and the CIS.*
 
 *Документ создан: февраль 2026*
 *Применяется ко всем эссе начиная с Essay 1*
+
+---
+
+## 10. СТАНДАРТ GOVERNANCE BRIEFS — HEADER И FOOTER
+
+Применяется ко всем аналитическим запискам серии Governance Briefs. Обязателен для EN и RU версий каждой записки.
+
+### Header (первые 3 строки после front matter)
+
+**EN:**
+```
+*Analytical Note No. [N] · Series: Governance Briefs · [Month] [Year]*
+*Operationalises: Essay [X] "[Title]"[, Essay Y "Title"] — Beyond Control: Theory of Limits of AI Governance*
+*[Русская версия](/governance-briefs/[slug]-ru/)*
+```
+
+**RU:**
+```
+*Аналитическая записка №[N] · Серия: Governance Briefs · [Месяц] [Год]*
+*Операционализирует: Эссе [X] «[Название]»[, Эссе Y «Название»] — серия «Beyond Control: Theory of Limits of AI Governance»*
+*[English version](/governance-briefs/[slug]/)*
+```
+
+### Footer (после блока Sources, после горизонтальной линии `---`)
+
+**EN:**
+```
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. Author of the essay series "Beyond Control: Theory of Limits of AI Governance." [okhodjaev.com](https://okhodjaev.com/)*
+
+*The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
+
+**Published** [Month DD, YYYY]
+
+<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
+```
+
+**RU:**
+```
+*Ойбек Ходжаев — более 35 лет опыта в банковском секторе, финансах, государственном управлении и бизнесе в Узбекистане и СНГ. Автор серии эссе «Beyond Control: Theory of Limits of AI Governance». [okhodjaev.com](https://okhodjaev.com/)*
+
+*Автор консультирует государственные органы и финансовые организации по вопросам управления ИИ, систем верификации и институциональной готовности.*
+
+**Опубликовано** [Месяц ГГГГ]
+
+<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
+```
+
+### Запрещено
+
+- `1 of 9` / `1 из 9` — никогда. Только `No. N` / `№N`
+- Название серии в переводе на русский — только английское: `Beyond Control: Theory of Limits of AI Governance`
+- Строка `Full brief and updated sources: okhodjaev.com/...` — удалена как артефакт Substack
+- Строка `Полная версия и источники: okhodjaev.com/...` — аналогично
+- Plain text URL вместо гиперссылки для языковой версии
+- Висячие звёздочки вокруг строк header (баг italic-форматирования)
+- Разные варианты консалтинговой строки — только формула выше
+
+### Именование файлов
+
+```
+_posts/YYYY-MM-DD-governance-brief-[N]-[slug].md
+_posts/YYYY-MM-DD-governance-brief-[N]-[slug]-ru.md
+```
+
+Примеры:
+- `2026-05-18-the-manageability-question.md` (Brief 1, исключение — создан до введения стандарта)
+- `2026-05-20-governance-brief-2-the-paper-architecture.md`
+- `2026-05-25-governance-brief-3-the-conflict-of-functions.md`
+- `2026-05-27-governance-brief-4-audit-without-access.md`
