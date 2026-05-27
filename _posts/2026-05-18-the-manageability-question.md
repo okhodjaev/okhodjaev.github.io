@@ -10,11 +10,10 @@ classes: wide
 excerpt: "The norm exists — the instrument for its enforcement does not."
 ---
 
-*Analytical Note · Series: Governance Briefs · 1 of 9*
-*Operationalises: Essay 7 "The Correction Window", Essay 8 "The Agency Transfer", Essay 11 "The Institutional Gap"*
+*Analytical Note No. 1 · Series: Governance Briefs · May 2026*
+*Operationalises: Essay 7 "The Correction Window", Essay 8 "The Agency Transfer", Essay 11 "The Institutional Gap" — Beyond Control: Theory of Limits of AI Governance*
 
-*Русская версия: [okhodjaev.com/governance-briefs/the-manageability-question-ru/](https://okhodjaev.com/governance-briefs/the-manageability-question-ru/)*
-
+*[Русская версия](/governance-briefs/the-manageability-question-ru/)*
 ---
 
 Over recent years, Uzbekistan has established a regulatory foundation for artificial intelligence development that few countries in the region — and relatively few in the wider developing world — can match: the AI Technology Development Strategy to 2030 (Presidential Decree PP-358, 14.10.2024), legislative amendments introducing the first legal definition of AI and restrictions on fully autonomous legally significant decisions (Law ZRU-1115, 21.01.2026), Ethical Rules for AI Application (Order of the Ministry of Digital Technologies No. 3787, 14.03.2026), a target of 100 priority projects, and financing of AI-related projects exceeding $150 million through the Reconstruction and Development Fund of Uzbekistan. This represents substantial institutional work carried out within a compressed timeframe.
@@ -61,13 +60,11 @@ As AI integration deepens, the cost of building such an architecture will only g
 
 [8] Basel Committee on Banking Supervision. *Principles for Sound Management of Operational Risk.* Bank for International Settlements. [bis.org](https://www.bis.org/publ/bcbs195.htm)
 
-Full brief and updated sources: [okhodjaev.com/governance-briefs/the-manageability-question/](https://okhodjaev.com/governance-briefs/the-manageability-question/)
-
 ---
 
-*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration and business in Uzbekistan and the CIS. Author of the essay series "Beyond Control: The Theory of the Limits of AI Governance". [okhodjaev.com](https://okhodjaev.com)*
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration and business in Uzbekistan and the CIS. 
+Author of the essay series "Beyond Control: Theory of Limits of AI Governance". [okhodjaev.com](https://okhodjaev.com)*
 
 ---
 
 *The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
-
