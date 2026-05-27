@@ -11,7 +11,7 @@ excerpt: "Разница между проверкой документации 
 ---
 ***Разница между проверкой документации о соответствии и анализом операционных данных — это разница между чтением инструкции и осмотром машины в работе.***
 
-*Аналитическая записка №4 · Серия: [Governance Briefs](/governance-briefs/) · Май 2026*
+*Аналитическая записка №4 · Серия: [Governance Briefs](/governance-briefs/) · Май 2026* · 
 *Операционализирует: Эссе 8 «Передача полномочий» — [Beyond Control: Theory of Limits of AI Governance](/essays/)*
 *[English version](/governance-briefs/audit-without-access/)*
 
