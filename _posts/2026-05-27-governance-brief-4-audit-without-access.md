@@ -11,7 +11,6 @@ excerpt: "The distinction between reviewing compliance documentation and examini
 ---
 ***The distinction between reviewing compliance documentation and examining operational data is the difference between reading the instructions and inspecting the machine in operation.***
 
-
 *Analytical Note No. 4 · Series: [Governance Briefs](/governance-briefs/) · May 2026*
 *Operationalises: Essay 8 "The Agency Transfer" — [Beyond Control: Theory of Limits of AI Governance](/essays/)*
 *[Русская версия](/governance-briefs/audit-without-access-ru/)*
@@ -94,8 +93,7 @@ The sequencing problem this note describes — specifying independent data acces
 
 ---
 
-*Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC.
-Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director
-and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
-More than thirty years' experience in economics, banking, finance, and business
-across Uzbekistan and the CIS.*
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. 
+Author of the essay series "Beyond Control: Theory of Limits of AI Governance." [okhodjaev.com](https://okhodjaev.com/)*
+
+*The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
