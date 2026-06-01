@@ -1,6 +1,6 @@
 ---
 title: "Analytical Note No. 5 — The Incident Gap"
-date: 2026-06-02
+date: 2026-06-01
 permalink: /governance-briefs/the-incident-gap/
 description: "Why the absence of incident protocols is itself a governance failure. The structural case for AI incident reporting architecture in Uzbekistan."
 tags: [AI governance, incident reporting, Uzbekistan, institutional risk, enforcement gap]
@@ -14,6 +14,8 @@ excerpt: "The absence of a rule is not a neutral condition. It is an architectur
 *Analytical Note No. 5 · Series: Governance Briefs · June 2026*
 *Operationalises: [Beyond Control: Theory of Limits of AI Governance](https://okhodjaev.com/essays/)*
 
+*Why the absence of incident protocols is itself a governance failure. The structural case for AI incident reporting architecture in Uzbekistan.
+The absence of a rule is not a neutral condition. It is an architectural choice — and its consequences begin accumulating the day the system goes live.*
 ---
 
 #### Contents
@@ -142,8 +144,7 @@ The incident gap is not a risk waiting to be activated. It is a governance defic
 
 ---
 
-*Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC. Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank. More than thirty years' experience in economics, banking, finance, and business across Uzbekistan and the CIS. Author of Beyond Control: Theory of Limits of AI Governance. Consulting inquiries: ok@okhodjaev.com*
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. 
+Author of the essay series “Beyond Control: Theory of Limits of AI Governance.” okhodjaev.com
 
-**Published** June 2, 2026
-
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
+The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
