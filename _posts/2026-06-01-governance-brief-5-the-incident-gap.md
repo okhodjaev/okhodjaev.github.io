@@ -145,6 +145,6 @@ The incident gap is not a risk waiting to be activated. It is a governance defic
 ---
 
 *Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. 
-Author of the essay series “Beyond Control: Theory of Limits of AI Governance.” okhodjaev.com*
+Author of the essay series “Beyond Control: Theory of Limits of AI Governance.”  okhodjaev.com*
 
 *The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
