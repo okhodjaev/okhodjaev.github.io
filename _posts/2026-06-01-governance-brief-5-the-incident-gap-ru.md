@@ -11,8 +11,8 @@ toc_icon: "file-text"
 excerpt: "Отсутствие правила — не нейтральное состояние. Это архитектурный выбор, и его последствия начинают накапливаться с того дня, когда система запускается в эксплуатацию."
 ---
 
-*Аналитическая записка №5 · Серия: Governance Briefs · Июнь 2026 · *
-*Операционализирует: [Beyond Control: Theory of Limits of AI Governance](https://okhodjaev.com/essays/)*
+*Аналитическая записка №5 · Серия: Governance Briefs · Июнь 2026 · 
+Операционализирует: [Beyond Control: Theory of Limits of AI Governance](https://okhodjaev.com/essays/)*
 
 [English version](https://okhodjaev.com/governance-briefs/the-incident-gap/)
 
