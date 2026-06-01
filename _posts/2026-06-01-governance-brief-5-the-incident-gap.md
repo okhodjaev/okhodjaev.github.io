@@ -11,7 +11,7 @@ toc_icon: "file-text"
 excerpt: "The absence of a rule is not a neutral condition. It is an architectural choice — and its consequences begin accumulating the day the system goes live."
 ---
 
-*Analytical Note No. 5 · Series: Governance Briefs · June 2026*
+*Analytical Note No. 5 · Series: Governance Briefs · June 2026 · *
 *Operationalises: [Beyond Control: Theory of Limits of AI Governance](https://okhodjaev.com/essays/)*
 
 *Why the absence of incident protocols is itself a governance failure. The structural case for AI incident reporting architecture in Uzbekistan.
@@ -145,6 +145,6 @@ The incident gap is not a risk waiting to be activated. It is a governance defic
 ---
 
 *Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. 
-Author of the essay series “Beyond Control: Theory of Limits of AI Governance.” okhodjaev.com
+Author of the essay series “Beyond Control: Theory of Limits of AI Governance.” okhodjaev.com*
 
-The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
+*The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
