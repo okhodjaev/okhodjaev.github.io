@@ -11,8 +11,8 @@ toc_icon: "file-text"
 excerpt: "The absence of a rule is not a neutral condition. It is an architectural choice — and its consequences begin accumulating the day the system goes live."
 ---
 
-*Analytical Note No. 5 · Series: Governance Briefs · June 2026 · *
-*Operationalises: [Beyond Control: Theory of Limits of AI Governance](https://okhodjaev.com/essays/)*
+*Analytical Note No. 5 · Series: Governance Briefs · June 2026 · 
+Operationalises: [Beyond Control: Theory of Limits of AI Governance](https://okhodjaev.com/essays/)*
 
 *Why the absence of incident protocols is itself a governance failure. The structural case for AI incident reporting architecture in Uzbekistan.
 The absence of a rule is not a neutral condition. It is an architectural choice — and its consequences begin accumulating the day the system goes live.*
