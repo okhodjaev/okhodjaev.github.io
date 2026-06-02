@@ -1,24 +1,29 @@
 ---
 title: "Analysis"
 permalink: /analysis/
-description: "Short-form analytical notes applying the Theory of Limits of AI Governance framework to current events. Each piece examines a specific development and shows what the framework predicts or explains."
-layout: single
-author_profile: false
 classes: wide
 ---
 
-*Short-form analytical notes: the Theory of Limits framework applied to current events.*
+Analytical notes on AI governance events, institutional signals, and structural developments as they occur.
 
-Each piece examines a specific development — a regulatory decision, an AI incident, a geopolitical shift — and traces what the Beyond Control framework predicts or explains about it. These are not new theory. They are evidence that the theory works.
-
-Format: 600–1000 words. Published within 48–72 hours of the triggering event.
+These pieces are not part of the *Beyond Control* series. They apply the series' analytical framework to specific documents, decisions, and moments that warrant structural examination.
 
 ---
 
-*First pieces forthcoming. [Subscribe on Substack](https://okhodjaev.substack.com) to receive them directly.*
+## 2026
 
 ---
 
-*Oybek Khodjaev is the founder and CEO of INVEXI LLC, former Deputy Chairman of a major Uzbek commercial bank, and former Deputy Governor of the Samarkand Region (2019–2022). He writes on AI governance and institutional risk at okhodjaev.com.*
+### [When the Center Speaks for the Periphery: AI Governance and the Limits of Moral Declaration](/analysis/magnifica-humanitas-ai-governance/)
 
-[Substack](https://okhodjaev.substack.com){: target="_blank"} · [X.com](https://x.com/O_Khodjaev){: target="_blank"} · [LinkedIn](https://www.linkedin.com/in/oybek-khodjaev/){: target="_blank"}
+On May 15, 2026, Pope Leo XIV released *Magnifica Humanitas* — the first encyclical in the tradition of Catholic social teaching to address artificial intelligence directly. This is not a theological event. It is an institutional intervention in a contest over normative authority, arriving at the precise moment when that contest can still be shifted before infrastructure decisions harden into irreversibility. A structural reading from the periphery.
+
+*June 2, 2026.* [**Read Analysis →**](/analysis/magnifica-humanitas-ai-governance/)
+
+---
+
+*[Russian-language version available](/analysis/magnifica-humanitas-ai-governance-ru/)*
+
+---
+
+Subscribe to receive new work: <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
