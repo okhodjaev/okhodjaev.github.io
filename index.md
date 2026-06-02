@@ -23,7 +23,7 @@ The capstone of the twelve-essay series. Establishes the Theory of Limits of AI 
 
 ---
 
-Latest Analysis
+## Latest Analysis
 
 * * *
 
@@ -31,7 +31,7 @@ Latest Analysis
 
 On May 15, 2026, Pope Leo XIV released *Magnifica Humanitas* — the first encyclical in the tradition of Catholic social teaching to address AI directly. A structural reading of an institutional intervention in the contest over normative authority — from the periphery, not about it.
 
-*June 2, 2026.* [**Read Analysis →
+*June 2, 2026.* [**Read Analysis →**](/analysis/) (https://okhodjaev.com/analysis)
 
 ---
 
