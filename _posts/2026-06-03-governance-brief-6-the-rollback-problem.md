@@ -75,6 +75,30 @@ Defining correction procedures before operational dependencies form is architect
 
 ---
 
+## Sources & Notes
+
+[1] Republic of Uzbekistan. *Presidential Decree No. PP-204 "On further measures to increase the popularisation of financial services and expand support for small and medium-sized businesses."* 26 May 2026. [lex.uz](https://lex.uz/ru/docs/7409517)
+
+[2] Anor Bank. *"Udobny Microzaym" — consumer micro-loan product.* Official product page. [anorbank.uz](https://www.anorbank.uz/credits/udobnyy-mikrozaym/)
+
+[3] TBC Bank Uzbekistan. *TBC Kredit — FAQ.* Official product FAQ. [tbcbank.uz](https://tbcbank.uz/ru/product/kredity/faq/)
+
+[4] Uzum Bank. *Micro-loan product via Uzum Nasiya.* Official product page. [uzumbank.uz](https://uzumbank.uz/ru/card/)
+
+[5] UZCARD. *"UZCARD and zypl.ai establish joint venture 1ziyo.ai."* Official announcement. [api.uzcard.uz](https://api.uzcard.uz/en/news/1ziyo_ai/)
+
+[6] zypl.ai. *Company overview and product description.* [zypl.ai](https://zypl.ai/)
+
+[7] Republic of Uzbekistan. *Law No. ZRU-1115 "On Artificial Intelligence."* Article 7¹. [lex.uz](https://lex.uz/ru/docs/6600604)
+
+[8] Basel Committee on Banking Supervision. *Principles for the Sound Management of Operational Risk.* Bank for International Settlements, June 2011. [bis.org](https://www.bis.org/publ/bcbs195.htm)
+
+[9] Spot.uz. *"V Uzbekistane zapustyat tsifrovuyu platformu dlya kreditovaniya biznesa."* June 2026. [spot.uz](https://www.spot.uz/ru/2026/06/02/lending-platform/)
+
+[10] Khodjaev, O. *Beyond Control: Theory of Limits of AI Governance.* Essay 7 "The Correction Window"; Essay 8 "The Agency Transfer"; Essay 11 "The Institutional Gap." 2026. [okhodjaev.com](https://okhodjaev.com/essays/)
+
+---
+
 *Oybek Khodjaev has over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. He is the author of* Beyond Control: Theory of Limits of AI Governance. *[okhodjaev.com](https://okhodjaev.com/)*
 
 *The author advises government bodies and financial organisations on AI governance, verification frameworks, and institutional readiness.*
