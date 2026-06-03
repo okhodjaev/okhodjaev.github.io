@@ -89,7 +89,7 @@ Defining correction procedures before operational dependencies form is architect
 
 [6] zypl.ai. *Company overview and product description.* [zypl.ai](https://zypl.ai/)
 
-[7] Republic of Uzbekistan. *Law No. ZRU-1115 "On Artificial Intelligence."* Article 7¹. [lex.uz](https://lex.uz/ru/docs/6600604)
+[7] Republic of Uzbekistan. *Law No. ZRU-1115 "On Artificial Intelligence."* Article 7¹. [lex.uz](https://lex.uz/ru/docs/8011377)
 
 [8] Basel Committee on Banking Supervision. *Principles for the Sound Management of Operational Risk.* Bank for International Settlements, June 2011. [bis.org](https://www.bis.org/publ/bcbs195.htm)
 
