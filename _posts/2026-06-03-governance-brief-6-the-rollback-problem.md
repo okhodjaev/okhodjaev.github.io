@@ -77,7 +77,7 @@ Defining correction procedures before operational dependencies form is architect
 
 ## Sources & Notes
 
-[1] Republic of Uzbekistan. *Presidential Decree No. PP-204 "On further measures to increase the popularisation of financial services and expand support for small and medium-sized businesses."* 26 May 2026. [lex.uz](https://lex.uz/ru/docs/7409517)
+[1] Republic of Uzbekistan. *Presidential Decree No. PP-204 "On further measures to increase the popularisation of financial services and expand support for small and medium-sized businesses."* 26 May 2026. [lex.uz](https://lex.uz/ru/docs/8238385)
 
 [2] Anor Bank. *"Udobny Microzaym" — consumer micro-loan product.* Official product page. [anorbank.uz](https://www.anorbank.uz/credits/udobnyy-mikrozaym/)
 
