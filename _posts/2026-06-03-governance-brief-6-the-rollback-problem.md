@@ -105,10 +105,8 @@ The most consequential governance decisions are often made before governance mec
 
 ---
 
-*Oybek Khodjaev has over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. He is the author of* Beyond Control: Theory of Limits of AI Governance. *[okhodjaev.com](https://okhodjaev.com/)*
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. 
+Author of the essay series “Beyond Control: Theory of Limits of AI Governance.”  okhodjaev.com*
 
-*The author advises government bodies and financial organisations on AI governance, verification frameworks, and institutional readiness.*
+*The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
 
-**Published** June 3, 2026
-
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
