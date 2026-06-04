@@ -25,13 +25,15 @@ Uzbekistan's financial sector is entering precisely this phase.
 
 **The architecture of emerging dependency**
 
-Presidential Decree No. PP-204 of 26 May 2026 establishes a centralised digital financial platform for SME lending. An AI-based alternative scoring model is scheduled to become operational from 1 December 2026. The platform will integrate data from 47 government registries listed in Annex 1 and 71 alternative scoring datasets listed in Annex 2, sourced from agencies spanning the State Tax Committee to the Bureau of Compulsory Enforcement. The operator is structured as a separate legal entity under the Central Bank. Scoring results will be recorded in borrowers' credit histories at credit bureaus in accordance with established procedures.
+Presidential Decree No. PP-204 of 26 May 2026 establishes a centralised digital financial platform for SME lending. An AI-based alternative scoring model is scheduled to become operational from 1 December 2026. The platform will integrate data from 47 government registries listed in Annex 1 and 71 alternative scoring datasets listed in Annex 2, sourced from agencies spanning the State Tax Committee to the Bureau of Compulsory Enforcement. The operator is structured as a separate legal entity under the Central Bank, with its information systems housed within the Central Bank's Main Informatisation Centre. This creates what might be termed an institutional execution layer: a specialised intermediary positioned between the state and the market, through which credit decisions are channelled. Unlike ordinary service providers, institutional execution layers become progressively harder to replace because other institutions reorganise around them. Such nodes, once operational, tend to become structurally indispensable faster than the governance frameworks around them mature. Scoring results will be recorded in borrowers' credit histories at credit bureaus in accordance with established procedures.
 
 This is a technically coherent response to a genuine development problem: expanding the SME credit portfolio threefold by 2030, enabling unsecured micro-loans within one hour, and reaching borrowers without traditional credit histories. The architecture is not the issue. The structural question is what forms around it once the system is live.
 
 Three interlocking layers of dependency emerge in sequence.
 
 The first is data dependency. Data from government registries is provided to the platform free of charge until June 2027, then routed through the Digital Government platform. From June 2028, alternative scoring data follows the same path. By 2028, the scoring model will be operationally inseparable from the data repositories and information systems of at least a dozen state agencies. A fundamental correction to the model's input architecture is not a technical update — it is a renegotiation of data-sharing protocols across government.
+
+This phased timeline is not incidental. It is written into the decree itself. PP-204 establishes three distinct stages of data integration: direct agency feeds until 2027, Digital Government routing from 2027, and full alternative dataset consolidation by 2028. Each stage expands the model's operational dependencies. The Correction Window does not simply close over time — it closes in stages that the decree's own calendar defines. By 2028, rollback requires not merely a technical revision but a reversal of legislative and inter-agency commitments already in force.
 
 The second is contractual and procedural dependency. Scoring results embed into bank credit workflows, internal risk models, and credit bureau records. Staff training, liability allocation, and approval processes adjust to the new architecture. Reversion is no longer a model swap — it is a multi-institutional operational overhaul.
 
@@ -47,11 +49,13 @@ These are institution-specific products. The dependency structure they create is
 
 At the infrastructure level, the joint venture 1ziyo.ai, established between UZCARD and zypl.ai, is dedicated to deploying AI technologies for credit scoring, fraud detection, and financial risk management across Uzbekistan's financial sector. This is not a bank-level product but a sector-level capability. When scoring moves from institution-specific tools to shared national infrastructure, the rollback problem scales from institutional to systemic.
 
+PP-204 introduces a further dimension that extends beyond credit assessment. Within two months of the decree, commercial banks are required to launch the "AI Maslahatchi" programme — an AI-assisted advisory service designed to help entrepreneurs develop business ideas and identify financing options aligned with the specialisation and growth potential of their mahalla. This marks a qualitative shift: the system no longer evaluates economic behaviour after the fact. It begins to participate in shaping it before the fact. In the terms of Essay 8, this is agency transfer operating not at the level of the bank's credit officer, but at the level of the entrepreneur's initial decision. The architecture that governs what ideas get formed and financed becomes, over time, the architecture that governs what economic activity gets created.
+
 **The gap in the current architecture**
 
 This note does not critique PP-204 as a policy choice. The decree is a coherent response to a genuine access problem in SME finance. The point is architectural: once a shared scoring platform operates at sector level, correction requires explicit procedures that monitoring mechanisms do not automatically imply.
 
-The existing oversight framework establishes cybersecurity review every two years, digitisation audits by the Ministry of Digital Technologies, and quarterly reporting to the Central Bank. These are monitoring mechanisms. They are not correction mechanisms.
+The existing oversight framework establishes cybersecurity review every two years, digitisation audits by the Ministry of Digital Technologies, and quarterly reporting to the Central Bank. These are monitoring mechanisms. They are not correction mechanisms. In practice, mature digital systems often develop sophisticated mechanisms for observing themselves before they develop equally sophisticated mechanisms for changing themselves.
 
 The distinction matters. Monitoring determines whether the system is functioning as specified. Correction requires defined answers to three further questions: what constitutes a finding sufficient to trigger mandatory review or suspension; which institution holds operational halt authority; and what procedure governs decisions already embedded in credit bureau records when a model is subsequently found to be materially flawed. Defining that procedure becomes more costly with every month of operation, as the dependencies described above continue to accumulate.
 
@@ -71,13 +75,15 @@ The Correction Window for the platform established by PP-204 is measured in mont
 
 Defining correction procedures before operational dependencies form is architecturally cheaper than defining them after. This is not a political observation. It is the consistent lesson produced by every comparable deployment, regardless of jurisdiction.
 
+The most consequential governance decisions are often made before governance mechanisms formally exist. PP-204 itself reflects this sequencing: the operational architecture is launched first, while Article 11 instructs the Central Bank to prepare the supporting legislative amendments within two months. By the time the legal and supervisory architecture catches up with the infrastructure it is meant to govern, that infrastructure may already have become too embedded to unwind without systemic cost. This is not a critique of the sequencing — it is an argument for treating the interval between launch and legislative consolidation as the critical window for establishing correction procedures while they are still architecturally affordable.
+
 *The following note in this series examines how pre-deployment procurement decisions lock in governance architecture for the operational life of the system.*
 
 ---
 
 ## Sources & Notes
 
-[1] Republic of Uzbekistan. *Presidential Decree No. PP-204 "On further measures to increase the popularisation of financial services and expand support for small and medium-sized businesses."* 26 May 2026. [lex.uz](https://lex.uz/ru/docs/8238385)
+[1] Republic of Uzbekistan. *Presidential Decree No. PP-204 "On further measures to increase the popularisation of financial services and expand support for small and medium-sized businesses."* 26 May 2026. [lex.uz](https://lex.uz/ru/docs/7409517)
 
 [2] Anor Bank. *"Udobny Microzaym" — consumer micro-loan product.* Official product page. [anorbank.uz](https://www.anorbank.uz/credits/udobnyy-mikrozaym/)
 
@@ -89,7 +95,7 @@ Defining correction procedures before operational dependencies form is architect
 
 [6] zypl.ai. *Company overview and product description.* [zypl.ai](https://zypl.ai/)
 
-[7] Republic of Uzbekistan. *Law No. ZRU-1115 "On Artificial Intelligence."* Article 7¹. [lex.uz](https://lex.uz/ru/docs/8011377)
+[7] Republic of Uzbekistan. *Law No. ZRU-1115 "On Artificial Intelligence."* Article 7¹. [lex.uz](https://lex.uz/ru/docs/6600604)
 
 [8] Basel Committee on Banking Supervision. *Principles for the Sound Management of Operational Risk.* Bank for International Settlements, June 2011. [bis.org](https://www.bis.org/publ/bcbs195.htm)
 
@@ -99,7 +105,10 @@ Defining correction procedures before operational dependencies form is architect
 
 ---
 
-*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. 
-Author of the essay series “Beyond Control: Theory of Limits of AI Governance.”  okhodjaev.com*
+*Oybek Khodjaev has over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. He is the author of* Beyond Control: Theory of Limits of AI Governance. *[okhodjaev.com](https://okhodjaev.com/)*
 
-*The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
+*The author advises government bodies and financial organisations on AI governance, verification frameworks, and institutional readiness.*
+
+**Published** June 3, 2026
+
+<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
