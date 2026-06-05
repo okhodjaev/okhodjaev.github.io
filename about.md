@@ -11,7 +11,7 @@ classes: wide
 @media (max-width: 600px) { .author-photo { float: none; display: block; margin: 0 auto 24px auto; width: 80%; } }
 </style>
 
-<img src="/assets/profile.png" alt="Oybek Khodjaev" class="author-photo">
+<img src="/assets/O_Khodjaev.png" alt="Oybek Khodjaev" class="author-photo">
 
 I'm Oybek Khodjaev — a systems transformation analyst examining AI governance.
 
