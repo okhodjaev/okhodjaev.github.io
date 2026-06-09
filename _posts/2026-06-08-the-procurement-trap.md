@@ -25,7 +25,7 @@ This is the procurement trap: the moment at which consequential governance choic
 
 **The architecture of pre-commitment**
 
-A procurement contract for an AI system specifies far more than price and delivery schedule. It determines where data is processed and stored, which standards the system must meet, what technical interfaces it must support, and under what conditions modifications, audits, or replacements are permissible. Each of these specifications is simultaneously a governance decision: it determines what oversight is structurally possible, what correction would require, and what exit from the vendor relationship would cost. A scenario warranting particular attention is emergency loss of access: the imposition of sanctions against the user country, force majeure circumstances, or a unilateral decision by the vendor to suspend or revoke its licence. In such a case, a state procurement procedure embedded in a mandatory operational cycle would be blocked without any transitional architecture in place. The procurement contract either addresses this scenario — or it does not. After signature, that question can no longer be resolved.
+A procurement contract for an AI system specifies far more than price and delivery schedule. It determines where data is processed and stored, which standards the system must meet, what technical interfaces it must support, and under what conditions modifications, audits, or replacements are permissible. Each of these specifications is simultaneously a governance decision: it determines what oversight is structurally possible, what correction would require, and what exit from the vendor relationship would cost. A scenario warranting particular attention is emergency loss of access: the imposition of sanctions against the user country, force majeure circumstances, or a unilateral decision by the vendor to suspend or revoke its licence. In such a case, any procedure embedded in a mandatory operational cycle would be blocked without any transitional architecture in place. The procurement contract either addresses this scenario — or it does not. After signature, that question can no longer be resolved.
 
 These are not hypothetical futures. They are contractual facts established before the system processes a single transaction. The institution that signed the contract may not have framed these choices as governance decisions. The procurement officer evaluated compliance with technical specifications, budget authority, and procurement law. The institution's governance function, if it engaged at all, engaged after the technical architecture was already defined. The sequence matters. Governance frameworks review systems. Procurement decisions build them.
 
@@ -103,14 +103,7 @@ Procurement is not an administrative process that precedes governance. It is the
 
 ---
 
-*Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC.
-Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director
-and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
-More than thirty-five years' experience in banking, finance, public administration, and business
-across Uzbekistan and the CIS.*
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. 
+Author of the essay series “Beyond Control: Theory of Limits of AI Governance.”  okhodjaev.com*
 
 *The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
-
-**Published** June 8, 2026
-
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
