@@ -103,6 +103,14 @@ That accounting has not yet been written. It is the work that remains — and it
 
 ---
 
+**How to Cite This Synthesis**
+
+Khodjaev, O. (2026). *When the Center Speaks for the Periphery: AI Governance and the Limits of Moral Declaration*, June 2026. okhodjaev.com. [https://doi.org/10.5281/zenodo.20621000](https://doi.org/10.5281/zenodo.20621000)
+
+Series community: [zenodo.org/communities/beyond-control-ai-governance](https://zenodo.org/communities/beyond-control-ai-governance)
+
+---
+
 *Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. 
 Author of the essay series “Beyond Control: Theory of Limits of AI Governance.”  okhodjaev.com*
 
