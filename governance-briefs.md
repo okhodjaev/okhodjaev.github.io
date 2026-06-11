@@ -46,12 +46,14 @@ classes: wide
 
 *How AI procurement decisions lock in governance architecture before deployment begins. The trap is not a consequence of procurement — it is its built-in structural property.*
 
+## [Analytical Note No. 8 — **Three Centralisation Architectures** · June 2026 · English](/governance-briefs/three-centralisation-architectures/)
+[Русская версия](/governance-briefs/three-centralisation-architectures-ru/)
+
+*Comparative analysis of three centralisation architectures in Uzbekistan, India (UPI), and Brazil (Pix). The subject is not payment infrastructure. It is how different governance architectures shape the consequences of the same centralising technical mechanism.*
+
 ---
 
 ### Forthcoming
-
-## Analytical Note No. 8 — **Three Centralisation Architectures**
-*Comparative analysis: Uzbekistan, India UPI, Brazil Pix.*
 
 ## Analytical Note No. 9 — **Why Governance Does Not Scale**
 *The structural limits of transposing developed-economy oversight to emerging institutional environments.*
