@@ -7,9 +7,15 @@ main:
     url: /beyond-control/
   - title: "Governance Briefs"
     url: /governance-briefs/
+  - title: "Analysis"
+    url: /analysis/
   - title: "Framework"
     url: /framework/
   - title: "About"
     url: /about/
+  - title: "In the Media"
+    url: /media/
+  - title: "Contact"
+    url: /contact/
   - title: "🇷🇺 РУ"
     url: /ru/
