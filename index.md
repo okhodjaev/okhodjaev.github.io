@@ -1,5 +1,5 @@
 ---
-title: "AI Governance & Systems Transformation"
+title: "Theory of Limits of AI Governance"
 permalink: /
 classes: wide
 ---
