@@ -32,8 +32,13 @@ markdown: kramdown
 future: true
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jekyll-include-cache
+
+include:
+  - _pages
 
 # Exclude
 exclude:
