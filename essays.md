@@ -1,5 +1,8 @@
-redirect_from:
-  - /essays/
+---
+layout: redirect
+redirect_to: https://okhodjaev.com/beyond-control/
+permalink: /essays/
+---
 ---
 title: "Essays"
 permalink: /essays/
