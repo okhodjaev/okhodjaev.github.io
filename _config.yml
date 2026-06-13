@@ -71,3 +71,6 @@ analytics:
 head_scripts:
   - <link rel="icon" type="image/x-icon" href="/favicon.ico">
   - <link rel="stylesheet" href="/assets/css/custom.css">
+
+after_footer_scripts:
+  - /assets/js/custom.js
