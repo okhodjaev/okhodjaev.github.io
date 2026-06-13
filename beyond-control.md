@@ -50,3 +50,8 @@ The asymmetric distribution of AI rule-making capacity.
 
 ### [Essay 12 · Beyond Control · May 4, 2026](/essays/beyond-control/)
 Synthesis. The three limits interact. The correction window closes. What remains is governance residual.
+
+---
+
+Subscribe to receive new work: <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
+
