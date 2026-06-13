@@ -1,3 +1,5 @@
+redirect_from:
+  - /analysis/
 ---
 title: "Analysis"
 permalink: /analysis/
