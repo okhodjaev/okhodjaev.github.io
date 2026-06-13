@@ -8,6 +8,7 @@ description: "Analysis at the intersection of governance, institutional control,
 url: "https://okhodjaev.com"
 baseurl: ""
 repository: "okhodjaev/okhodjaev.github.io"
+breadcrumbs: true
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
