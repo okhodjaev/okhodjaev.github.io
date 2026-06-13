@@ -1,15 +1,15 @@
 main:
-  - title: "Essays"
-    url: /essays/
-  - title: "Syntheses"
-    url: /synthesis/
-  - title: "Analysis"
-    url: /analysis/
+  - title: "Institutional Ceiling"
+    url: /institutional-ceiling/
+  - title: "Governance Residual"
+    url: /governance-residual/
+  - title: "Beyond Control"
+    url: /beyond-control/
   - title: "Governance Briefs"
     url: /governance-briefs/
-  - title: "In the Media"
-    url: /media/
+  - title: "Framework"
+    url: /framework/
   - title: "About"
     url: /about/
-  - title: "Contact"
-    url: /contact/
+  - title: "🇷🇺 РУ"
+    url: /ru/
