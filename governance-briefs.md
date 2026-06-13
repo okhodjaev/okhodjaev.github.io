@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 classes: wide
 ---
-*Applied analytical notes on AI governance in Uzbekistan and Central Asia. Each note operationalises a specific argument from the [**Beyond Control**](/essays/) essay series through concrete regulatory and institutional cases. Published in English; Russian-language versions are also available.*
+*Applied analytical notes on AI governance in Uzbekistan and Central Asia. Each note operationalises a specific argument from the [**Beyond Control**](/beyond-control/) essay series through concrete regulatory and institutional cases. Published in English; Russian-language versions are also available.*
 
 ---
 
