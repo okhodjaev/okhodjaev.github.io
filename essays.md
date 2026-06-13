@@ -1,3 +1,5 @@
+redirect_from:
+  - /essays/
 ---
 title: "Essays"
 permalink: /essays/
