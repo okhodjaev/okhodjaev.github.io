@@ -1,3 +1,5 @@
+redirect_from:
+  - /media/
 ---
 title: "In the Media"
 permalink: /media/
