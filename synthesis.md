@@ -1,5 +1,3 @@
-redirect_from:
-  - /synthesis/
 ---
 title: "Beyond Control: Theory of Limits of AI Governance"
 date: 2026-05-11
