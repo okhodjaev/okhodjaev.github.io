@@ -4,8 +4,6 @@ title: "Beyond Control: Theory of Limits of AI Governance"
 permalink: /beyond-control/
 author_profile: false
 classes: wide
-redirect_from:
-  - /analysis/
 ---
 
 Twelve analytical essays published. The series establishes a single structural finding: three limits — sovereign override, material predetermination, and institutional mismatch — interact multiplicatively on any AI governance architecture, collapsing corrective capacity below the threshold at which meaningful correction remains operationally viable.
