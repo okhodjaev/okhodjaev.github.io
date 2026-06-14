@@ -47,7 +47,7 @@ The [*Beyond Control*](/beyond-control/) series and the [*Theory of Limits of AI
 
 **Series:** [*Beyond Control: Theory of Limits of AI Governance*](/beyond-control/) — twelve analytical essays and an analytical synthesis with DOI (10.5281/zenodo.20120514)
 
-**Governance Briefs:** [Applied analytical notes](/governance-briefs/) on AI governance in Uzbekistan and the CIS — eight notes published, bilingual EN/RU  
+**Governance Briefs:** [Applied analytical notes](/governance-briefs/) on AI governance in Uzbekistan and the CIS — published, bilingual EN/RU  
 
 **Analysis:** [Analysis](/analysis/) on AI governance events, institutional signals, and structural developments as they occur.
 
