@@ -6,6 +6,8 @@ author_profile: false
 classes: wide
 ---
 
+*[🇷🇺 Читать на русском](/ru/about/)*
+
 <style>
 .author-photo { float: left; margin: 0 36px 24px 0; width: 220px; border-radius: 4px; }
 @media (max-width: 600px) { .author-photo { float: none; display: block; margin: 0 auto 24px auto; width: 80%; } }
@@ -13,45 +15,57 @@ classes: wide
 
 <img src="/assets/Oybek_Khodjaev.png" alt="Oybek Khodjaev" class="author-photo">
 
-I'm Oybek Khodjaev — a systems transformation analyst examining AI governance.
+# Oybek Khodjaev
+
+Founder & CEO, INVEXI LLC · Author, *Beyond Control: Theory of Limits of AI Governance*
+
+---
 
 ## Background
 
-Born in 1969 in Samarkand (Uzbekistan), I came of age during the final years of the Soviet Union. I witnessed Perestroika's promises and the collapse of the USSR. 
+Born in 1969 in Samarkand, Uzbekistan. I came of age during the final years of the Soviet Union and witnessed the dissolution of the USSR not as an observer but from within the institutions that were failing.
 
-I watched institutions designed to last forever disintegrate in months — and spent the following three decades working inside the systems that replaced them.
+Over thirty-five years of practice across three distinct institutional layers:
 
-For over thirty years, I have navigated systemic transitions across finance, government, and the private sector:
+**Finance & Banking:** Deputy Chairman of the Management Board and Treasury Director at JSC UzAgroIndustrialBank; leading roles across lending, currency operations, capital markets, trade finance, and risk management in Uzbekistan and the CIS.
 
-**Finance & Banking:** Deputy Chairman of the Management Board and Treasury Director at JSC UzAgroIndustrialBank; leading roles in lending, currency operations, investment, and risk management across the CIS.
+**Public Administration:** Deputy Governor (Deputy Khokim) of Samarkand Region (2019–2022), with direct responsibility for foreign direct investment, public-private partnerships, and regional economic strategy for a region of nearly four million people.
 
-**Government:** Deputy Governor (Deputy Khokim) of Samarkand Region (2019–2022), overseeing investment attraction and foreign trade for a region of nearly four million people.
-
-**Private Sector:** Founder & CEO of INVEXI LLC, advising on strategic transformations, foreign direct investment, and institutional reform across Uzbekistan and CIS countries.
-
-## Why AI governance matters to me
-
-My perspective on AI governance is shaped by direct experience with institutional collapse and systemic transformation — not by academic study of it.
-
-When I examine today's AI governance frameworks, I recognize patterns I have watched operate before: institutions claiming control they do not have, technical solutions applied to governance problems, performative transparency without accountability, and the persistent belief that this time is structurally different.
-
-The historical record suggests it rarely is. The mechanisms of institutional failure — the gap between declared authority and actual enforcement capacity — are remarkably consistent across contexts and decades.
-
-## What I write about
-
-I analyze how AI governance repeats patterns of failed institutional control, drawing on lessons from post-Soviet transformation, the 2008 financial crisis, and thirty years of practitioner experience across banking, government, and business.
-
-My focus is not prediction but pattern recognition: identifying the structural mechanisms that produce governance failure before they produce governance collapse.
-
-I do not have all the answers. I have questions shaped by watching systems fall apart — and occasionally, by watching them hold.
+**Private Sector:** Founder & CEO of INVEXI LLC (Tashkent), advising public institutions and commercial organisations on strategic transformation, investment structuring, and institutional readiness across Uzbekistan and the CIS.
 
 ---
 
-**A note on language and process**
+## Research Focus
 
-My analysis, ideas, frameworks, and case selection are my own — developed from years of practitioner experience across banking, government, and business. I use AI tools to professionally formulate and articulate my thinking in English. The intellectual content is mine; the English formulation is AI-assisted.
+The *Beyond Control* series and the Theory of Limits of AI Governance emerge from a specific analytical position: three decades of practitioner experience with the gap between declared institutional authority and actual enforcement capacity.
+
+The mechanisms I examine in AI governance — performative control, incentive misalignment, information asymmetry, agency transfer — are not new. I have watched them operate in post-Soviet financial systems, in regional public administration, and in the institutional collapses I have worked through: the USSR dissolution (1991), the global financial crisis (2008), COVID-19 regional crisis management (2020–2021).
+
+My analytical claim is that these mechanisms are now operating in AI governance faster than in any previous domain — and that the window for meaningful correction is narrowing on a timeline that does not wait for institutional consensus.
 
 ---
-**Subscribe:** <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
-**LinkedIn:** <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">linkedin.com/in/oybek-khodjaev</a>
+## Publications
+
+**Series:** [*Beyond Control: Theory of Limits of AI Governance*](/beyond-control/) — twelve analytical essays and an analytical synthesis with DOI (10.5281/zenodo.20120514)
+
+**Governance Briefs:** [Applied analytical notes](/governance-briefs/) on AI governance in Uzbekistan and the CIS — eight notes published, bilingual EN/RU
+
+**Co-authored:** "The Institutional Ceiling" (with Maurizio Papini, Solutions4.ai) — submitted to *Lawfare*
+
+**Interview:** [AI Governance and the Structural Limits of Control](https://www.wgi.world/ai-governance-and-the-structural-limits-of-control/) — World Geostrategic Insights, April 2026
+
+---
+
+## Advisory
+
+Institutional diagnostics and applied advisory on AI governance readiness through **INVEXI LLC**: [invexi.org](https://invexi.org)
+
+---
+
+**ORCID:** [0009-0009-7991-0456](https://orcid.org/0009-0009-7991-0456) · **Zenodo:** [Beyond Control community](https://zenodo.org/communities/beyond-control-ai-governance)
+
+**Subscribe:** [okhodjaev.substack.com](https://okhodjaev.substack.com)  
+**LinkedIn:** [linkedin.com/in/oybek-khodjaev](https://www.linkedin.com/in/oybek-khodjaev/)  
+**X.com:** [x.com/O_Khodjaev](https://x.com/O_Khodjaev)  
+**Telegram (RU):** [t.me/AIGovernance_RU](https://t.me/AIGovernance_RU)
