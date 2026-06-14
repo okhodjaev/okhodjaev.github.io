@@ -1,0 +1,28 @@
+---
+layout: single
+title: "Контакты"
+permalink: /ru/contact/
+author_profile: false
+classes: wide
+---
+
+*[🇬🇧 Contact](/contact/)* · *[← На главную](/ru/)*
+
+## Связаться
+
+**Э-почта:** <a href="mailto:ok@okhodjaev.com">ok@okhodjaev.com</a>
+
+**Подписка:** <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
+
+**LinkedIn:** <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">linkedin.com/in/oybek-khodjaev</a>
+
+**X.com:** <a href="https://x.com/O_Khodjaev" target="_blank">x.com/O_Khodjaev</a>
+
+**Telegram (RU — AI Governance):** <a href="https://t.me/AIGovernance_RU" target="_blank">t.me/AIGovernance_RU</a>
+
+**Telegram (UZ — AI Governance):** <a href="https://t.me/AI_Governance_UZ" target="_blank">t.me/AI_Governance_UZ</a>
+
+**INVEXI LLC:** <a href="https://invexi.org" target="_blank">invexi.org</a>
+---
+
+*По вопросам сотрудничества, экспертных консультаций и институционального взаимодействия — пишите на э-почту.*
