@@ -61,10 +61,10 @@ Institutional diagnostics and applied advisory on AI governance readiness throug
 
 ---
 
-**ORCID:** [0009-0009-7991-0456](https://orcid.org/0009-0009-7991-0456) 
-**Zenodo:** [Beyond Control community](https://zenodo.org/communities/beyond-control-ai-governance)
+**ORCID:** [0009-0009-7991-0456](https://orcid.org/0009-0009-7991-0456)  
+**Zenodo:** [Beyond Control community](https://zenodo.org/communities/beyond-control-ai-governance)  
 **Substack:** [okhodjaev.substack.com](https://okhodjaev.substack.com)  
 **LinkedIn:** [linkedin.com/in/oybek-khodjaev](https://www.linkedin.com/in/oybek-khodjaev/)  
 **X.com:** [x.com/O_Khodjaev](https://x.com/O_Khodjaev)  
-**Telegram (RU):** <a href="https://t.me/AI_Governance_RU" target="_blank">t.me/AI_Governance_RU</a>
-**Telegram (UZ):** <a href="https://t.me/AI_Governance_UZ" target="_blank">t.me/AI_Governance_UZ</a>
+**Telegram (RU):** <a href="https://t.me/AI_Governance_RU" target="_blank">t.me/AI_Governance_RU</a>  
+**Telegram (UZ):** <a href="https://t.me/AI_Governance_UZ" target="_blank">t.me/AI_Governance_UZ</a>  
