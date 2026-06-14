@@ -31,7 +31,7 @@ Over thirty-five years of practice across three distinct institutional layers:
 
 **Public Administration:** Deputy Governor (Deputy Khokim) of Samarkand Region (2019–2022), with direct responsibility for foreign direct investment, public-private partnerships, and regional economic strategy for a region of nearly four million people.
 
-**Private Sector:** Founder & CEO of INVEXI LLC (Tashkent), advising public institutions and commercial organisations on strategic transformation, investment structuring, and institutional readiness across Uzbekistan and the CIS.
+**Private Sector:** Founder & CEO of [INVEXI LLC](https://invexi.org) (Tashkent), advising public institutions and commercial organisations on strategic transformation, investment structuring, and institutional readiness across Uzbekistan and the CIS.
 
 ---
 
