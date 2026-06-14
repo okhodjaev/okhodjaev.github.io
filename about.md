@@ -17,7 +17,7 @@ classes: wide
 
 # Oybek Khodjaev
 
-Founder & CEO, INVEXI LLC · Author, *Beyond Control: Theory of Limits of AI Governance*
+Founder & CEO, INVEXI LLC · Author, [*Beyond Control: Theory of Limits of AI Governance*](/beyond-control/)
 
 ---
 
