@@ -1,27 +1,30 @@
 (function () {
 
-  // === URL-маппинг EN ↔ RU ===
   var enToRu = {
     '/':                       '/ru/',
     '/institutional-ceiling/': '/ru/institutional-ceiling/',
     '/governance-residual/':   '/ru/governance-residual/',
     '/beyond-control/':        '/ru/beyond-control/',
     '/governance-briefs/':     '/ru/governance-briefs/',
+    '/framework/':             '/ru/framework/',
+    '/about/':                 '/ru/about/',
+    '/analysis/':              '/ru/analysis/',
+    '/media/':                 '/ru/media/',
+    '/contact/':               '/ru/contact/',
   };
   var ruToEn = {};
   for (var k in enToRu) { ruToEn[enToRu[k]] = k; }
 
-  // === Навигация для русских страниц ===
   var navRu = {
     '/institutional-ceiling/': { label: 'Институциональный потолок', href: '/ru/institutional-ceiling/' },
     '/governance-residual/':   { label: 'Остаток управляемости',     href: '/ru/governance-residual/' },
     '/beyond-control/':        { label: 'Серия эссе',                href: '/ru/beyond-control/' },
     '/governance-briefs/':     { label: 'Аналитические записки',     href: '/ru/governance-briefs/' },
-    '/analysis/':              { label: 'Анализ',                    href: '/analysis/' },
-    '/framework/':             { label: 'Методология',               href: '/framework/' },
-    '/about/':                 { label: 'О проекте',                 href: '/about/' },
-    '/media/':                 { label: 'В СМИ',                     href: '/media/' },
-    '/contact/':               { label: 'Контакты',                  href: '/contact/' },
+    '/analysis/':              { label: 'Анализ',                    href: '/ru/analysis/' },
+    '/framework/':             { label: 'Методология',               href: '/ru/framework/' },
+    '/about/':                 { label: 'О проекте',                 href: '/ru/about/' },
+    '/media/':                 { label: 'В СМИ',                     href: '/ru/media/' },
+    '/contact/':               { label: 'Контакты',                  href: '/ru/contact/' },
   };
 
   function normPath(href) {
@@ -33,6 +36,7 @@
 
   var currentPath = normPath(location.pathname);
   var isRu = currentPath === '/ru/' || currentPath.startsWith('/ru/');
+  var isMobile = window.innerWidth < 769;
 
   document.addEventListener('DOMContentLoaded', function () {
 
@@ -42,19 +46,27 @@
 
     var sw = document.createElement('div');
     sw.style.cssText = [
-      'position:fixed', 'top:13px', 'right:18px', 'z-index:10000',
-      'display:flex', 'border-radius:3px', 'overflow:hidden',
+      'position:fixed',
+      isMobile ? 'top:auto'   : 'top:13px',
+      isMobile ? 'bottom:88px': '',
+      'right:' + (isMobile ? '16px' : '18px'),
+      'z-index:10000',
+      'display:flex',
+      'border-radius:3px',
+      'overflow:hidden',
       'border:1px solid #ccc',
-      'box-shadow:0 1px 4px rgba(0,0,0,0.18)',
+      'box-shadow:0 1px 4px rgba(0,0,0,0.2)',
       'font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif',
-      'font-size:12px', 'letter-spacing:0.05em',
+      'font-size:12px',
+      'letter-spacing:0.05em',
     ].join(';');
 
     function mkBtn(href, text, active) {
       var a = document.createElement('a');
       a.href = href; a.textContent = text;
       a.style.cssText = [
-        'padding:5px 11px', 'text-decoration:none',
+        'padding:5px 11px',
+        'text-decoration:none',
         'font-weight:' + (active ? '700' : '400'),
         'background:'   + (active ? '#1a1a1a' : '#f2f2f2'),
         'color:'        + (active ? '#fff'     : '#999'),
@@ -66,10 +78,12 @@
     sw.appendChild(mkBtn(targetRu, 'РУ',  isRu));
     document.body.appendChild(sw);
 
-    // === ПЕРЕВОД НАВИГАЦИИ (только на /ru/ страницах) ===
+    // === ПЕРЕВОД НАВИГАЦИИ на /ru/ страницах ===
     if (isRu) {
-      var links = document.querySelectorAll('nav.greedy-nav li a');
-      links.forEach(function (a) {
+      var allNavLinks = document.querySelectorAll(
+        '.greedy-nav .visible-links a, .greedy-nav .hidden-links a'
+      );
+      allNavLinks.forEach(function (a) {
         var p = normPath(a.getAttribute('href'));
         if (navRu[p]) {
           a.textContent = navRu[p].label;
