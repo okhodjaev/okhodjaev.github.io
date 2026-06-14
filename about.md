@@ -57,7 +57,7 @@ My analytical claim is that these mechanisms are now operating in AI governance 
 
 ## Advisory
 
-Institutional diagnostics and applied advisory on AI governance readiness through **INVEXI LLC**: [invexi.org](https://invexi.org)
+Institutional diagnostics and applied advisory on AI governance readiness through [**INVEXI LLC**](https://invexi.org)
 
 ---
 
