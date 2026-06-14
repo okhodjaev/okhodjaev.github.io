@@ -23,9 +23,9 @@ Founder & CEO, INVEXI LLC · Author, [*Beyond Control: Theory of Limits of AI Go
 
 ## Background
 
-Born in 1969 in Samarkand, Uzbekistan. I came of age during the final years of the Soviet Union and witnessed the dissolution of the USSR not as an observer but from within the institutions that were failing.
+*Born in 1969 in Samarkand, Uzbekistan. I came of age during the final years of the Soviet Union and witnessed the dissolution of the USSR not as an observer but from within the institutions that were failing.*
 
-Over thirty-five years of practice across three distinct institutional layers:
+*Over thirty-five years of practice across three distinct institutional layers:*
 
 **Finance & Banking:** Deputy Chairman of the Management Board and Treasury Director at JSC UzAgroIndustrialBank; leading roles across lending, currency operations, capital markets, trade finance, and risk management in Uzbekistan and the CIS.
 
