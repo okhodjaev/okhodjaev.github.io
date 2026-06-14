@@ -23,9 +23,7 @@ Founder & CEO, INVEXI LLC · Author, [*Beyond Control: Theory of Limits of AI Go
 
 ## Background
 
-*Born in 1969 in Samarkand, Uzbekistan. I came of age during the final years of the Soviet Union and witnessed the dissolution of the USSR not as an observer but from within the institutions that were failing.*
-
-*Over thirty-five years of practice across three distinct institutional layers:*
+*Born in 1969 in Samarkand, Uzbekistan. I came of age during the final years of the Soviet Union and witnessed the dissolution of the USSR not as an observer but from within the institutions that were failing.* *Over thirty-five years of practice across three distinct institutional layers:*
 
 **Finance & Banking:** Deputy Chairman of the Management Board and Treasury Director at JSC UzAgroIndustrialBank; leading roles across lending, currency operations, capital markets, trade finance, and risk management in Uzbekistan and the CIS.
 
@@ -49,7 +47,9 @@ My analytical claim is that these mechanisms are now operating in AI governance 
 
 **Series:** [*Beyond Control: Theory of Limits of AI Governance*](/beyond-control/) — twelve analytical essays and an analytical synthesis with DOI (10.5281/zenodo.20120514)
 
-**Governance Briefs:** [Applied analytical notes](/governance-briefs/) on AI governance in Uzbekistan and the CIS — eight notes published, bilingual EN/RU
+**Governance Briefs:** [Applied analytical notes](/governance-briefs/) on AI governance in Uzbekistan and the CIS — eight notes published, bilingual EN/RU  
+
+**Analysis:** [Analysis](/analysis/) on AI governance events, institutional signals, and structural developments as they occur.
 
 **Interview:** [AI Governance and the Structural Limits of Control](https://www.wgi.world/ai-governance-and-the-structural-limits-of-control/) — World Geostrategic Insights, April 2026
 
