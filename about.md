@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-*[🇷🇺 Читать на русском](/ru/about/)*
+*[Читать на русском](/ru/about/)*
 
 <style>
 .author-photo { float: left; margin: 0 36px 24px 0; width: 220px; border-radius: 4px; }
