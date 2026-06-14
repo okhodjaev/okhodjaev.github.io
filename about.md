@@ -37,7 +37,7 @@ Over thirty-five years of practice across three distinct institutional layers:
 
 ## Research Focus
 
-The *Beyond Control* series and the Theory of Limits of AI Governance emerge from a specific analytical position: three decades of practitioner experience with the gap between declared institutional authority and actual enforcement capacity.
+The [*Beyond Control*](/beyond-control/) series and the [*Theory of Limits of AI Governance*](/beyond-control/) emerge from a specific analytical position: three decades of practitioner experience with the gap between declared institutional authority and actual enforcement capacity.
 
 The mechanisms I examine in AI governance — performative control, incentive misalignment, information asymmetry, agency transfer — are not new. I have watched them operate in post-Soviet financial systems, in regional public administration, and in the institutional collapses I have worked through: the USSR dissolution (1991), the global financial crisis (2008), COVID-19 regional crisis management (2020–2021).
 
@@ -51,8 +51,6 @@ My analytical claim is that these mechanisms are now operating in AI governance 
 
 **Governance Briefs:** [Applied analytical notes](/governance-briefs/) on AI governance in Uzbekistan and the CIS — eight notes published, bilingual EN/RU
 
-**Co-authored:** "The Institutional Ceiling" (with Maurizio Papini, Solutions4.ai) — submitted to *Lawfare*
-
 **Interview:** [AI Governance and the Structural Limits of Control](https://www.wgi.world/ai-governance-and-the-structural-limits-of-control/) — World Geostrategic Insights, April 2026
 
 ---
@@ -63,9 +61,10 @@ Institutional diagnostics and applied advisory on AI governance readiness throug
 
 ---
 
-**ORCID:** [0009-0009-7991-0456](https://orcid.org/0009-0009-7991-0456) · **Zenodo:** [Beyond Control community](https://zenodo.org/communities/beyond-control-ai-governance)
-
-**Subscribe:** [okhodjaev.substack.com](https://okhodjaev.substack.com)  
+**ORCID:** [0009-0009-7991-0456](https://orcid.org/0009-0009-7991-0456) 
+**Zenodo:** [Beyond Control community](https://zenodo.org/communities/beyond-control-ai-governance)
+**Substack:** [okhodjaev.substack.com](https://okhodjaev.substack.com)  
 **LinkedIn:** [linkedin.com/in/oybek-khodjaev](https://www.linkedin.com/in/oybek-khodjaev/)  
 **X.com:** [x.com/O_Khodjaev](https://x.com/O_Khodjaev)  
-**Telegram (RU):** [t.me/AIGovernance_RU](https://t.me/AIGovernance_RU)
+**Telegram (RU):** <a href="https://t.me/AI_Governance_RU" target="_blank">t.me/AI_Governance_RU</a>
+**Telegram (UZ):** <a href="https://t.me/AI_Governance_UZ" target="_blank">t.me/AI_Governance_UZ</a>
