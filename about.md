@@ -37,7 +37,7 @@ Founder & CEO, INVEXI LLC · Author, [*Beyond Control: Theory of Limits of AI Go
 
 The [*Beyond Control*](/beyond-control/) series and the [*Theory of Limits of AI Governance*](/beyond-control/) emerge from a specific analytical position: three decades of practitioner experience with the gap between declared institutional authority and actual enforcement capacity.
 
-The mechanisms I examine in AI governance — performative control, incentive misalignment, information asymmetry, agency transfer — are not new. I have watched them operate in post-Soviet financial systems, in regional public administration, and in the institutional collapses I have worked through: the USSR dissolution (1991), the global financial crisis (2008), COVID-19 regional crisis management (2020–2021).
+*The mechanisms I examine in AI governance — performative control, incentive misalignment, information asymmetry, agency transfer — are not new. I have watched them operate in post-Soviet financial systems, in regional public administration, and in the institutional collapses I have worked through: the USSR dissolution (1991), the global financial crisis (2008), COVID-19 regional crisis management (2020–2021).*
 
 My analytical claim is that these mechanisms are now operating in AI governance faster than in any previous domain — and that the window for meaningful correction is narrowing on a timeline that does not wait for institutional consensus.
 
