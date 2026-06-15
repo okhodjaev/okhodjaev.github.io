@@ -6,7 +6,14 @@ author_profile: false
 classes: wide
 ---
 
-*[🇬🇧 About](/about/)* · *[← На главную](/ru/)*
+*[About](/about/)* · *[← На главную](/ru/)*
+
+<style>
+.author-photo { float: left; margin: 0 36px 24px 0; width: 220px; border-radius: 4px; }
+@media (max-width: 600px) { .author-photo { float: none; display: block; margin: 0 auto 24px auto; width: 80%; } }
+</style>
+
+<img src="/assets/Oybek_Khodjaev.png" alt="Oybek Khodjaev" class="author-photo">
 
 # Ойбек Ходжаев
 
