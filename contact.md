@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Contact"
+title: "Contact: Khodjaev Oybek Erkinovich"
 permalink: /contact/
 author_profile: false
 classes: wide
