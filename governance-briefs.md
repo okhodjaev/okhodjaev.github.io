@@ -51,12 +51,14 @@ classes: wide
 
 *Comparative analysis of three centralisation architectures in Uzbekistan, India (UPI), and Brazil (Pix). The subject is not payment infrastructure. It is how different governance architectures shape the consequences of the same centralising technical mechanism.*
 
+## [Analytical Note No. 9 — **Why Governance Does Not Scale** · June 2026 · English](/governance-briefs/why-governance-does-not-scale/)
+[Русская версия](/governance-briefs/why-governance-does-not-scale-ru/)
+
+*The structural limits of transposing developed-economy oversight to emerging institutional environments. When deployment scales, the gap between the governance claim and the verification architecture does not remain constant.*
+
 ---
 
 ### Forthcoming
-
-## Analytical Note No. 9 — **Why Governance Does Not Scale**
-*The structural limits of transposing developed-economy oversight to emerging institutional environments.*
 
 ## Analytical Note No. 10 — **Aligned on Paper**
 *What AI alignment means for institutions that did not build the system.*
