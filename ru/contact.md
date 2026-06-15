@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Контакты"
+title: "Контакты: Ходжаев Ойбек Эркинович"
 permalink: /ru/contact/
 author_profile: false
 classes: wide
