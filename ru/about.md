@@ -48,7 +48,7 @@ classes: wide
 
 **Аналитические записки:** [*Серия Governance Briefs*](/ru/governance-briefs/) — cерия прикладных аналитических записок, операционализирующих выводы серии [*Beyond Control*](/ru/beyond-control/), двуязычный формат EN/RU
 
-**Аналитические материалы:** [*Анализ событий*] https://okhodjaev.com/ru/analysis/ в сфере управления ИИ, институциональных сигналов и структурных тенденций по мере их возникновения.
+**Аналитические материалы:** *Анализ событий* https://okhodjaev.com/ru/analysis/ в сфере управления ИИ, институциональных сигналов и структурных тенденций по мере их возникновения.
 
 **Интервью:** [*AI Governance and the Structural Limits of Control*](https://www.wgi.world/ai-governance-and-the-structural-limits-of-control/) — World Geostrategic Insights, апрель 2026.
 
