@@ -22,7 +22,7 @@
     '/governance-briefs/':     { label: 'Аналитические записки',     href: '/ru/governance-briefs/' },
     '/analysis/':              { label: 'Анализ',                    href: '/ru/analysis/' },
     '/framework/':             { label: 'Методология',               href: '/ru/framework/' },
-    '/about/':                 { label: 'О проекте',                 href: '/ru/about/' },
+    '/about/':                 { label: 'Об авторе',                 href: '/ru/about/' },
     '/media/':                 { label: 'В СМИ',                     href: '/ru/media/' },
     '/contact/':               { label: 'Контакты',                  href: '/ru/contact/' },
   };
