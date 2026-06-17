@@ -26,7 +26,7 @@ An integrated analytical methodology connecting the Institutional Ceiling diagno
 
 **Third:** The depth of agency transfer constrains the extent of the residual. Institutions that have already transferred significant decision-making authority to AI systems have less residual available.
 
-A fourth question remains open: what would institutions designed from these constraints look like from the outset? This constitutes the next research programme — AI-Native Institutions. Its development is documented as inquiry proceeds, not as conclusions arrive.
+**A fourth question** remains open: what would institutions designed from these constraints look like from the outset? This constitutes the next research programme — **AI-Native Institutions**. Its development is documented as inquiry proceeds, not as conclusions arrive.
 
 ---
 
