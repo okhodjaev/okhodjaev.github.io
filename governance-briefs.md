@@ -12,7 +12,7 @@ description: "A series of short analytical notes operationalising the Beyond Con
 Each Note operationalises one or more essays from the *Beyond Control: Theory of Limits of AI Governance* series against a specific regulatory event, policy development, or institutional pattern. Notes are published in English and Russian.
 
 ---
-### Published:
+### Published:  
 
 | No. | Title | Operationalises | Date |
 |-----|-------|-----------------|------|
@@ -29,7 +29,7 @@ Each Note operationalises one or more essays from the *Beyond Control: Theory of
 
 ---
 
-### Forthcoming:
+### Forthcoming:  
 
 ## Analytical Note No. 11 — **Sovereignty Without Infrastructure**  
 *Digital sovereignty as institutional claim versus operational reality.*
@@ -41,7 +41,7 @@ Each Note operationalises one or more essays from the *Beyond Control: Theory of
 
 **Series:** Governance Briefs operationalise the *Beyond Control* framework. Each Note is grounded in a specific regulatory anchor — a decree, law, or institutional event — and follows a strict five-element pre-publication protocol.
 
-**Russian version of this page:** [Governance Briefs — RU](/governance-briefs-ru/)
+**Russian version of this page:** [Governance Briefs — RU](ru/governance-briefs/)
 
 **Full essay series:** [Beyond Control: Theory of Limits of AI Governance](/essays/)
 
