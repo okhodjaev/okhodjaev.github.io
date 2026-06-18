@@ -4,71 +4,32 @@ permalink: /governance-briefs/
 layout: single
 author_profile: false
 classes: wide
----
-*Applied analytical notes on AI governance in Uzbekistan and Central Asia. Each note operationalises a specific argument from the [**Beyond Control**](/beyond-control/) essay series through concrete regulatory and institutional cases. Published in English; Russian-language versions are also available.*
-
+description: "A series of short analytical notes operationalising the Beyond Control essay framework against current AI governance developments in Uzbekistan and comparable institutional environments."
 ---
 
-### Published
+*Series: Governance Briefs · Oybek Khodjaev · [okhodjaev.com](https://okhodjaev.com/)*
 
-## [Analytical Note No. 1 — **AI in Uzbekistan: A Question of Manageability, Not Implementation** · May 2026 · English](/governance-briefs/the-manageability-question/)
-[Русская версия](/governance-briefs/the-manageability-question-ru/)
-
-*The structural gap between Uzbekistan's AI regulatory framework and the mechanisms needed to enforce it — and why this window is narrowing faster than in any previous sector.*
-
-## [Analytical Note No. 2 — **The Paper Architecture** · May 2026 · English](/governance-briefs/the-paper-architecture/)
-[Русская версия](/governance-briefs/the-paper-architecture-ru/)
-
-*When AI governance frameworks exist but cannot be enforced. The structural gap between Uzbekistan's regulatory output and the enforcement architecture needed to make it operational.*
-
-## [Analytical Note No. 3 — **The Conflict of Functions** · May 2026 · English](/governance-briefs/the-conflict-of-functions/)
-[Русская версия](/governance-briefs/the-conflict-of-functions-ru/)
-
-*Who audits the regulator? The structural gap between coordination of AI regulatory proposals and independent oversight of deployed AI systems — and why the current architecture conflates both.*
-
-## [Analytical Note No. 4 — **Audit Without Access** · May 2026 · English](/governance-briefs/audit-without-access/)
-[Русская версия](/governance-briefs/audit-without-access-ru/)
-
-*Behavioural data and the structural limits of AI oversight in Uzbekistan's financial sector. Even an ideal independent verification body would have no defined access path to the data its work requires under the current QR payment architecture.*
-
-## [Analytical Note No. 5 — **The Incident Gap** · June 2026 · English](/governance-briefs/the-incident-gap/)
-[Русская версия](/governance-briefs/the-incident-gap-ru/)
-
-*Why the absence of incident protocols is itself a governance failure. The deploying institution becomes, by default, the de facto arbiter of what counts as an incident — and that is not a regulatory gap. It is an architectural feature.*
-
-## [Analytical Note No. 6 — **The Rollback Problem** · June 2026 · English](/governance-briefs/the-rollback-problem/)
-[Русская версия](/governance-briefs/the-rollback-problem-ru/)
-
-*AI scoring in Uzbekistan's financial sector and the non-linear cost of correction. Most systems remain technically reversible long after they have ceased to be institutionally reversible.*
-
-## [Analytical Note No. 7 — **The Procurement Trap** · June 2026 · English](/governance-briefs/the-procurement-trap/)
-[Русская версия](/governance-briefs/the-procurement-trap-ru/)
-
-*How AI procurement decisions lock in governance architecture before deployment begins. The trap is not a consequence of procurement — it is its built-in structural property.*
-
-## [Analytical Note No. 8 — **Three Centralisation Architectures** · June 2026 · English](/governance-briefs/three-centralisation-architectures/)
-[Русская версия](/governance-briefs/three-centralisation-architectures-ru/)
-
-*Comparative analysis of three centralisation architectures in Uzbekistan, India (UPI), and Brazil (Pix). The subject is not payment infrastructure. It is how different governance architectures shape the consequences of the same centralising technical mechanism.*
-
-## [Analytical Note No. 9 — **Why Governance Does Not Scale** · June 2026 · English](/governance-briefs/why-governance-does-not-scale/)
-[Русская версия](/governance-briefs/why-governance-does-not-scale-ru/)
-
-*The structural limits of transposing developed-economy oversight to emerging institutional environments. When deployment scales, the gap between the governance claim and the verification architecture does not remain constant.*
+Each Note operationalises one or more essays from the *Beyond Control: Theory of Limits of AI Governance* series against a specific regulatory event, policy development, or institutional pattern. Notes are published in English and Russian.
 
 ---
 
-### Forthcoming
-
-## Analytical Note No. 10 — **Aligned on Paper**
-*What AI alignment means for institutions that did not build the system.*
-
-## Analytical Note No. 11 — **Sovereignty Without Infrastructure**
-*Digital sovereignty as institutional claim versus operational reality.*
-
-## Analytical Note No. 12 — **Minimum Viable Oversight**
-*What governance architecture can still achieve within structural limits.*
+| No. | Title | Operationalises | Date |
+|-----|-------|-----------------|------|
+| 10 | [The Alignment Ceiling](/governance-briefs/the-alignment-ceiling/) | Essay 12 · Essay 8 | June 2026 |
+| 9 | [Why Governance Does Not Scale](/governance-briefs/why-governance-does-not-scale/) | Essay 9 | June 2026 |
+| 8 | [Three Centralisation Architectures](/governance-briefs/three-centralisation-architectures/) | Essay 11 | June 2026 |
+| 7 | [The Procurement Trap](/governance-briefs/the-procurement-trap/) | Essay 10 · Essay 8 | June 2026 |
+| 6 | [The Rollback Problem](/governance-briefs/the-rollback-problem/) | Essay 8 · Essay 7 | June 2026 |
+| 5 | [The Incident Gap](/governance-briefs/the-incident-gap/) | Essays 1–8 | June 2026 |
+| 4 | [Audit Without Access](/governance-briefs/audit-without-access/) | Essay 7 · Essay 3 | June 2026 |
+| 3 | [The Conflict of Functions](/governance-briefs/the-conflict-of-functions/) | Essay 3 · Essay 6 | June 2026 |
+| 2 | [The Paper Architecture](/governance-briefs/the-paper-architecture/) | Essay 2 · Essay 1 | June 2026 |
+| 1 | [AI in Uzbekistan: A Question of Manageability, Not Implementation](/governance-briefs/ai-in-uzbekistan/) | Essay 1 | June 2026 |
 
 ---
 
-*For institutional and consulting inquiries: [ok@okhodjaev.com](mailto:ok@okhodjaev.com)*
+**Series:** Governance Briefs operationalise the *Beyond Control* framework. Each Note is grounded in a specific regulatory anchor — a decree, law, or institutional event — and follows a strict five-element pre-publication protocol.
+
+**Russian version of this page:** [Governance Briefs — RU](/governance-briefs-ru/)
+
+**Full essay series:** [Beyond Control: Theory of Limits of AI Governance](/essays/)
