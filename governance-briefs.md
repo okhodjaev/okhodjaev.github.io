@@ -24,7 +24,7 @@ Each Note operationalises one or more essays from the *Beyond Control: Theory of
 | 5 | [The Incident Gap](/governance-briefs/the-incident-gap/) | Essays 1–8 | June 1, 2026 |
 | 4 | [Audit Without Access](/governance-briefs/audit-without-access/) | Essay 7, 3 | May 27, 2026 |
 | 3 | [The Conflict of Functions](/governance-briefs/the-conflict-of-functions/) | Essay 3, 6 | May 25, 2026 |
-| 2 | [The Paper Architecture](/governance-briefs/the-paper-architecture/) | Essay 2 · Essay 1, 7, 8, 11 | May 20, 2026 |
+| 2 | [The Paper Architecture](/governance-briefs/the-paper-architecture/) | Essay 1, 2, 7, 8, 11 | May 20, 2026 |
 | 1 | [AI in Uzbekistan: A Question of Manageability, Not Implementation](/governance-briefs/the-manageability-question/) | Essay 1, 7, 8, 11 | May 18, 2026 |
 
 ---
