@@ -48,8 +48,7 @@ This is the **Institutional Ceiling:** not a design problem, not a political fai
 
 ---
 
-## Foundational Analysis
-
+## Foundational Analysis:
 - ### [Essay 1 · The Illusion of Control · February 12, 2026](/essays/the-illusion-of-control/)
 Why declared control and operational control diverge — and what happens when the gap becomes irreversible.
 - ### [Essay 2 · The Transparency Trap · February 17, 2026](/essays/the-transparency-trap/)
