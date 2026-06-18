@@ -9,7 +9,7 @@ description: "A series of short analytical notes operationalising the Beyond Con
 
 *Series: Governance Briefs · Oybek Khodjaev · [okhodjaev.com](https://okhodjaev.com/)*
 
-Each Analytical Note operationalises one or more essays from the ***Beyond Control: Theory of Limits of AI Governance*** series against a specific regulatory event, policy development, or institutional pattern. Notes are published in English and Russian.
+Each  Note operationalises one or more essays from the ***Beyond Control: Theory of Limits of AI Governance*** series against a specific regulatory event, policy development, or institutional pattern. Notes are published in English and Russian.
 
 ---
 ### Published:  
@@ -39,11 +39,11 @@ Each Analytical Note operationalises one or more essays from the ***Beyond Contr
 
 ---
 
-**Series:** Governance Briefs operationalise the *Beyond Control* framework. Each Note is grounded in a specific regulatory anchor — a decree, law, or institutional event — and follows a strict five-element pre-publication protocol.
-
-**Russian version of this page:** [Governance Briefs — RU](ru/governance-briefs/)
+**Series:** Governance Briefs operationalise the ***Beyond Control*** framework. Each Analytical Note is grounded in a specific regulatory anchor — a decree, law, or institutional event — and follows a strict five-element pre-publication protocol.
 
 **Full essay series:** [Beyond Control: Theory of Limits of AI Governance](/essays/)
+
+**Russian version of this page:** [Governance Briefs — RU](ru/governance-briefs/)
 
 ---
 
