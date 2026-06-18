@@ -10,7 +10,7 @@ classes: wide
 
 ---
 
-The Institutional Ceiling is a diagnostic finding, not a final word. A theorem about structural limits does not prescribe inaction. It demands precision about what remains.
+***The Institutional Ceiling*** is a diagnostic finding, not a final word. A theorem about structural limits does not prescribe inaction. It demands precision about what remains.
 
 When the correction window has closed, the question becomes: what governance remains viable? The answer is the governance residual: the set of constraint mechanisms that survive the three structural limits — operating through channels that sovereign override, material predetermination, and institutional mismatch have not foreclosed.
 
@@ -52,12 +52,12 @@ States and institutions that cannot control the AI stack can manage how dependen
 
 ## Applied Advisory
 
-The operationalisation of this framework through the Agency Transfer Audit is managed through INVEXI LLC. For institutional diagnostics and applied advisory: [invexi.org](https://invexi.org)
+The operationalisation of this framework through the ***Agency Transfer Audit*** is managed through **INVEXI LLC.** For institutional diagnostics and applied advisory: [invexi.org](https://invexi.org)
 
 ---
 
 ## Next Research Programme
 
-Governance Residual describes what remains viable within existing institutional architectures. The next research question is what institutional architectures could be designed to start from this residual — maximising its operational leverage rather than assuming it can be expanded through better governance design.
+***Governance Residual*** describes what remains viable within existing institutional architectures. The next research question is what institutional architectures could be designed to start from this residual — maximising its operational leverage rather than assuming it can be expanded through better governance design.
 
-This is AI-Native Institutions as a research programme.
+This is ***AI-Native Institutions*** as a research programme.
