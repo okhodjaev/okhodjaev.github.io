@@ -1011,6 +1011,51 @@ The three-language structure is not a formality. The series was written from a p
 
 ---
 
+## Terminology and Analytical Standards for AI Governance  
+
+**I. Purpose**  
+This document establishes the conceptual and terminological framework for the methodology of AI governance and systems transformation analysis developed in the Beyond Control essay series. Its purpose is to ensure strict analytical consistency, to prevent the dilution of the series' core concepts, and to set a uniform standard for all materials published under the okhodjaev.com platform.
+
+---
+
+## II. Five Foundational Principles   
+
+1. Control is operational, not declarative.
+2. Incentives dominate intentions.
+3. Complex systems cannot be governed through reporting alone.
+4. Governance without verification becomes performance.
+5. Agency transfer is cumulative and often invisible.
+
+---
+
+## III. Diagnostic Protocol — Ten Questions  
+
+When auditing any AI governance system, apply these ten questions as a hard filter. If most cannot be answered clearly, the system is in a condition of Governance Theater.
+
+1. Decision Node — Who actually makes the decision in a crisis?
+2. Accountability — Who bears personal responsibility for failure?
+3. Verification — Who can verify without being the developer?
+4. Access — Who has independent access to operational data?
+5. Halt Authority — Who holds the right to stop the system?
+6. Consequence — Who pays for an algorithm's error?
+7. Rollback — Does a protocol for returning to manual operation exist?
+8. Conflict of Functions — Is the safety body also the promoter?
+9. Information Asymmetry — Does the regulator know risks as well as the operator?
+10. Correction Window — Can the system's architecture still be changed?
+
+---
+
+## IV. Conceptual Boundaries  
+
+The framework studies AI governance through institutions, power, dependency, and incentive distribution. Outside scope: AGI and superintelligence; existential risk in science-fiction terms. 
+
+Three diagnostic questions:  
+1. Who governs? 
+2. Who depends?
+3. Who pays for the error?
+
+---
+
 ## License and Citation
 
 CC BY-NC 4.0. Free to share and adapt for non-commercial use with attribution. [creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -1023,12 +1068,12 @@ Khodjaev, Oybek. *Beyond Control — An Analytical Synthesis.* Zenodo, May 2026.
 
 ---
 
-*Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC.
-Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director
-and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
-More than thirty years' experience in economics, banking, finance, and business
-across Uzbekistan and the CIS.*
-
 **Published** June 2026
 
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
+---
+
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS.  
+Author of the essay series "Beyond Control: Theory of Limits of AI Governance." okhodjaev.com*
+
+*The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
+
