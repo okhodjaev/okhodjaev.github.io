@@ -12,6 +12,8 @@ excerpt: "Twelve analytical essays establishing the Theory of Limits of AI Gover
 
 Twelve analytical essays published. The series establishes a single structural finding: three limits — sovereign override, material predetermination, and institutional mismatch — interact multiplicatively on any AI governance architecture, collapsing corrective capacity below the threshold at which meaningful correction remains operationally viable.
 
+*[🇷🇺 "Beyond Control: Теория пределов управления ИИ" — читать на русском](/ru/beyond-control/)*
+
 ### [Analytical synthesis of the twelve-essay Beyond Control series. Establishes the Theory of Limits of AI Governance: three structural constraints — sovereign override, material predetermination, institutional mismatch — and their multiplicative interaction.](/synthesis/)
 
 [Download Analytical Synthesis (PDF)](https://doi.org/10.5281/zenodo.20120514) · DOI: 10.5281/zenodo.20120514
