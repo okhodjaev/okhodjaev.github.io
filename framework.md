@@ -1,12 +1,14 @@
 ---
-layout: single
 title: "Framework"
 permalink: /framework/
+description: "The Ceiling-Residual Framework: an integrated analytical methodology connecting the Institutional Ceiling diagnosis with the Governance Residual operational response. Core concepts, diagnostics, and the full Analytical Glossary."
+layout: single
 author_profile: false
 classes: wide
-redirect_from:
-  - /glossary/
+excerpt: "Analysis at the intersection of governance, institutional control, and artificial intelligence."
 ---
+
+# Framework
 
 *[🇷🇺 Читать на русском](/ru/framework/)*
 
@@ -32,33 +34,35 @@ An integrated analytical methodology connecting the Institutional Ceiling diagno
 
 ## Section 2: Core Concepts
 
-**Institutional Ceiling** — the structural threshold beyond which governance corrective capacity cannot extend, regardless of institutional design, political will, or resource allocation.
+*Definitions below are aligned word-for-word with the [Analytical Glossary v1.0](/glossary/) (DOI: [10.5281/zenodo.20741338](https://doi.org/10.5281/zenodo.20741338)), the canonical terminology standard for this platform. Glossary entry numbers in parentheses.*
 
-**Governance Residual** — the set of constraint mechanisms that retain operational leverage after the Institutional Ceiling has been reached. Partial, asymmetric, and non-zero.
+**Institutional Ceiling** (97) — The limit above which an existing governance architecture is incapable of functioning at a given level of technological complexity — regardless of intentions or resources.
 
-**Correction Window** — the interval during which institutional response can still alter the trajectory of AI deployment. Narrows as agency transfer deepens and human reversal capacity degrades.
+**Governance Residual** (107) — The partial, asymmetric control mechanisms that retain operational leverage after formal governance capacity is lost — including insurance underwriting, litigation, and procurement conditions. Not a governance alternative but the empirical condition peripheral jurisdictions must work within once the correction window has closed.
 
-**Sovereign Override** — the reclassification of governance constraints as supply-chain risks when strategic interest conflicts with compliance cost.
+**Correction Window** (11) — The last moment of reversibility; the brief phase during which institutions retain the capacity to alter an AI system's architecture before operational dependencies render it effectively ungovernable.
 
-**Material Predetermination** — the constraint imposed by the physical concentration of the AI compute substrate: semiconductor manufacturing, energy supply, and data infrastructure.
+**Sovereign Override** (15) — The situation in which state authority cancels or ignores previously established constraints on an AI system in pursuit of a priority — including strategic or security — objective.
 
-**Institutional Mismatch** — the categorical gap between what real enforcement requires and what existing institutions can produce.
+**Material Predetermination** (105) — The constraint on sovereign governance choices imposed by the physical configuration of the AI technology stack — chip fabrication, energy infrastructure, data centres — before any policy deliberation begins. One of the Three Structural Limits. Physical assets precede institutional possibilities.
 
-**Agency Transfer** — the progressive migration of decision-making authority from human judgment to automated systems.
+**Institutional Mismatch** (106) — The categorical incompatibility between existing governance architectures — built for slower, territorially bounded, physically verifiable systems — and the speed, cross-jurisdictional operation, and opacity of advanced AI. One of the Three Structural Limits. Governance institutions govern yesterday's world with yesterday's instruments.
 
-**Human Reversal Capacity** — the organisational capability to execute critical functions without AI system support. Degrades through disuse.
+**Agency Transfer** (9) — The gradual migration of decision-making authority from human actors to algorithmic systems, driven by automation, growing dependency, and institutional incentive structures.
 
-**Governance Theater** — the performance of oversight without its substance. Documentation and transparency reports that do not alter the operational dynamics they purport to govern.
+**Human Reversal Capacity** (24) — The possession by operators of retained skills and expertise sufficient for manual management of critical processes in the event of an AI system's failure.
 
-**Point of No Return** — the threshold of agency transfer depth beyond which the cost of restoring meaningful human operational capacity exceeds what organisations can practically absorb.
+**Governance Theater** (5) — The institutional-scale performance of governance activity by state or corporate actors without real capacity to alter system behaviour. Distinct from Performative Control (#6), which operates at the level of individual actions rather than strategic posture.
 
-*Full glossary of 109 terms in Section 4.*
+**Point of No Return** (114 · *addendum, pending Zenodo v1.1*) — the threshold of Agency Transfer Depth (95) beyond which the cost of restoring Human Reversal Capacity (24) exceeds what an organisation can practically absorb. Distinct from Correction Window (11): the Correction Window is the *interval* during which reversal is still possible; the Point of No Return is the *threshold* at which that interval ends.
+
+*Full glossary of 113 canonical terms (114 including this addendum) in Section 4.*
 
 ---
 
-## Section 3: Analytical Diagnostics
+## Section 3: Institutional Self-Assessment — Ten Operational Questions
 
-Ten questions to assess an institution's position relative to its own correction window.
+Ten questions to assess an institution’s position relative to its own correction window. This is the operational self-assessment layer of the Framework — the underlying methodology of INVEXI’s Agency Transfer Audit (ATA). The conceptual screening filter for identifying Governance Theater in any system (not limited to self-assessment) is the separate *Diagnostic Protocol* in the [Analytical Glossary, Section: Part Two](/glossary/).
 
 1. What percentage of decisions with material operational consequences are currently made or substantially shaped by AI systems without independent human verification?
 
@@ -86,4 +90,6 @@ Ten questions to assess an institution's position relative to its own correction
 
 113 canonical terms in English, Russian, and Uzbek (Latin script). The Khodjaev Framework, Version 1.0 · June 2026.
 
-[**Read the full Glossary** →](/glossary/) · [Download PDF](/assets/pdfs/The%20Khodjaev%20Framework_Glossary%20AI%20Governance_v1_0.pdf) · [DOI: 10.5281/zenodo.20741338](https://doi.org/10.5281/zenodo.20741338)
+[Read the full Glossary →](/glossary/) · [Download PDF](/assets/pdfs/The%20Khodjaev%20Framework_Glossary%20AI%20Governance_v1_0.pdf) · [DOI: 10.5281/zenodo.20741338](https://doi.org/10.5281/zenodo.20741338)
+
+[Substack](https://okhodjaev.substack.com) [X.com](https://x.com/O_Khodjaev) [LinkedIn](https://www.linkedin.com/in/oybek-khodjaev/)
