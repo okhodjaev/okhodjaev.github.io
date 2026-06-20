@@ -1003,11 +1003,11 @@ The three-language structure is not a formality. The series was written from a p
 
 ### 114. Point of No Return
 
-**EN —** The threshold of Agency Transfer Depth (95) beyond which the cost of restoring Human Reversal Capacity (24) exceeds what an organisation can practically absorb. Distinct from Correction Window (11): the Correction Window is the interval during which reversal is still possible; the Point of No Return is the threshold at which that interval ends.
+**EN —** *The threshold of Agency Transfer Depth (95) beyond which the cost of restoring Human Reversal Capacity (24) exceeds what an organisation can practically absorb. Distinct from Correction Window (11): the Correction Window is the interval during which reversal is still possible; the Point of No Return is the threshold at which that interval ends.*
 
-**RU — Точка невозврата.** Порог Глубины передачи агентности (95), за которым стоимость восстановления Способности человека к ручному управлению (24) превышает то, что организация может практически себе позволить. Отличается от Окна коррекции (11): окно коррекции — это интервал, в течение которого обратимость ещё возможна; точка невозврата — порог, которым этот интервал заканчивается.
+**RU — Точка невозврата.** *Порог Глубины передачи агентности (95), за которым стоимость восстановления Способности человека к ручному управлению (24) превышает то, что организация может практически себе позволить. Отличается от Окна коррекции (11): окно коррекции — это интервал, в течение которого обратимость ещё возможна; точка невозврата — порог, которым этот интервал заканчивается.*
 
-**UZ —** *pending translation and author review — not yet approved for publication in Uzbek.*
+**UZ — Qaytarib bo'lmaslik nuqtasi.** *Bu — qaror vakolati siljishining chuqurligi (95) chegarasi bo'lib, undan oshgach, insonning qo'lda boshqarishni tiklash qobiliyatini (24) qayta tiklash xarajati tashkilot amalda ko'tara oladigan darajadan oshib ketadi. Tuzatish darchasidan (11) farqi: tuzatish darchasi — qaytarish hali mumkin bo'lgan oraliq davr; qaytarib bo'lmaslik nuqtasi esa — shu davrning tugash chegarasidir.*
 
 ---
 
