@@ -84,6 +84,6 @@ Ten questions to assess an institution's position relative to its own correction
 
 ## Section 4: Full Glossary
 
-109 terms in English, Russian, and Uzbek (Latin script). Version 7.0 · June 2026.
+113 canonical terms in English, Russian, and Uzbek (Latin script). The Khodjaev Framework, Version 1.0 · June 2026.
 
-[Download PDF →](/assets/pdfs/)
+[**Read the full Glossary** →](/glossary/) · [Download PDF](/assets/pdfs/The%20Khodjaev%20Framework_Glossary%20AI%20Governance_v1_0.pdf) · [DOI: 10.5281/zenodo.20741338](https://doi.org/10.5281/zenodo.20741338)
