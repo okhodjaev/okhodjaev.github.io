@@ -246,17 +246,20 @@ Series community: [zenodo.org/communities/beyond-control-ai-governance](https://
 
 **Glossary of Core Terms**
 
+*Definitions below are aligned with the [Analytical Glossary v1.0](/glossary/) (DOI: [10.5281/zenodo.20741338](https://doi.org/10.5281/zenodo.20741338)), published after this Synthesis and now the canonical terminology standard for this platform. The original Zenodo deposit of this Synthesis (Version 1.0, May 2026, DOI: [10.5281/zenodo.20120514](https://doi.org/10.5281/zenodo.20120514)) remains unchanged for citation integrity. Glossary entry numbers in parentheses.*
+
 | Term | Definition |
-|---|---|
-| **Correction window** | The interval between a system's emergence and the moment at which rollback becomes operationally non-viable. |
-| **Agency transfer** | The progressive migration of decision-making authority from human operators to automated systems through accumulated dependency. |
-| **Governance residual** | The set of constraint mechanisms that retain operational leverage after the correction window has closed. |
-| **Sovereign override** | The structural limit on enforcement architectures arising when a state's strategic interest in a technology conflicts with the framework's constraints. |
-| **Material predetermination** | The physical configuration of compute, energy, and fabrication infrastructure that constrains sovereign governance choices before any policy deliberation begins. |
-| **Institutional mismatch** | The categorical incompatibility between existing governance architectures and the three elements of real enforcement: halt authority, independent access, and consequences for misrepresentation. |
+| --- | --- |
+| **Correction Window** (11) | The last moment of reversibility; the brief phase during which institutions retain the capacity to alter an AI system's architecture before operational dependencies render it effectively ungovernable. |
+| **Agency Transfer** (9) | The gradual migration of decision-making authority from human actors to algorithmic systems, driven by automation, growing dependency, and institutional incentive structures. |
+| **Governance Residual** (107) | The partial, asymmetric control mechanisms that retain operational leverage after formal governance capacity is lost — including insurance underwriting, litigation, and procurement conditions. Not a governance alternative but the empirical condition peripheral jurisdictions must work within once the correction window has closed. |
+| **Sovereign Override** (15) | The situation in which state authority cancels or ignores previously established constraints on an AI system in pursuit of a priority — including strategic or security — objective. |
+| **Material Predetermination** (105) | The constraint on sovereign governance choices imposed by the physical configuration of the AI technology stack — chip fabrication, energy infrastructure, data centres — before any policy deliberation begins. One of the Three Structural Limits. Physical assets precede institutional possibilities. |
+| **Institutional Mismatch** (106) | The categorical incompatibility between existing governance architectures — built for slower, territorially bounded, physically verifiable systems — and the speed, cross-jurisdictional operation, and opacity of advanced AI. One of the Three Structural Limits. Governance institutions govern yesterday's world with yesterday's instruments. |
 
 ---
 
-*Oybek Khodjaev is the founder and CEO of INVEXI LLC, former Deputy Chairman of a major Uzbek commercial bank, and former Deputy Governor of the Samarkand Region (2019–2022). He writes on AI governance and institutional risk at okhodjaev.com as part of the analytical series Beyond Control — Theory of Limits of AI Governance.*
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS.  
+Author of the essay series "Beyond Control: Theory of Limits of AI Governance." okhodjaev.com*
 
-[Substack](https://okhodjaev.substack.com){: target="_blank"} · [X.com](https://x.com/O_Khodjaev){: target="_blank"} · [LinkedIn](https://www.linkedin.com/in/oybek-khodjaev/){: target="_blank"}
+*The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
