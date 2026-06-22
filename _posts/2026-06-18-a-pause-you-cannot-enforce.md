@@ -19,7 +19,7 @@ excerpt: "The June 4 Anthropic proposal diagnoses the trajectory with precision.
 
 ---
 
-On the fourth of June, one of the leading AI laboratories said, in its own name and against its own commercial interest, that the central problem is control. In a paper titled "When AI Builds Itself," Anthropic disclosed that most of the code now entering its production systems is written by its own model, warned that this trajectory points toward systems capable of designing their own successors, and proposed that the world retain the option to slow or pause frontier development before that threshold is crossed.
+On the fourth of June, one of the leading AI laboratories said, in its own name and against its own commercial interest, that the central problem is control. In a paper titled [**"When AI Builds Itself"**](https://www.anthropic.com/institute/recursive-self-improvement) **Anthropic** disclosed that most of the code now entering its production systems is written by its own model, warned that this trajectory points toward systems capable of designing their own successors, and proposed that the world retain the option to slow or pause frontier development before that threshold is crossed.
 
 The admission matters. When a front-runner concedes that the risk is loss of control rather than some distant hypothetical, the conversation has moved closer to where it always needed to be.
 
