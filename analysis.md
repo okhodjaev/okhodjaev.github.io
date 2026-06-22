@@ -12,7 +12,7 @@ These pieces are not part of the *Beyond Control* series. They apply the series'
 
 ### [A Pause You Cannot Enforce](/analysis/a-pause-you-cannot-enforce/)
 
-On June 4, 2026, Anthropic published "When AI Builds Itself" — disclosing that most of its production code is now written by its own model and proposing a globally coordinated pause on frontier AI development. The proposal diagnoses the trajectory with precision. It does not explain why the proposed remedy is structurally unavailable, or what the pause debate means for the nations that will be bound by a decision made in their absence. An open letter to the consumer nations of artificial intelligence.
+On June 4, 2026, **Anthropic** published [**'When AI Builds Itself'**](https://www.anthropic.com/institute/recursive-self-improvement) — disclosing that most of its production code is now written by its own model and proposing a globally coordinated pause on frontier AI development. The proposal diagnoses the trajectory with precision. It does not explain why the proposed remedy is structurally unavailable, or what the pause debate means for the nations that will be bound by a decision made in their absence. An open letter to the consumer nations of artificial intelligence.
 
 *June 18, 2026.* [**Read Analysis →**](/analysis/a-pause-you-cannot-enforce/)
 
@@ -26,7 +26,7 @@ On June 4, 2026, Anthropic published "When AI Builds Itself" — disclosing that
 
 ### [When the Center Speaks for the Periphery: AI Governance and the Limits of Moral Declaration](/analysis/magnifica-humanitas-ai-governance/)
 
-On May 15, 2026, Pope Leo XIV released *Magnifica Humanitas* — the first encyclical in the tradition of Catholic social teaching to address artificial intelligence directly. This is not a theological event. It is an institutional intervention in a contest over normative authority, arriving at the precise moment when that contest can still be shifted before infrastructure decisions harden into irreversibility. A structural reading from the periphery.
+On May 15, 2026, **Pope Leo XIV** released [**Magnifica Humanitas**](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) — the first encyclical in the tradition of Catholic social teaching to address artificial intelligence directly. This is not a theological event. It is an institutional intervention in a contest over normative authority, arriving at the precise moment when that contest can still be shifted before infrastructure decisions harden into irreversibility. A structural reading from the periphery.
 
 *June 2, 2026.* [**Read Analysis →**](/analysis/magnifica-humanitas-ai-governance/)
 
