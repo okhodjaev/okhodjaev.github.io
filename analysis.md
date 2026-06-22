@@ -10,10 +10,6 @@ These pieces are not part of the *Beyond Control* series. They apply the series'
 
 ---
 
-## 2026
-
----
-
 ### [A Pause You Cannot Enforce](/analysis/a-pause-you-cannot-enforce/)
 
 On June 4, 2026, Anthropic published "When AI Builds Itself" — disclosing that most of its production code is now written by its own model and proposing a globally coordinated pause on frontier AI development. The proposal diagnoses the trajectory with precision. It does not explain why the proposed remedy is structurally unavailable, or what the pause debate means for the nations that will be bound by a decision made in their absence. An open letter to the consumer nations of artificial intelligence.
@@ -25,7 +21,7 @@ On June 4, 2026, Anthropic published "When AI Builds Itself" — disclosing that
 *[Russian-language version available](/analysis/a-pause-you-cannot-enforce-ru/)*
 
   
-
+  
 ---
 
 ### [When the Center Speaks for the Periphery: AI Governance and the Limits of Moral Declaration](/analysis/magnifica-humanitas-ai-governance/)
