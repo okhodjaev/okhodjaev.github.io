@@ -46,6 +46,3 @@ excerpt: "Предложение Anthropic от 4 июня точно диагн
 
 *Автор консультирует государственные органы и финансовые организации по вопросам управления ИИ, систем верификации и институциональной готовности.*
 
-**Опубликовано** 18 июня 2026
-
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
