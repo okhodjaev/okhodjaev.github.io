@@ -49,4 +49,3 @@ Each Analytical Note operationalises one or more essays from the ***Beyond Contr
 Author of the essay series "Beyond Control: Theory of Limits of AI Governance." okhodjaev.com*
 
 *The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
-
