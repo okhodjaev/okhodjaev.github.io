@@ -32,7 +32,7 @@ excerpt: "The sovereign declaration travels without the material capacity it pre
 
 ## I. The Declaration and the Substrate
 
-On 10 March 2026, Presidential Decree No. УП-38 defined the Cybersecurity Strategy of the Republic of Uzbekistan for 2026–2030. Among its strategic directions is the development of digital innovations, AI technologies, and the strengthening of technological independence in the sphere of cybersecurity. A second direction specifies the development of a national infrastructure for digital identification and access management, along with domestic software and hardware solutions.
+On 10 March 2026, Presidential Decree No. PD-38 defined the Cybersecurity Strategy of the Republic of Uzbekistan for 2026–2030. Among its strategic directions is the development of digital innovations, AI technologies, and the strengthening of technological independence in the sphere of cybersecurity. A second direction specifies the development of a national infrastructure for digital identification and access management, along with domestic software and hardware solutions.
 
 These are institutional commitments with significant operational implications. The Strategy mandates government agencies to fund cybersecurity activities from their own budgets from April 2026, establishes a National Coordination Council for Cybersecurity under the Security Council, and requires dedicated cybersecurity units to be created across priority ministries. The sovereignty claim is explicit, formally adopted, and now binding on state bodies.
 
@@ -141,4 +141,3 @@ Kazakhstan's next major AI infrastructure acquisition following the Presight/G42
 
 *The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
 
-**](https://www.linkedin.com/in/oybek-khodjaev/)
