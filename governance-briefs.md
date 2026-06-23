@@ -16,6 +16,7 @@ Each Analytical Note operationalises one or more essays from the ***Beyond Contr
 
 | No. | Title | Operationalises | Date |
 |-----|-------|-----------------|------|
+| 11 | [**Sovereignty Without Infrastructure:** *The sovereign declaration travels without the material capacity it presupposes.*](/governance-briefs/sovereignty-without-infrastructure/) | Essay 9, 10 | June 23, 2026 |
 | 10 | [**The Alignment Ceiling:** *When AI systems are imported rather than built, the alignment claim travels with them — but the institutional capacity to verify it does not.*](/governance-briefs/the-alignment-ceiling/) | Essay 12, 8 | June 19, 2026 |
 | 9 | [**Why Governance Does Not Scale:** *The structural limits of transposing developed-economy oversight to emerging institutional environments. When deployment scales, the gap between the governance claim and the verification architecture does not remain constant.*](/governance-briefs/why-governance-does-not-scale/) | Essay 9 | June 16, 2026 |
 | 8 | [**Three Centralisation Architectures:** *Comparative analysis of three centralisation architectures in Uzbekistan, India (UPI), and Brazil (Pix). The subject is not payment infrastructure. It is how different governance architectures shape the consequences of the same centralising technical mechanism.*](/governance-briefs/three-centralisation-architectures/) | Essay 11 | June 11, 2026 |
@@ -31,9 +32,6 @@ Each Analytical Note operationalises one or more essays from the ***Beyond Contr
 
 ### Forthcoming:  
 
-## Analytical Note No. 11 — **Sovereignty Without Infrastructure**  
-*Digital sovereignty as institutional claim versus operational reality.*
-
 ## Analytical Note No. 12 — **Minimum Viable Oversight**  
 *What governance architecture can still achieve within structural limits.*
 
@@ -47,4 +45,8 @@ Each Analytical Note operationalises one or more essays from the ***Beyond Contr
 
 ---
 
-*For institutional and consulting inquiries: [ok@okhodjaev.com](mailto:ok@okhodjaev.com)*
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS.  
+Author of the essay series "Beyond Control: Theory of Limits of AI Governance." okhodjaev.com*
+
+*The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
+
