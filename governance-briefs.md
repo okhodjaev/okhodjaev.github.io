@@ -16,6 +16,7 @@ Each Analytical Note operationalises one or more essays from the ***Beyond Contr
 
 | No. | Title | Operationalises | Date |
 |-----|-------|-----------------|------|
+| 12 | [**Minimum Viable Oversight:** *What governance architecture can still achieve within structural limits.*](/governance-briefs/minimum-viable-oversight/) | Essay 7, 12 | June 25, 2026 |
 | 11 | [**Sovereignty Without Infrastructure:** *The sovereign declaration travels without the material capacity it presupposes.*](/governance-briefs/sovereignty-without-infrastructure/) | Essay 9, 10 | June 23, 2026 |
 | 10 | [**The Alignment Ceiling:** *When AI systems are imported rather than built, the alignment claim travels with them — but the institutional capacity to verify it does not.*](/governance-briefs/the-alignment-ceiling/) | Essay 12, 8 | June 19, 2026 |
 | 9 | [**Why Governance Does Not Scale:** *The structural limits of transposing developed-economy oversight to emerging institutional environments. When deployment scales, the gap between the governance claim and the verification architecture does not remain constant.*](/governance-briefs/why-governance-does-not-scale/) | Essay 9 | June 16, 2026 |
@@ -30,12 +31,6 @@ Each Analytical Note operationalises one or more essays from the ***Beyond Contr
 
 ---
 
-### Forthcoming:  
-
-## Analytical Note No. 12 — **Minimum Viable Oversight**  
-*What governance architecture can still achieve within structural limits.*
-
----
 
 **Series:** Governance Briefs operationalise the ***Beyond Control*** framework. Each Analytical Note is grounded in a specific regulatory anchor — a decree, law, or institutional event — and follows a strict five-element pre-publication protocol.
 
