@@ -17,7 +17,7 @@ excerpt: "What governance architecture can still achieve within structural limit
 
 ---
 
-On 17 July 2012, the Uzbek Agency of Communications and Informatisation issued Order No. 19-L suspending the telecommunications licence of Uzdunrobita LLC ("MTS-Uzbekistan" brand) effective from 18:00 that day. Instantly 9.5 million subscribers had lost service. Whether the specific grounds were fully justified is a matter of the legal record. What matters analytically is the demonstrated institutional fact: Uzbekistan's regulatory architecture already contains the capacity to halt the operations of a systemically significant licensed operator through a single regulatory decision.
+On 17 July 2012, the Uzbek Agency of Communications and Informatisation issued Order suspending the telecommunications licence of Uzdunrobita LLC ("MTS-Uzbekistan" brand) effective from 18:00 that day. Instantly 9.5 million subscribers had lost service. Whether the specific grounds were fully justified is a matter of the legal record. What matters analytically is the demonstrated institutional fact: Uzbekistan's regulatory architecture already contains the capacity to halt the operations of a systemically significant licensed operator through a single regulatory decision.
 
 That capacity exists. It has not yet been systematically extended to AI systems.
 
