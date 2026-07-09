@@ -90,12 +90,10 @@ Full essay and updated sources: [okhodjaev.com/analysis/the-verification-ceiling
 
 ---
 
-*Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC.
-Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director
-and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
-More than thirty years' experience in economics, banking, finance, and business
-across Uzbekistan and the CIS.*
+*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS.
+Author of the essay series "Beyond Control: Theory of Limits of AI Governance." okhodjaev.com*
 
+*The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
 **Published** July 9, 2026
 
 <a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
