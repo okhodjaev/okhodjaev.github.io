@@ -94,3 +94,7 @@ Full essay and updated sources: [okhodjaev.com/analysis/the-verification-ceiling
 Author of the essay series "Beyond Control: Theory of Limits of AI Governance." okhodjaev.com*
 
 *The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
+
+
+
+
