@@ -10,13 +10,13 @@ These pieces are not part of the *Beyond Control* series. They apply the series'
 
 ---
 
-[The Verification Ceiling: What Geneva Confirmed About Global AI Governance](/analysis/the-verification-ceiling/)
+### [The Verification Ceiling: What Geneva Confirmed About Global AI Governance](/analysis/the-verification-ceiling/)
 
 On July 1, 2026, the UN's Independent International Scientific Panel on AI released its preliminary report, naming an "evidence dilemma" at the heart of global AI governance. Five days later, the first UN Global Dialogue on AI Governance convened in Geneva and produced no enforcement mechanism — not because it failed, but because verification capacity, compute concentration, and a pre-declared sovereign limit made none structurally available. Three structural constraints, confirmed on the record, in the words of the institutions' own participants.
 
 *July 9, 2026.* [**Read Analysis →**](/analysis/the-verification-ceiling/)
 
-* * *
+---
 
 *[Russian-language version available](/analysis/the-verification-ceiling-ru/)*
 
