@@ -66,6 +66,14 @@ On May 15, 2026, **Pope Leo XIV** released [**Magnifica Humanitas**](https://www
 
 ---
 
+*[Russian-language version available](/analysis/magnifica-humanitas-ai-governance-ru/)*
+
+&nbsp;
+
+&nbsp;
+
+---
+
 Subscribe to receive new work: <a href="https://okhodjaev.substack.com" target="_blank">okhodjaev.substack.com</a>
 
 ---
