@@ -10,6 +10,22 @@ These pieces are not part of the *Beyond Control* series. They apply the series'
 
 ---
 
+[The Verification Ceiling: What Geneva Confirmed About Global AI Governance](/analysis/the-verification-ceiling/)
+
+On July 1, 2026, the UN's Independent International Scientific Panel on AI released its preliminary report, naming an "evidence dilemma" at the heart of global AI governance. Five days later, the first UN Global Dialogue on AI Governance convened in Geneva and produced no enforcement mechanism — not because it failed, but because verification capacity, compute concentration, and a pre-declared sovereign limit made none structurally available. Three structural constraints, confirmed on the record, in the words of the institutions' own participants.
+
+*July 9, 2026.* [**Read Analysis →**](/analysis/the-verification-ceiling/)
+
+* * *
+
+*[Russian-language version available](/analysis/the-verification-ceiling-ru/)*
+
+&nbsp;
+
+&nbsp;
+
+---
+
 ### [From Incident to Institution: the Presidential Memorandum NSPM-11 and the Permanent Architecture of Sovereign Override](/analysis/from-incident-to-institution/)
 
 On June 5, 2026, President Trump signed [**National Security Presidential Memorandum 11 (NSPM-11)**](https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/), "Artificial Intelligence in the National Security Enterprise" — formalising a standing government right to compel continued AI system access and terminate any supplier that restricts how its technology is used. The clause is not abstract doctrine. It is the direct institutionalisation of the sovereign override first tested, in contested form, three months earlier in the Anthropic-Pentagon dispute. What a contract dispute predicted in March, a memorandum made permanent in June.
