@@ -1,9 +1,9 @@
 ---
-title: "Theory of Limits of AI Governance"
+title: "Beyond Control: Theory of Limits of AI Governance"
 permalink: /
 classes: wide
 ---
-I'm Oybek Khodjaev — author of the ***Beyond Control*** series and the analytical synthesis establishing the ***Theory of Limits of AI Governance***.
+I'm **Oybek Khodjaev** — author of the ***Beyond Control*** series and the analytical synthesis establishing the ***Theory of Limits of AI Governance***.
 
 For over thirty years, I have worked across finance, banking, government, and business, including serving as Deputy Governor of Samarkand Region and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank. I witnessed the collapse of the Soviet Union from the inside and have spent decades observing how large systems transform, lose control, and sometimes fail.
 
@@ -15,7 +15,7 @@ I write about how artificial intelligence is reshaping power dynamics, instituti
 
 ## Analytical Synthesis
 
-**[Beyond Control: Theory of Limits of AI Governance — An Analytical Synthesis](/synthesis/)**
+**[Beyond Control: Theory of Limits of AI Governance](/synthesis/)**
 
 The capstone of the twelve-essay series. Establishes the Theory of Limits of AI Governance: three structural constraints — sovereign override, material predetermination, and institutional mismatch — and their multiplicative interaction. Includes diagnostic table, glossary, and full DOI index.
 
