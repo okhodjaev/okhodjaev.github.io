@@ -10,6 +10,21 @@ These pieces are not part of the *Beyond Control* series. They apply the series'
 
 ---
 
+### [The Access List](/analysis/the-access-list/)
+
+On June 12, 2026, an export control directive suspended access to two frontier models for any foreign national, inside the United States or outside it, including the developer's own employees. Ten days earlier, [**Executive Order 14409**](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/) had established a voluntary pre-release framework and expressly disclaimed the creation of any mandatory licensing or preclearance requirement. Two weeks later, GPT-5.6 was withheld from broad release pending federal review, with the government participating in the selection of who could use it. Nothing was contravened. The operative criterion was not where a system was deployed, but who was using it — and for institutions whose operations depend on capability licensed elsewhere, that distinction is the whole of the risk.
+
+*July 13, 2026.* [**Read Analysis →**](/analysis/the-access-list/)
+
+---
+
+*[Russian-language version available](/analysis/the-access-list-ru/)*
+
+&nbsp;
+&nbsp;
+
+---
+
 ### [The Verification Ceiling: What Geneva Confirmed About Global AI Governance](/analysis/the-verification-ceiling/)
 
 On July 1, 2026, the UN's Independent International Scientific Panel on AI released its preliminary report, naming an "evidence dilemma" at the heart of global AI governance. Five days later, the first UN Global Dialogue on AI Governance convened in Geneva and produced no enforcement mechanism — not because it failed, but because verification capacity, compute concentration, and a pre-declared sovereign limit made none structurally available. Three structural constraints, confirmed on the record, in the words of the institutions' own participants.
@@ -21,7 +36,6 @@ On July 1, 2026, the UN's Independent International Scientific Panel on AI relea
 *[Russian-language version available](/analysis/the-verification-ceiling-ru/)*
 
 &nbsp;
-
 &nbsp;
 
 ---
@@ -37,7 +51,6 @@ On June 5, 2026, President Trump signed [**National Security Presidential Memora
 *[Russian-language version available](/analysis/from-incident-to-institution-ru/)*
 
 &nbsp;
-
 &nbsp;
 
 ---
@@ -53,7 +66,6 @@ On June 4, 2026, **Anthropic** published [**'When AI Builds Itself'**](https://w
 *[Russian-language version available](/analysis/a-pause-you-cannot-enforce-ru/)*
 
 &nbsp;
-
 &nbsp;
 
 ---
@@ -69,7 +81,6 @@ On May 15, 2026, **Pope Leo XIV** released [**Magnifica Humanitas**](https://www
 *[Russian-language version available](/analysis/magnifica-humanitas-ai-governance-ru/)*
 
 &nbsp;
-
 &nbsp;
 
 ---
