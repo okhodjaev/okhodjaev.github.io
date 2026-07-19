@@ -56,15 +56,10 @@ excerpt: "Цитата или ключевой тезис эссе."
 
 ---
 
-*Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC.
-Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director
-and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
-More than thirty years' experience in economics, banking, finance, and business
-across Uzbekistan and the CIS.*
+*Oybek Khodjaev researches AI governance and advises on institutional readiness in the age of AI, with a particular focus on systemic risk. Drawing on more than 35 years of experience across banking, finance, public administration, and business in Uzbekistan and the CIS, he develops practical approaches to assessing the institutional limits of AI governance. He is the author of the "Beyond Control" essay series, which advances a structural theory of the limits of AI governance.*
 
 **Published** Month DD, YYYY
 
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
 ```
 
 **Важно:** Contents пишется ВРУЧНУЮ в тексте — НЕ через `toc: true` в front matter.
@@ -116,11 +111,7 @@ future: true
 Единая формула в конце каждого эссе — всегда курсивом:
 
 ```markdown
-*Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC.
-Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director
-and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
-More than thirty years' experience in economics, banking, finance, and business
-across Uzbekistan and the CIS.*
+*Oybek Khodjaev researches AI governance and advises on institutional readiness in the age of AI, with a particular focus on systemic risk. Drawing on more than 35 years of experience across banking, finance, public administration, and business in Uzbekistan and the CIS, he develops practical approaches to assessing the institutional limits of AI governance. He is the author of the "Beyond Control" essay series, which advances a structural theory of the limits of AI governance.*
 ```
 
 ---
@@ -191,9 +182,7 @@ across Uzbekistan and the CIS.*
 
 **EN:**
 ```
-*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS. Author of the essay series "Beyond Control: Theory of Limits of AI Governance." [okhodjaev.com](https://okhodjaev.com/)*
-
-*The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
+*Oybek Khodjaev researches AI governance and advises on institutional readiness in the age of AI, with a particular focus on systemic risk. Drawing on more than 35 years of experience across banking, finance, public administration, and business in Uzbekistan and the CIS, he develops practical approaches to assessing the institutional limits of AI governance. He is the author of the "Beyond Control" essay series, which advances a structural theory of the limits of AI governance.*
 
 **Published** [Month DD, YYYY]
 
@@ -202,13 +191,10 @@ across Uzbekistan and the CIS.*
 
 **RU:**
 ```
-*Ойбек Ходжаев — более 35 лет опыта в банковском секторе, финансах, государственном управлении и бизнесе в Узбекистане и СНГ. Автор серии эссе «Beyond Control: Theory of Limits of AI Governance». [okhodjaev.com](https://okhodjaev.com/)*
-
-*Автор консультирует государственные органы и финансовые организации по вопросам управления ИИ, систем верификации и институциональной готовности.*
+*Ойбек Ходжаев исследует управление ИИ и консультирует по вопросам институциональной готовности к эпохе искусственного интеллекта, уделяя особое внимание системному риску. Опираясь на более чем 35-летний опыт в банковском секторе, финансах, государственном управлении и бизнесе в Узбекистане и СНГ, он разрабатывает практические подходы к оценке институциональных пределов управления ИИ. Автор серии эссе «Beyond Control», в которой развивает структурную теорию пределов управления ИИ.*
 
 **Опубликовано** [Месяц ГГГГ]
 
-<a href="https://okhodjaev.substack.com" target="_blank">Substack</a> · <a href="https://x.com/O_Khodjaev" target="_blank">X.com</a> · <a href="https://www.linkedin.com/in/oybek-khodjaev/" target="_blank">LinkedIn</a>
 ```
 
 ### Запрещено
