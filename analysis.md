@@ -10,6 +10,21 @@ These pieces are not part of the *Beyond Control* series. They apply the series'
 
 ---
 
+### [Second Table, Same Ceiling: Two Systems of Legitimation, One Structural Limit](/analysis/second-table-same-ceiling/)
+
+On July 16, 2026, twenty-nine states signed the founding agreement of the [**World Artificial Intelligence Cooperation Organization (WAICO)**](https://english.www.gov.cn/news/202607/17/content_WS6a59a226c6d00ca5f9a0c432.html), Uzbekistan among them. Three weeks earlier, the United States and some three dozen partner economies had signed the [**AI Opportunity Statement**](https://www.state.gov/ai-opportunity-statement) at the second Pax Silica Summit. Within a single month, global AI governance acquired a second institutional table, built on the opposite logic of membership. Yet the two registries barely overlap, and neither carries the one capacity the first was already found to lack: the ability to independently verify the systems both exist to govern. More tables, the same ceiling.
+
+*July 19, 2026.* [**Read Analysis →**](/analysis/second-table-same-ceiling/)
+
+---
+
+*[Russian-language version available](/analysis/second-table-same-ceiling-ru/)*
+
+&nbsp;
+&nbsp;
+
+---
+
 ### [The Access List](/analysis/the-access-list/)
 
 On June 12, 2026, an export control directive suspended access to two frontier models for any foreign national, inside the United States or outside it, including the developer's own employees. Ten days earlier, [**Executive Order 14409**](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/) had established a voluntary pre-release framework and expressly disclaimed the creation of any mandatory licensing or preclearance requirement. Two weeks later, GPT-5.6 was withheld from broad release pending federal review, with the government participating in the selection of who could use it. Nothing was contravened. The operative criterion was not where a system was deployed, but who was using it — and for institutions whose operations depend on capability licensed elsewhere, that distinction is the whole of the risk.
