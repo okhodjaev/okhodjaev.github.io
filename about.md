@@ -61,6 +61,10 @@ Institutional diagnostics and applied advisory on AI governance readiness throug
 
 ---
 
+*Oybek Khodjaev researches AI governance and advises on institutional readiness in the age of AI, with a particular focus on systemic risk. Drawing on more than 35 years of experience across banking, finance, public administration, and business in Uzbekistan and the CIS, he develops practical approaches to assessing the institutional limits of AI governance. He is the author of the "Beyond Control" essay series, which advances a structural theory of the limits of AI governance.*
+
+---
+
 **ORCID:** [0009-0009-7991-0456](https://orcid.org/0009-0009-7991-0456)  
 **Zenodo:** [Beyond Control community](https://zenodo.org/communities/beyond-control-ai-governance)  
 **Substack:** [okhodjaev.substack.com](https://okhodjaev.substack.com)  
