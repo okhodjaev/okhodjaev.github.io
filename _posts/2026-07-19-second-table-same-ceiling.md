@@ -132,4 +132,4 @@ Full analysis and updated sources: [okhodjaev.com/analysis/second-table-same-cei
 
 ---
 
-*Oybek Khodjaev researches AI governance and advises on institutional readiness in the age of AI, with a particular focus on systemic risk. Drawing on more than 35 years of experience across banking, finance, public administration, and business in Uzbekistan and the CIS, he develops practical approaches to assessing the institutional limits of AI governance. He is the author of the "Beyond Control" essay series, in which he develops a structural theory of the limits of AI governance.*
+*Oybek Khodjaev researches AI governance and advises on institutional readiness in the age of AI, with a particular focus on systemic risk. Drawing on more than 35 years of experience across banking, finance, public administration, and business in Uzbekistan and the CIS, he develops practical approaches to assessing the institutional limits of AI governance. He is the author of the "Beyond Control" essay series, which advances a structural theory of the limits of AI governance.*
