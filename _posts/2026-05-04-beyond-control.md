@@ -181,4 +181,4 @@ Cite this work: Khodjaev, O. (2026). Beyond Control: What Happens When the Corre
 
 *This essay is part of the series Beyond Control. The analytical synthesis of all twelve essays is available here: [Theory of Limits of AI Governance — An Analytical Synthesis](/synthesis/)*
 
-*Oybek Khodjaev is a systems transformation analyst with thirty-five years of experience across economics, banking, business, and government in Uzbekistan and the CIS, including service as Deputy Governor (Deputy Khokim) of Samarkand Region (2019–2022). He is the founder and CEO of INVEXI LLC. His work on AI governance and institutional risk is published at [okhodjaev.com](https://okhodjaev.com).*
+*Oybek Khodjaev researches AI governance and advises on institutional readiness in the age of AI, with a particular focus on systemic risk. Drawing on more than 35 years of experience across banking, finance, public administration, and business in Uzbekistan and the CIS, he develops practical approaches to assessing the institutional limits of AI governance. He is the author of the "Beyond Control" essay series, which advances a structural theory of the limits of AI governance.*
