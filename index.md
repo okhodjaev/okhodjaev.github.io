@@ -5,7 +5,7 @@ classes: wide
 ---
 I'm **Oybek Khodjaev** — author of the ***Beyond Control*** series and the analytical synthesis establishing the ***Theory of Limits of AI Governance***.
 
-For over thirty years, I have worked across finance, banking, government, and business, including serving as Deputy Governor of Samarkand Region and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank. I witnessed the collapse of the Soviet Union from the inside and have spent decades observing how large systems transform, lose control, and sometimes fail.
+For over thirty years, I have worked across finance, banking, government, and business, including serving as Deputy Governor of Samarkand Region and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank (Agrobank). I witnessed the collapse of the Soviet Union from the inside and have spent decades observing how large systems transform, lose control, and sometimes fail.
 
 Twelve Essays and one Analytical Synthesis establish a single structural finding: the institutional order created for governing previous technologies is categorically incapable of governing frontier AI — not because of incompetence or bad faith, but because three structural limits interact multiplicatively to produce a governance environment in which the conditions for real enforcement cannot be simultaneously satisfied.
 
