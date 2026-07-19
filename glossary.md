@@ -1072,8 +1072,5 @@ Khodjaev, Oybek. *Beyond Control — An Analytical Synthesis.* Zenodo, May 2026.
 
 ---
 
-*Oybek Khodjaev — over 35 years of experience in banking, finance, public administration, and business in Uzbekistan and the CIS.  
-Author of the essay series "Beyond Control: Theory of Limits of AI Governance." okhodjaev.com*
-
-*The author advises public institutions and financial organisations on AI governance, verification frameworks, and institutional readiness.*
+*Oybek Khodjaev researches AI governance and advises on institutional readiness in the age of AI, with a particular focus on systemic risk. Drawing on more than 35 years of experience across banking, finance, public administration, and business in Uzbekistan and the CIS, he develops practical approaches to assessing the institutional limits of AI governance. He is the author of the "Beyond Control" essay series, which advances a structural theory of the limits of AI governance.*
 
