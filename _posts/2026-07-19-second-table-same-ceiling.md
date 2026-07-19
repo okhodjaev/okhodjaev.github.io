@@ -92,11 +92,17 @@ Three implications follow, and they are best kept separate by the confidence eac
 
 ## Signals to Watch
 
-Several markers will show whether this reading holds. Whether WAICO, as it moves from signed agreement toward operating body, is given a charter, a secretariat, a budget, and decision rules, and in particular whether any organ is granted a verification or audit mandate over member systems rather than a coordinating role; whether the founding period closes on 31 July 2026, as reported by member-state sources, or remains open beyond it, and whether the final roster differs from the twenty-nine, and whether any state other than Kazakhstan comes to sit at both tables; whether the material commitments that accompany membership, the training programs and tool access announced in Shanghai, arrive on terms set by the host or negotiable by the members; and whether the next session of the United Nations Global Dialogue, in New York in 2027, engages the existence of a parallel pole or proceeds as though the field still had one center.
+Several markers will show whether this reading holds. 
+- Whether WAICO, as it moves from signed agreement toward operating body, is given a charter, a secretariat, a budget, and decision rules, and in particular whether any organ is granted a verification or audit mandate over member systems rather than a coordinating role;
+- Whether the founding period closes on 31 July 2026, as reported by member-state sources, or remains open beyond it, and whether the final roster differs from the twenty-nine, and whether any state other than Kazakhstan comes to sit at both tables;
+- Whether the material commitments that accompany membership, the training programs and tool access announced in Shanghai, arrive on terms set by the host or negotiable by the members;
+- and whether the next session of the United Nations Global Dialogue, in New York in 2027, engages the existence of a parallel pole or proceeds as though the field still had one center.
 
 ## The Questions That Remain Open
 
-Two questions this piece cannot resolve. First, whether two competing registries can generate the distributed capacity for verification that a single universal forum could not, or whether the division simply reproduces, twice over, the same distance between governance claim and operational effect. Second, whether formal representation in an expanding institution can, over time, convert into genuine influence over the material and verification parameters that decide governance outcomes, or whether a seat at a legitimating table is precisely the thing that is offered in place of that influence.
+Two questions this piece cannot resolve. 
+**First**, whether two competing registries can generate the distributed capacity for verification that a single universal forum could not, or whether the division simply reproduces, twice over, the same distance between governance claim and operational effect. 
+**Second**, whether formal representation in an expanding institution can, over time, convert into genuine influence over the material and verification parameters that decide governance outcomes, or whether a seat at a legitimating table is precisely the thing that is offered in place of that influence.
 
 ---
 
