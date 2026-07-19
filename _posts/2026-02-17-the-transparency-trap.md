@@ -189,7 +189,4 @@ Full essay and updated sources: [okhodjaev.com/essays/the-transparency-trap](htt
 *This essay is part of the series Beyond Control. The analytical synthesis of all twelve essays is available here: [Theory of Limits of AI Governance — An Analytical Synthesis](/synthesis/)*
 
 
-*Oybek Khodjaev: systems transformation analyst, Founder & CEO of INVEXI LLC.
-Former Deputy Governor (Deputy Khokim) of Samarkand Region. Previously, Treasury Director and Deputy Chairman of the Management Board at JSC UzAgroIndustrialBank.
-More than thirty years' experience in economics, banking, finance, and business across Uzbekistan and the CIS.*
-
+*Oybek Khodjaev researches AI governance and advises on institutional readiness in the age of AI, with a particular focus on systemic risk. Drawing on more than 35 years of experience across banking, finance, public administration, and business in Uzbekistan and the CIS, he develops practical approaches to assessing the institutional limits of AI governance. He is the author of the "Beyond Control" essay series, which advances a structural theory of the limits of AI governance.*
